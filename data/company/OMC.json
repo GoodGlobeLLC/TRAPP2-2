@@ -1,0 +1,24 @@
+{
+  "ticker": "OMC",
+  "qid": "Q1519267",
+  "fetchedAt": "2026-05-29T08:41:51.677546Z",
+  "source": "wikidata",
+  "name": "Omnicom Group",
+  "description": "US global media, marketing and corporate communications holding company",
+  "website": "https://www.omnicomgroup.com/",
+  "isin": "US6819191064",
+  "inception": "1986-01-01",
+  "employees": null,
+  "industry": "public relations",
+  "headquarters": "New York City",
+  "executives": [
+    {
+      "name": "John D. Wren",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

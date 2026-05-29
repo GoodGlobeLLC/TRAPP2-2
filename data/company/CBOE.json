@@ -1,0 +1,19 @@
+{
+  "ticker": "CBOE",
+  "qid": "Q1071853",
+  "fetchedAt": "2026-05-29T08:32:03.772096Z",
+  "source": "wikidata",
+  "name": "Chicago Board Options Exchange",
+  "description": "Options Exchange located in Chicago, Illinois, United States",
+  "website": "https://markets.cboe.com/",
+  "isin": null,
+  "inception": "1973-01-01",
+  "employees": null,
+  "industry": "financial services",
+  "headquarters": "Chicago",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

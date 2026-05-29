@@ -1,0 +1,23 @@
+{
+  "ticker": "HMC",
+  "qid": "Q1593511",
+  "fetchedAt": "2026-05-29T08:17:41.751916Z",
+  "source": "wikidata",
+  "name": "Heerema Marine Contractors",
+  "description": "Dutch offshore company",
+  "website": "http://hmc.heerema.com/",
+  "isin": null,
+  "inception": "1948-01-01",
+  "employees": 1000,
+  "industry": "petroleum industry",
+  "headquarters": "Leiden",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Pieter Schelte Heerema"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

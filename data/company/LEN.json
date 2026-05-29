@@ -1,0 +1,77 @@
+{
+  "ticker": "LEN",
+  "qid": "Q14799",
+  "fetchedAt": "2026-05-29T08:35:08.797362Z",
+  "source": "wikidata",
+  "name": "Lenovo",
+  "description": "Chinese multinational technology company established in 1984",
+  "website": "https://www.lenovo.com/",
+  "isin": "HK0992009065",
+  "inception": "1984-01-01",
+  "employees": 77000,
+  "industry": "computer hardware industry",
+  "headquarters": "Beijing",
+  "executives": [
+    {
+      "name": "Yang Yuanqing",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Liu Chuanzhi"
+    }
+  ],
+  "products": [
+    {
+      "name": "tablet computer"
+    },
+    {
+      "name": "consumer electronics"
+    },
+    {
+      "name": "peripheral"
+    },
+    {
+      "name": "netbook"
+    },
+    {
+      "name": "image scanner"
+    },
+    {
+      "name": "computer storage media"
+    },
+    {
+      "name": "desktop computer"
+    },
+    {
+      "name": "smartphone"
+    },
+    {
+      "name": "television set"
+    },
+    {
+      "name": "server"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "computer hardware"
+    },
+    {
+      "name": "laptop"
+    },
+    {
+      "name": "television"
+    },
+    {
+      "name": "printer"
+    },
+    {
+      "name": "computer"
+    }
+  ],
+  "countries": []
+}

@@ -1,0 +1,110 @@
+{
+  "ticker": "DELL",
+  "qid": "Q30873",
+  "fetchedAt": "2026-05-29T08:24:56.786935Z",
+  "source": "wikidata",
+  "name": "Dell",
+  "description": "American multinational computer technology corporation",
+  "website": "https://www.dell.com/",
+  "isin": "US24703L1036",
+  "inception": "1984-05-03",
+  "employees": 165000,
+  "industry": "computer hardware industry",
+  "headquarters": "Round Rock",
+  "executives": [
+    {
+      "name": "Michael Dell",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [
+    {
+      "name": "David Grain",
+      "role": "Board Member"
+    },
+    {
+      "name": "Egon Durban",
+      "role": "Board Member"
+    },
+    {
+      "name": "Lynn Vojvodich",
+      "role": "Board Member"
+    },
+    {
+      "name": "Simon Patterson",
+      "role": "Board Member"
+    },
+    {
+      "name": "David Dorman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Bill Green",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ellen Kullman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Michael Dell",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Michael Dell"
+    }
+  ],
+  "products": [
+    {
+      "name": "networking hardware"
+    },
+    {
+      "name": "peripheral"
+    },
+    {
+      "name": "motherboard"
+    },
+    {
+      "name": "desktop computer"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "server computer"
+    },
+    {
+      "name": "data storage medium"
+    },
+    {
+      "name": "computer system"
+    },
+    {
+      "name": "computer monitor"
+    },
+    {
+      "name": "smartphone"
+    },
+    {
+      "name": "computer keyboard"
+    },
+    {
+      "name": "laptop"
+    },
+    {
+      "name": "sound card"
+    },
+    {
+      "name": "computer mouse"
+    },
+    {
+      "name": "printer"
+    },
+    {
+      "name": "computer"
+    }
+  ],
+  "countries": []
+}

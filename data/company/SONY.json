@@ -1,0 +1,59 @@
+{
+  "ticker": "SONY",
+  "qid": "Q41187",
+  "fetchedAt": "2026-05-29T08:40:15.784571Z",
+  "source": "wikidata",
+  "name": "Sony Group",
+  "description": "Japanese multinational conglomerate corporation",
+  "website": "https://www.sony.co.in/",
+  "isin": "JP3435000009",
+  "inception": "1946-05-07",
+  "employees": 112300,
+  "industry": "electrical industry",
+  "headquarters": "Minato",
+  "executives": [
+    {
+      "name": "Kenichiro Yoshida",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Masaru Ibuka"
+    },
+    {
+      "name": "Akio Morita"
+    }
+  ],
+  "products": [
+    {
+      "name": "semiconductor"
+    },
+    {
+      "name": "consumer electronics"
+    },
+    {
+      "name": "Sony Alpha"
+    },
+    {
+      "name": "single-lens reflex camera"
+    },
+    {
+      "name": "video game"
+    },
+    {
+      "name": "telecommunications device"
+    },
+    {
+      "name": "photocopier"
+    },
+    {
+      "name": "computer hardware"
+    },
+    {
+      "name": "software"
+    }
+  ],
+  "countries": []
+}

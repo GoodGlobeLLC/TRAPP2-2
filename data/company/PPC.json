@@ -1,0 +1,31 @@
+{
+  "ticker": "PPC",
+  "qid": "Q326345",
+  "fetchedAt": "2026-05-29T08:22:28.638951Z",
+  "source": "wikidata",
+  "name": "Public Power Corporation SA",
+  "description": "Greek state-owned electricity company",
+  "website": "https://www.dei.gr/el",
+  "isin": "GRS434003000",
+  "inception": "1950-01-01",
+  "employees": 16747,
+  "industry": "energy industry",
+  "headquarters": "Athens",
+  "executives": [
+    {
+      "name": "Georgios Stassis",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "electrical energy"
+    },
+    {
+      "name": "natural gas"
+    }
+  ],
+  "countries": []
+}
