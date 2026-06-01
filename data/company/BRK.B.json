@@ -1,7 +1,7 @@
 {
   "ticker": "BRK.B",
   "qid": "Q217583",
-  "fetchedAt": "2026-05-29T08:11:33.610619Z",
+  "fetchedAt": "2026-06-01T06:55:57.062228Z",
   "source": "wikidata",
   "name": "Berkshire Hathaway",
   "description": "American multinational conglomerate holding company",
@@ -9,7 +9,7 @@
   "isin": "US0846701086",
   "inception": "1839-01-01",
   "employees": 360000,
-  "industry": "insurance",
+  "industry": "aircraft industry",
   "headquarters": "Omaha",
   "executives": [
     {

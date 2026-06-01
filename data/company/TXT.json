@@ -1,7 +1,7 @@
 {
   "ticker": "TXT",
   "qid": "Q2140315",
-  "fetchedAt": "2026-05-29T08:26:03.632999Z",
+  "fetchedAt": "2026-06-01T07:08:00.418028Z",
   "source": "wikidata",
   "name": "Textron",
   "description": "American industrial conglomerate",
@@ -10,7 +10,7 @@
   "inception": "1923-01-01",
   "employees": 40000,
   "industry": "automotive industry",
-  "headquarters": "Rhode Island",
+  "headquarters": "Providence",
   "executives": [],
   "board": [],
   "founders": [

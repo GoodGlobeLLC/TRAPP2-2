@@ -1,7 +1,7 @@
 {
   "ticker": "KR",
   "qid": "Q153417",
-  "fetchedAt": "2026-05-29T08:23:44.844248Z",
+  "fetchedAt": "2026-06-01T07:05:59.904607Z",
   "source": "wikidata",
   "name": "Kroger",
   "description": "American multinational retailing company",
@@ -18,6 +18,26 @@
     }
   ],
   "board": [
+    {
+      "name": "Amanda Sourry",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ron Sargent",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ashok Vemuri",
+      "role": "Board Member"
+    },
+    {
+      "name": "Rodney McMullen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Elaine Chao",
+      "role": "Board Member"
+    },
     {
       "name": "Mark Sutton",
       "role": "Board Member"
@@ -40,26 +60,6 @@
     },
     {
       "name": "Nora Aufreiter",
-      "role": "Board Member"
-    },
-    {
-      "name": "Amanda Sourry",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ron Sargent",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ashok Vemuri",
-      "role": "Board Member"
-    },
-    {
-      "name": "Rodney McMullen",
-      "role": "Board Member"
-    },
-    {
-      "name": "Elaine Chao",
       "role": "Board Member"
     }
   ],

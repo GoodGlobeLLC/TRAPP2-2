@@ -1,7 +1,7 @@
 {
   "ticker": "SONY",
   "qid": "Q41187",
-  "fetchedAt": "2026-05-29T08:40:15.784571Z",
+  "fetchedAt": "2026-06-01T07:21:33.960260Z",
   "source": "wikidata",
   "name": "Sony Group",
   "description": "Japanese multinational conglomerate corporation",
@@ -28,7 +28,7 @@
   ],
   "products": [
     {
-      "name": "semiconductor"
+      "name": "telecommunications device"
     },
     {
       "name": "consumer electronics"
@@ -40,19 +40,19 @@
       "name": "single-lens reflex camera"
     },
     {
-      "name": "video game"
-    },
-    {
-      "name": "telecommunications device"
-    },
-    {
       "name": "photocopier"
     },
     {
-      "name": "computer hardware"
+      "name": "semiconductor"
+    },
+    {
+      "name": "video game"
     },
     {
       "name": "software"
+    },
+    {
+      "name": "computer hardware"
     }
   ],
   "countries": []

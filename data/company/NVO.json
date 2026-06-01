@@ -1,7 +1,7 @@
 {
   "ticker": "NVO",
   "qid": "Q818846",
-  "fetchedAt": "2026-05-29T08:19:41.652847Z",
+  "fetchedAt": "2026-06-01T07:02:34.154684Z",
   "source": "wikidata",
   "name": "Novo Nordisk",
   "description": "Danish pharmaceutical company",
@@ -49,6 +49,12 @@
       "name": "preproinsulin"
     },
     {
+      "name": "liraglutide"
+    },
+    {
+      "name": "sex steroid"
+    },
+    {
       "name": "recombinant factor VIIa"
     },
     {
@@ -62,12 +68,6 @@
     },
     {
       "name": "Insulin degludec/insulin aspart"
-    },
-    {
-      "name": "liraglutide"
-    },
-    {
-      "name": "sex steroid"
     },
     {
       "name": "insulin detemir"

@@ -1,7 +1,7 @@
 {
   "ticker": "NDAQ",
   "qid": "Q1472929",
-  "fetchedAt": "2026-05-29T08:45:14.775333Z",
+  "fetchedAt": "2026-06-01T07:26:33.930867Z",
   "source": "wikidata",
   "name": "Nasdaq, Inc.",
   "description": "American multinational financial technology services corporation",
@@ -21,13 +21,13 @@
   "founders": [],
   "products": [
     {
+      "name": "stock exchange"
+    },
+    {
       "name": "fintech"
     },
     {
       "name": "derivative"
-    },
-    {
-      "name": "stock exchange"
     }
   ],
   "countries": []
