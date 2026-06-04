@@ -66,7 +66,7 @@
       "vix9d_over_vix": 0.835
     },
     "valuation": {
-      "spy_pe": 28.53
+      "spy_pe": 28.28
     },
     "trend": {
       "spy_price": 754.24,
@@ -93,7 +93,7 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-04T05:27:51+00:00",
+  "computed_at": "2026-06-04T17:58:52+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.1429,
@@ -181,5 +181,5 @@
   ],
   "transition_observation_count": 6,
   "transition_warning": "Only 6 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-06-04T05:27:52+00:00"
+  "transitions_computed_at": "2026-06-04T17:58:52+00:00"
 }
