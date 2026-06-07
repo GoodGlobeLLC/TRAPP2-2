@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "regime": "neutral",
   "confidence": 0.879,
   "scores": {
@@ -9,8 +9,8 @@
     "valuation": -1.0,
     "trend": 0.825,
     "breadth": 0.091,
-    "commodity": 0.13,
-    "crypto": -0.823
+    "commodity": 0.132,
+    "crypto": -0.783
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.0843,
-    "risk_on_melt_up": 0.0082,
-    "inflation_shock": 0.136,
-    "recession_fear": 0.0435,
-    "risk_off": 0.2131,
-    "neutral": 0.5149
+    "expansion": 0.0888,
+    "risk_on_melt_up": 0.009,
+    "inflation_shock": 0.1349,
+    "recession_fear": 0.0419,
+    "risk_off": 0.2032,
+    "neutral": 0.5221
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "crypto",
-      "score": -0.823,
+      "score": -0.783,
       "confidence": 1.0,
-      "weight": 0.823,
+      "weight": 0.783,
       "direction": "bearish"
     },
     {
@@ -66,7 +66,7 @@
       "vix9d_over_vix": 1.112
     },
     "valuation": {
-      "spy_pe": 27.11
+      "spy_pe": 26.66
     },
     "trend": {
       "spy_price": 737.55,
@@ -80,55 +80,55 @@
       "n_total": 11
     },
     "commodity": {
-      "copper_60d_return": 0.1218,
+      "copper_60d_return": 0.1255,
       "oil_60d_return": -0.1946,
-      "gold_oil_ratio": 47.903,
-      "gold_oil_zscore": -1.022,
+      "gold_oil_ratio": 48.214,
+      "gold_oil_zscore": -0.996,
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": -0.2528,
-      "btc_pct_from_50dma": -0.217,
-      "eth_30d_return": -0.3362,
+      "btc_30d_return": -0.2297,
+      "btc_pct_from_50dma": -0.188,
+      "eth_30d_return": -0.3093,
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-06T04:42:21+00:00",
+  "computed_at": "2026-06-07T05:13:34+00:00",
   "transitions": {
     "1_step": {
-      "expansion": 0.25,
-      "risk_on_melt_up": 0.125,
-      "inflation_shock": 0.125,
-      "recession_fear": 0.125,
-      "risk_off": 0.125,
-      "neutral": 0.25
+      "expansion": 0.2222,
+      "risk_on_melt_up": 0.1111,
+      "inflation_shock": 0.1111,
+      "recession_fear": 0.1111,
+      "risk_off": 0.1111,
+      "neutral": 0.3333
     },
     "5_step": {
-      "expansion": 0.183,
-      "risk_on_melt_up": 0.1957,
-      "inflation_shock": 0.1373,
-      "recession_fear": 0.1373,
-      "risk_off": 0.1373,
-      "neutral": 0.2093
+      "expansion": 0.1784,
+      "risk_on_melt_up": 0.1904,
+      "inflation_shock": 0.1338,
+      "recession_fear": 0.1338,
+      "risk_off": 0.1338,
+      "neutral": 0.2298
     },
     "20_step": {
-      "expansion": 0.183,
-      "risk_on_melt_up": 0.1961,
-      "inflation_shock": 0.1373,
-      "recession_fear": 0.1373,
-      "risk_off": 0.1373,
-      "neutral": 0.2092
+      "expansion": 0.1783,
+      "risk_on_melt_up": 0.1911,
+      "inflation_shock": 0.1338,
+      "recession_fear": 0.1338,
+      "risk_off": 0.1338,
+      "neutral": 0.2293
     }
   },
   "stationary": {
-    "expansion": 0.183,
-    "risk_on_melt_up": 0.1961,
-    "inflation_shock": 0.1373,
-    "recession_fear": 0.1373,
-    "risk_off": 0.1373,
-    "neutral": 0.2092
+    "expansion": 0.1783,
+    "risk_on_melt_up": 0.1911,
+    "inflation_shock": 0.1338,
+    "recession_fear": 0.1338,
+    "risk_off": 0.1338,
+    "neutral": 0.2293
   },
-  "expected_persistence_days": 1.3,
+  "expected_persistence_days": 1.5,
   "transition_matrix": [
     [
       0.125,
@@ -171,15 +171,15 @@
       0.1667
     ],
     [
-      0.25,
-      0.125,
-      0.125,
-      0.125,
-      0.125,
-      0.25
+      0.2222,
+      0.1111,
+      0.1111,
+      0.1111,
+      0.1111,
+      0.3333
     ]
   ],
-  "transition_observation_count": 8,
-  "transition_warning": "Only 8 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-06-06T04:42:21+00:00"
+  "transition_observation_count": 9,
+  "transition_warning": "Only 9 transitions observed \u2014 need \u226560 for high confidence",
+  "transitions_computed_at": "2026-06-07T05:13:34+00:00"
 }
