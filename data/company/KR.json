@@ -1,7 +1,7 @@
 {
   "ticker": "KR",
   "qid": "Q153417",
-  "fetchedAt": "2026-06-01T07:05:59.904607Z",
+  "fetchedAt": "2026-06-07T20:15:03.425980Z",
   "source": "wikidata",
   "name": "Kroger",
   "description": "American multinational retailing company",
@@ -9,7 +9,7 @@
   "isin": "US5010441013",
   "inception": "1882-01-01",
   "employees": 453000,
-  "industry": "retail",
+  "industry": "manufacture of bakery and farinaceous products",
   "headquarters": "Cincinnati",
   "executives": [
     {

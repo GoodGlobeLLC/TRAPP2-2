@@ -1,7 +1,7 @@
 {
   "ticker": "AZN",
   "qid": "Q731938",
-  "fetchedAt": "2026-06-01T07:02:38.544501Z",
+  "fetchedAt": "2026-06-07T20:09:07.359150Z",
   "source": "wikidata",
   "name": "AstraZeneca",
   "description": "British-Swedish pharmaceutical company",
@@ -10,7 +10,7 @@
   "inception": "1913-01-01",
   "employees": 70600,
   "industry": "pharmaceutical industry",
-  "headquarters": "Cambridge Biomedical Campus",
+  "headquarters": "Cambridge",
   "executives": [
     {
       "name": "Pascal Soriot",

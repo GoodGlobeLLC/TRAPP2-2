@@ -1,7 +1,7 @@
 {
   "ticker": "BRK.A",
   "qid": "Q217583",
-  "fetchedAt": "2026-06-01T06:56:02.138278Z",
+  "fetchedAt": "2026-06-07T19:57:17.248899Z",
   "source": "wikidata",
   "name": "Berkshire Hathaway",
   "description": "American multinational conglomerate holding company",
@@ -9,7 +9,7 @@
   "isin": "US0846701086",
   "inception": "1839-01-01",
   "employees": 360000,
-  "industry": "aircraft industry",
+  "industry": "insurance",
   "headquarters": "Omaha",
   "executives": [
     {
@@ -22,6 +22,22 @@
     }
   ],
   "board": [
+    {
+      "name": "David Gottesman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Howard Graham Buffett",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ajit Jain",
+      "role": "Board Member"
+    },
+    {
+      "name": "Thomas Murphy",
+      "role": "Board Member"
+    },
     {
       "name": "Charlotte M. Guyman",
       "role": "Board Member"
@@ -47,19 +63,23 @@
       "role": "Board Member"
     },
     {
-      "name": "David Gottesman",
+      "name": "Wallace R. Weitz",
       "role": "Board Member"
     },
     {
-      "name": "Howard Graham Buffett",
+      "name": "Thomas S. Murphy, Jr.",
       "role": "Board Member"
     },
     {
-      "name": "Ajit Jain",
+      "name": "Warren Buffett",
       "role": "Board Member"
     },
     {
-      "name": "Thomas Murphy",
+      "name": "Chris Davis",
+      "role": "Board Member"
+    },
+    {
+      "name": "Meryl B. Witmer",
       "role": "Board Member"
     },
     {
@@ -71,27 +91,7 @@
       "role": "Board Member"
     },
     {
-      "name": "Warren Buffett",
-      "role": "Board Member"
-    },
-    {
       "name": "Kenneth Chenault",
-      "role": "Board Member"
-    },
-    {
-      "name": "Wallace R. Weitz",
-      "role": "Board Member"
-    },
-    {
-      "name": "Thomas S. Murphy, Jr.",
-      "role": "Board Member"
-    },
-    {
-      "name": "Chris Davis",
-      "role": "Board Member"
-    },
-    {
-      "name": "Meryl B. Witmer",
       "role": "Board Member"
     }
   ],

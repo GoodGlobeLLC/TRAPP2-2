@@ -1,7 +1,7 @@
 {
   "ticker": "BOE",
   "qid": "Q66",
-  "fetchedAt": "2026-06-01T07:06:55.682815Z",
+  "fetchedAt": "2026-06-07T20:16:57.077104Z",
   "source": "wikidata",
   "name": "Boeing",
   "description": "American global aerospace and defense corporation",
@@ -9,7 +9,7 @@
   "isin": "US0970231058",
   "inception": "1916-07-15",
   "employees": 171000,
-  "industry": "aircraft construction",
+  "industry": "aerospace industry",
   "headquarters": "Chicago",
   "executives": [
     {
@@ -78,18 +78,6 @@
   ],
   "products": [
     {
-      "name": "Boeing CH-47 Chinook"
-    },
-    {
-      "name": "Hughes AH-64 Apache"
-    },
-    {
-      "name": "McDonnell Douglas F/A-18 Hornet"
-    },
-    {
-      "name": "McDonnell Douglas F-15 Eagle"
-    },
-    {
       "name": "Boeing 720"
     },
     {
@@ -102,13 +90,19 @@
       "name": "Boeing C-17 Globemaster III"
     },
     {
+      "name": "Boeing CH-47 Chinook"
+    },
+    {
+      "name": "Hughes AH-64 Apache"
+    },
+    {
+      "name": "McDonnell Douglas F/A-18 Hornet"
+    },
+    {
+      "name": "McDonnell Douglas F-15 Eagle"
+    },
+    {
       "name": "Boeing 787 Dreamliner"
-    },
-    {
-      "name": "Boeing 777"
-    },
-    {
-      "name": "Boeing 717"
     },
     {
       "name": "Boeing 767"
@@ -117,10 +111,16 @@
       "name": "Boeing 757"
     },
     {
-      "name": "Boeing 707"
+      "name": "Boeing 717"
     },
     {
       "name": "Boeing 727"
+    },
+    {
+      "name": "Boeing 777"
+    },
+    {
+      "name": "Boeing 707"
     },
     {
       "name": "Boeing 737"
