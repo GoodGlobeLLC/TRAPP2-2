@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-01T09:56:26.184631Z",
+  "fetchedAt": "2026-06-08T09:07:47.630738Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -19,9 +19,9 @@
         ],
         "education": [
           "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
         ],
         "employers": [
           {
@@ -78,9 +78,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
           "entrepreneur",
+          "donor",
           "businessperson",
-          "inventor",
-          "donor"
+          "inventor"
         ],
         "education": [
           "McGill University",
@@ -134,6 +134,11 @@
         ],
         "employers": [
           {
+            "company": "University of Michigan",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
             "end": null
@@ -145,11 +150,6 @@
           },
           {
             "company": "Brigham and Women's Hospital",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -172,9 +172,9 @@
           "chemical engineer",
           "university teacher",
           "biochemist",
+          "engineer",
           "biotechnologist",
-          "inventor",
-          "engineer"
+          "inventor"
         ],
         "education": [
           "The Milne School",
@@ -260,9 +260,9 @@
         ],
         "education": [
           "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
         ],
         "employers": [
           {

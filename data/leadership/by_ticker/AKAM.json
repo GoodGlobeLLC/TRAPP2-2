@@ -1,6 +1,6 @@
 {
   "ticker": "AKAM",
-  "fetchedAt": "2026-06-01T09:56:26.168295Z",
+  "fetchedAt": "2026-06-08T09:07:47.618027Z",
   "people": [
     {
       "qid": "Q5424058",
@@ -192,8 +192,8 @@
           "Samuel Curtis Johnson Graduate School of Management",
           "University of Notre Dame",
           "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology",
-          "Cornell University"
+          "Cornell University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -312,8 +312,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [

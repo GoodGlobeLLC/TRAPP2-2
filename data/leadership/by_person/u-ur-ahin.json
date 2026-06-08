@@ -8,12 +8,12 @@
     "oncologist",
     "immunologist",
     "academic",
-    "physician",
-    "university teacher",
-    "chief executive officer",
     "chairman of the executive board",
     "researcher",
-    "entrepreneur"
+    "university teacher",
+    "physician",
+    "entrepreneur",
+    "chief executive officer"
   ],
   "education": [
     "Erich Kastner Gymnasium"

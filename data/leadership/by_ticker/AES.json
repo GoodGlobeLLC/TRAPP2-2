@@ -1,6 +1,6 @@
 {
   "ticker": "AES",
-  "fetchedAt": "2026-06-01T09:56:26.167454Z",
+  "fetchedAt": "2026-06-08T09:07:47.617383Z",
   "people": [
     {
       "qid": "Q125432523",
@@ -443,8 +443,8 @@
         "occupations": [
           "journalist",
           "economist",
-          "politician",
-          "writer"
+          "writer",
+          "politician"
         ],
         "education": [
           "Universidad Metropolitana",

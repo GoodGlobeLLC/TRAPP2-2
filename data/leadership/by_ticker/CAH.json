@@ -1,6 +1,6 @@
 {
   "ticker": "CAH",
-  "fetchedAt": "2026-06-01T09:56:26.173861Z",
+  "fetchedAt": "2026-06-08T09:07:47.622719Z",
   "people": [
     {
       "qid": "Q114395172",
@@ -34,8 +34,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Indiana University",
-          "University of Chicago"
+          "University of Chicago",
+          "Indiana University"
         ],
         "employers": [],
         "positions": []
@@ -110,8 +110,8 @@
           "businessperson"
         ],
         "education": [
-          "DeSales University",
-          "New York University"
+          "New York University",
+          "DeSales University"
         ],
         "employers": [],
         "positions": []
@@ -283,9 +283,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Chicago",
           "Hiram College",
-          "Booth School of Business",
-          "University of Chicago"
+          "Booth School of Business"
         ],
         "employers": [],
         "positions": []
