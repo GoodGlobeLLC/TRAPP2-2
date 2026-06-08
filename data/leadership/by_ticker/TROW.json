@@ -1,6 +1,6 @@
 {
   "ticker": "TROW",
-  "fetchedAt": "2026-06-07T20:07:39.650111Z",
+  "fetchedAt": "2026-06-08T11:33:41.458523Z",
   "people": [
     {
       "qid": "Q4911038",
@@ -18,10 +18,10 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Blakefield",
-          "Tuck School of Business",
           "Johns Hopkins University",
-          "Dartmouth College"
+          "Dartmouth College",
+          "Loyola Blakefield",
+          "Tuck School of Business"
         ],
         "employers": [
           {

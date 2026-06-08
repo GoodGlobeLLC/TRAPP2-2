@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-07T20:07:39.652460Z",
+  "fetchedAt": "2026-06-08T11:33:41.461576Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,8 +14,8 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "engineer",
           "businessperson"
         ],
@@ -65,9 +65,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "Birla Institute of Technology and Science",
           "Carnegie Mellon University",
-          "University of Massachusetts Amherst",
-          "Birla Institute of Technology and Science"
+          "University of Massachusetts Amherst"
         ],
         "employers": [
           {
@@ -226,16 +226,16 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Stanford Law School",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Chicago"
+          "University of Chicago",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -318,8 +318,8 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "engineer",
           "businessperson"
         ],
@@ -383,8 +383,8 @@
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [

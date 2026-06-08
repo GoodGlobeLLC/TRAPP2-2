@@ -1,6 +1,6 @@
 {
   "ticker": "NOK",
-  "fetchedAt": "2026-06-07T20:07:39.644631Z",
+  "fetchedAt": "2026-06-08T11:33:41.446582Z",
   "people": [
     {
       "qid": "Q2794297",
@@ -39,8 +39,8 @@
           "physicist"
         ],
         "education": [
-          "Missouri University of Science and Technology",
-          "University of Chicago"
+          "University of Chicago",
+          "Missouri University of Science and Technology"
         ],
         "employers": [
           {
