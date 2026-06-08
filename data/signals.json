@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-06-07T19:56:31.526958Z",
+  "updatedAt": "2026-06-08T05:18:48.645064Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
@@ -59,25 +59,25 @@
       }
     },
     "commodity": {
-      "raw": 0.13166022331179333,
+      "raw": 0.30059333252890735,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "copper_60d_return": 0.1255,
-        "oil_60d_return": -0.1946,
-        "gold_oil_ratio": 48.214,
-        "gold_oil_zscore": -0.996,
+        "copper_60d_return": 0.091,
+        "oil_60d_return": -0.0346,
+        "gold_oil_ratio": 45.895,
+        "gold_oil_zscore": -1.185,
         "n_components": 3
       }
     },
     "crypto": {
-      "raw": -0.7829468030504653,
+      "raw": -0.7602918874195748,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "btc_30d_return": -0.2297,
-        "btc_pct_from_50dma": -0.188,
-        "eth_30d_return": -0.3093,
+        "btc_30d_return": -0.2236,
+        "btc_pct_from_50dma": -0.1737,
+        "eth_30d_return": -0.2899,
         "n_components": 3
       }
     }
