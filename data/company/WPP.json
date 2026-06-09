@@ -1,7 +1,7 @@
 {
   "ticker": "WPP",
   "qid": "Q1318049",
-  "fetchedAt": "2026-06-09T01:32:34.489331Z",
+  "fetchedAt": "2026-06-09T05:27:58.274869Z",
   "source": "wikidata",
   "name": "WPP plc",
   "description": "British multinational advertising and public relations company",
@@ -10,7 +10,7 @@
   "inception": "1971-01-01",
   "employees": 109000,
   "industry": "marketing",
-  "headquarters": "London",
+  "headquarters": "Saint Helier",
   "executives": [
     {
       "name": "Mark Read",

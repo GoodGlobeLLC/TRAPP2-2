@@ -1,7 +1,7 @@
 {
   "ticker": "PPC",
   "qid": "Q326345",
-  "fetchedAt": "2026-06-09T00:57:33.880589Z",
+  "fetchedAt": "2026-06-09T05:08:41.519557Z",
   "source": "wikidata",
   "name": "Public Power Corporation SA",
   "description": "Greek state-owned electricity company",
@@ -21,10 +21,10 @@
   "founders": [],
   "products": [
     {
-      "name": "natural gas"
+      "name": "electrical energy"
     },
     {
-      "name": "electrical energy"
+      "name": "natural gas"
     }
   ],
   "countries": []

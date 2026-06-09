@@ -1,7 +1,7 @@
 {
   "ticker": "BG",
   "qid": "Q1009458",
-  "fetchedAt": "2026-06-09T00:57:16.529848Z",
+  "fetchedAt": "2026-06-09T05:08:24.658184Z",
   "source": "wikidata",
   "name": "Bunge Limited",
   "description": "global agribusiness and food company",
@@ -16,10 +16,10 @@
   "founders": [],
   "products": [
     {
-      "name": "soybean"
+      "name": "canola"
     },
     {
-      "name": "canola"
+      "name": "soybean"
     }
   ],
   "countries": []

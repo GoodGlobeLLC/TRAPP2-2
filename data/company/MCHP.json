@@ -1,7 +1,7 @@
 {
   "ticker": "MCHP",
   "qid": "Q1545076",
-  "fetchedAt": "2026-06-09T00:50:46.031788Z",
+  "fetchedAt": "2026-06-09T05:00:27.837806Z",
   "source": "wikidata",
   "name": "Microchip Technology",
   "description": "American integrated circuit company",
@@ -9,7 +9,7 @@
   "isin": "US5950171042",
   "inception": "1989-01-01",
   "employees": 19500,
-  "industry": "semiconductor industry",
+  "industry": "electronics",
   "headquarters": "Chandler",
   "executives": [
     {

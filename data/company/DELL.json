@@ -1,7 +1,7 @@
 {
   "ticker": "DELL",
   "qid": "Q30873",
-  "fetchedAt": "2026-06-09T01:02:11.346018Z",
+  "fetchedAt": "2026-06-09T05:10:52.194281Z",
   "source": "wikidata",
   "name": "Dell",
   "description": "American multinational computer technology corporation",
@@ -70,10 +70,7 @@
       "name": "peripheral"
     },
     {
-      "name": "computer mouse"
-    },
-    {
-      "name": "desktop computer"
+      "name": "smartphone"
     },
     {
       "name": "networking hardware"
@@ -82,19 +79,22 @@
       "name": "software"
     },
     {
-      "name": "motherboard"
-    },
-    {
-      "name": "smartphone"
-    },
-    {
-      "name": "laptop"
+      "name": "desktop computer"
     },
     {
       "name": "computer monitor"
     },
     {
+      "name": "computer mouse"
+    },
+    {
+      "name": "laptop"
+    },
+    {
       "name": "sound card"
+    },
+    {
+      "name": "motherboard"
     },
     {
       "name": "computer keyboard"

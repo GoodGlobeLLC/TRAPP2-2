@@ -1,7 +1,7 @@
 {
   "ticker": "AKAM",
   "qid": "Q415598",
-  "fetchedAt": "2026-06-09T00:49:39.071635Z",
+  "fetchedAt": "2026-06-09T04:55:53.152267Z",
   "source": "wikidata",
   "name": "Akamai Technologies",
   "description": "American content delivery network, cybersecurity, and cloud service company",
@@ -10,7 +10,7 @@
   "inception": "1998-01-01",
   "employees": 8368,
   "industry": "Internet industry",
-  "headquarters": "Massachusetts",
+  "headquarters": "Cambridge",
   "executives": [
     {
       "name": "F. Thomson Leighton",

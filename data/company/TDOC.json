@@ -1,7 +1,7 @@
 {
   "ticker": "TDOC",
   "qid": "Q20715093",
-  "fetchedAt": "2026-06-09T01:29:20.327084Z",
+  "fetchedAt": "2026-06-09T05:26:02.896681Z",
   "source": "wikidata",
   "name": "Teladoc",
   "description": "American healthcare company",
@@ -9,7 +9,7 @@
   "isin": "US87918A1051",
   "inception": "2002-01-01",
   "employees": null,
-  "industry": "medicine",
+  "industry": "health care",
   "headquarters": "Purchase",
   "executives": [],
   "board": [],

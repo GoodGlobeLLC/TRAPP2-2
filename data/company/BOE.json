@@ -1,7 +1,7 @@
 {
   "ticker": "BOE",
   "qid": "Q66",
-  "fetchedAt": "2026-06-09T01:02:04.393948Z",
+  "fetchedAt": "2026-06-09T05:10:45.235771Z",
   "source": "wikidata",
   "name": "Boeing",
   "description": "American global aerospace and defense corporation",
@@ -9,7 +9,7 @@
   "isin": "US0970231058",
   "inception": "1916-07-15",
   "employees": 171000,
-  "industry": "aerospace industry",
+  "industry": "aircraft industry",
   "headquarters": "Chicago",
   "executives": [
     {
@@ -18,6 +18,14 @@
     }
   ],
   "board": [
+    {
+      "name": "John M. Richardson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Edmund Giambastiani",
+      "role": "Board Member"
+    },
     {
       "name": "Dave Gitlin",
       "role": "Board Member"
@@ -61,14 +69,6 @@
     {
       "name": "Larry Kellner",
       "role": "Board Member"
-    },
-    {
-      "name": "John M. Richardson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Edmund Giambastiani",
-      "role": "Board Member"
     }
   ],
   "founders": [
@@ -78,16 +78,16 @@
   ],
   "products": [
     {
-      "name": "space technology"
+      "name": "Boeing P-8 Poseidon"
     },
     {
-      "name": "Boeing C-17 Globemaster III"
+      "name": "space technology"
     },
     {
       "name": "Boeing 720"
     },
     {
-      "name": "Boeing P-8 Poseidon"
+      "name": "Boeing C-17 Globemaster III"
     },
     {
       "name": "Boeing CH-47 Chinook"
@@ -99,16 +99,16 @@
       "name": "McDonnell Douglas F/A-18 Hornet"
     },
     {
-      "name": "Boeing 787 Dreamliner"
+      "name": "McDonnell Douglas F-15 Eagle"
     },
     {
-      "name": "McDonnell Douglas F-15 Eagle"
+      "name": "Boeing 787 Dreamliner"
     },
     {
       "name": "Boeing 777"
     },
     {
-      "name": "Boeing 727"
+      "name": "Boeing 707"
     },
     {
       "name": "Boeing 767"
@@ -120,7 +120,7 @@
       "name": "Boeing 717"
     },
     {
-      "name": "Boeing 707"
+      "name": "Boeing 727"
     },
     {
       "name": "Boeing 737"

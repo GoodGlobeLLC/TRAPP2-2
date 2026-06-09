@@ -1,7 +1,7 @@
 {
   "ticker": "AZN",
   "qid": "Q731938",
-  "fetchedAt": "2026-06-09T00:54:53.194786Z",
+  "fetchedAt": "2026-06-09T05:06:23.402329Z",
   "source": "wikidata",
   "name": "AstraZeneca",
   "description": "British-Swedish pharmaceutical company",
@@ -31,10 +31,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Tony Mok",
-      "role": "Board Member"
-    },
-    {
       "name": "Pascal Soriot",
       "role": "Board Member"
     },
@@ -52,6 +48,10 @@
     },
     {
       "name": "Leif Johansson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Tony Mok",
       "role": "Board Member"
     }
   ],
