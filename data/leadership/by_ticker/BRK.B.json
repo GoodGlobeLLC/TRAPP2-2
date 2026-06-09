@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-06-08T09:07:47.622063Z",
+  "fetchedAt": "2026-06-09T00:57:33.879433Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -62,20 +62,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "entrepreneur",
           "financier",
           "investor",
-          "economist",
+          "entrepreneur",
           "chief executive officer",
-          "shareholder"
+          "shareholder",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -130,10 +130,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "entrepreneur",
           "farmer",
-          "writer",
-          "photographer"
+          "photographer",
+          "entrepreneur",
+          "writer"
         ],
         "education": [
           "Harvard University"
@@ -164,9 +164,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
+          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
-          "Indian Institute of Technology Kharagpur"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -482,20 +482,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "entrepreneur",
           "financier",
           "investor",
-          "economist",
+          "entrepreneur",
           "chief executive officer",
-          "shareholder"
+          "shareholder",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [

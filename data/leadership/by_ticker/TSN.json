@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-06-08T11:33:41.458700Z",
+  "fetchedAt": "2026-06-09T00:54:43.947955Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -83,6 +83,28 @@
       }
     },
     {
+      "qid": "Q114818700",
+      "name": "Les Baledge",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114818700",
+        "name": "Les Baledge",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Westminster College",
+          "University of Arkansas"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q114818550",
       "name": "Noel White",
       "role_at_company": "Board Member",
@@ -124,6 +146,11 @@
         ],
         "employers": [
           {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
+          },
+          {
             "company": "Microsoft",
             "start": "2003-06-01",
             "end": "2009-09-01"
@@ -142,11 +169,6 @@
             "company": "Salesforce",
             "start": "2010-02-01",
             "end": "2018-04-01"
-          },
-          {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
           }
         ],
         "positions": []
@@ -227,9 +249,9 @@
         "occupations": [
           "prosecutor",
           "governor",
-          "lawyer",
           "jurist",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "University of Arkansas School of Law",
@@ -268,8 +290,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford Graduate School of Business",
-          "Harvard University"
+          "Harvard University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {

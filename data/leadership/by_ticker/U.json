@@ -1,6 +1,6 @@
 {
   "ticker": "U",
-  "fetchedAt": "2026-06-08T11:33:41.459579Z",
+  "fetchedAt": "2026-06-09T00:54:43.948529Z",
   "people": [
     {
       "qid": "Q5300803",
@@ -59,9 +59,9 @@
         ],
         "employers": [
           {
-            "company": "America West Airlines",
-            "start": "1995-01-01",
-            "end": "2006-01-01"
+            "company": "US Airways",
+            "start": "2006-09-01",
+            "end": "2013-01-01"
           },
           {
             "company": "American Airlines",
@@ -74,9 +74,9 @@
             "end": null
           },
           {
-            "company": "US Airways",
-            "start": "2006-09-01",
-            "end": "2013-01-01"
+            "company": "America West Airlines",
+            "start": "1995-01-01",
+            "end": "2006-01-01"
           }
         ],
         "positions": []

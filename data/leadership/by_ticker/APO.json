@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-06-08T09:07:47.618873Z",
+  "fetchedAt": "2026-06-09T00:57:33.875098Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -55,11 +55,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "businessperson",
           "art collector",
           "investment banker",
-          "financier"
+          "financier",
+          "investor",
+          "businessperson"
         ],
         "education": [
           "Van High School",
@@ -82,12 +82,6 @@
         ],
         "positions": [
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
-            "end": "2021-01-01"
-          },
-          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -97,6 +91,12 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
+            "end": "2021-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]
@@ -236,11 +236,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "businessperson",
           "art collector",
           "investment banker",
-          "financier"
+          "financier",
+          "investor",
+          "businessperson"
         ],
         "education": [
           "Van High School",
@@ -263,12 +263,6 @@
         ],
         "positions": [
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
-            "end": "2021-01-01"
-          },
-          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -278,6 +272,12 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
+            "end": "2021-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]
