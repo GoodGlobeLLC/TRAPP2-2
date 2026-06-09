@@ -1,7 +1,7 @@
 {
   "ticker": "PPC",
   "qid": "Q326345",
-  "fetchedAt": "2026-06-07T20:12:38.965620Z",
+  "fetchedAt": "2026-06-09T00:57:33.880589Z",
   "source": "wikidata",
   "name": "Public Power Corporation SA",
   "description": "Greek state-owned electricity company",
@@ -9,7 +9,7 @@
   "isin": "GRS434003000",
   "inception": "1950-01-01",
   "employees": 16747,
-  "industry": "mining",
+  "industry": "energy industry",
   "headquarters": "Athens",
   "executives": [
     {

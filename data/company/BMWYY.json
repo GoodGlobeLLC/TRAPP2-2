@@ -1,7 +1,7 @@
 {
   "ticker": "BMWYY",
   "qid": "Q26678",
-  "fetchedAt": "2026-06-07T20:00:08.911329Z",
+  "fetchedAt": "2026-06-09T00:49:20.917127Z",
   "source": "wikidata",
   "name": "BMW",
   "description": "German automobile manufacturer, and conglomerate",
@@ -9,7 +9,7 @@
   "isin": "DE0005190037",
   "inception": "1916-03-07",
   "employees": 149475,
-  "industry": "activities of holding companies",
+  "industry": "automotive industry",
   "headquarters": "Munich",
   "executives": [
     {

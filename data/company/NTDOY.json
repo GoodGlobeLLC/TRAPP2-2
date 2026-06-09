@@ -1,7 +1,7 @@
 {
   "ticker": "NTDOY",
   "qid": "Q8093",
-  "fetchedAt": "2026-06-01T07:25:31.750586Z",
+  "fetchedAt": "2026-06-09T01:35:15.086071Z",
   "source": "wikidata",
   "name": "Nintendo",
   "description": "Japanese multinational video game and consumer electronics company",
@@ -28,10 +28,10 @@
       "name": "video game console"
     },
     {
-      "name": "video game"
+      "name": "software"
     },
     {
-      "name": "software"
+      "name": "video game"
     }
   ],
   "countries": []

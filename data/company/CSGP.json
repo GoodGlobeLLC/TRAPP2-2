@@ -1,7 +1,7 @@
 {
   "ticker": "CSGP",
   "qid": "Q16988748",
-  "fetchedAt": "2026-06-01T07:18:02.294478Z",
+  "fetchedAt": "2026-06-09T01:21:51.614512Z",
   "source": "wikidata",
   "name": "CoStar Group",
   "description": "American technology company",
@@ -9,7 +9,7 @@
   "isin": "US22160N1090",
   "inception": "1987-01-01",
   "employees": null,
-  "industry": "real estate industry",
+  "industry": "information technology",
   "headquarters": "Arlington County",
   "executives": [
     {

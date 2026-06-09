@@ -1,7 +1,7 @@
 {
   "ticker": "U",
   "qid": "Q7875835",
-  "fetchedAt": "2026-06-01T07:25:27.868595Z",
+  "fetchedAt": "2026-06-09T01:35:08.143417Z",
   "source": "wikidata",
   "name": "US Airways Group",
   "description": "airline holding company",
@@ -9,7 +9,7 @@
   "isin": null,
   "inception": "1983-01-01",
   "employees": null,
-  "industry": "aviation",
+  "industry": "air transport",
   "headquarters": "Crystal City",
   "executives": [
     {

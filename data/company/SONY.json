@@ -1,7 +1,7 @@
 {
   "ticker": "SONY",
   "qid": "Q41187",
-  "fetchedAt": "2026-06-01T07:21:33.960260Z",
+  "fetchedAt": "2026-06-09T01:29:33.546946Z",
   "source": "wikidata",
   "name": "Sony Group",
   "description": "Japanese multinational conglomerate corporation",
@@ -28,9 +28,6 @@
   ],
   "products": [
     {
-      "name": "telecommunications device"
-    },
-    {
       "name": "consumer electronics"
     },
     {
@@ -43,10 +40,13 @@
       "name": "photocopier"
     },
     {
-      "name": "semiconductor"
+      "name": "telecommunications device"
     },
     {
       "name": "video game"
+    },
+    {
+      "name": "semiconductor"
     },
     {
       "name": "software"

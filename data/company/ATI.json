@@ -1,7 +1,7 @@
 {
   "ticker": "ATI",
   "qid": "Q213849",
-  "fetchedAt": "2026-06-07T20:17:36.354709Z",
+  "fetchedAt": "2026-06-09T01:02:38.078833Z",
   "source": "wikidata",
   "name": "ATI Technologies",
   "description": "Canadian technology corporation",
@@ -20,10 +20,10 @@
   ],
   "products": [
     {
-      "name": "computer hardware"
+      "name": "semiconductor"
     },
     {
-      "name": "semiconductor"
+      "name": "computer hardware"
     }
   ],
   "countries": []

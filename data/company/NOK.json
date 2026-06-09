@@ -1,36 +1,48 @@
 {
   "ticker": "NOK",
-  "qid": "Q217365",
-  "fetchedAt": "2026-06-01T07:11:22.560880Z",
+  "qid": "Q1418",
+  "fetchedAt": "2026-06-09T01:09:50.470623Z",
   "source": "wikidata",
-  "name": "Bell Labs",
-  "description": "research and scientific development company",
-  "website": "https://www.nokia.com/bell-labs/",
-  "isin": null,
-  "inception": "1925-01-01",
-  "employees": null,
-  "industry": "research",
-  "headquarters": "Murray Hill",
+  "name": "Nokia",
+  "description": "Finnish multinational telecommunications and information technology company",
+  "website": "https://www.nokia.com/",
+  "isin": "FI0009000681",
+  "inception": "1865-05-12",
+  "employees": 103083,
+  "industry": "computer network",
+  "headquarters": "Espoo",
   "executives": [
     {
-      "name": "Oliver Ellsworth Buckley",
-      "role": "Chairperson"
+      "name": "Justin Hotard",
+      "role": "Chief Executive Officer"
     },
     {
-      "name": "Mervin Joe Kelly",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Frank B. Jewett",
+      "name": "Sari Baldauf",
       "role": "Chairperson"
     }
   ],
   "board": [],
   "founders": [
     {
-      "name": "Alexander Graham Bell"
+      "name": "Leo Mechelin"
+    },
+    {
+      "name": "Fredrik Idestam"
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "name": "Global System for Mobile Communications"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "headset"
+    },
+    {
+      "name": "smartphone"
+    }
+  ],
   "countries": []
 }

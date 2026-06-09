@@ -1,7 +1,7 @@
 {
   "ticker": "OMC",
   "qid": "Q1519267",
-  "fetchedAt": "2026-06-01T07:23:12.926572Z",
+  "fetchedAt": "2026-06-09T01:32:15.103020Z",
   "source": "wikidata",
   "name": "Omnicom Group",
   "description": "US global media, marketing and corporate communications holding company",
@@ -9,7 +9,7 @@
   "isin": "US6819191064",
   "inception": "1986-01-01",
   "employees": null,
-  "industry": "advertising agency",
+  "industry": "mass media",
   "headquarters": "New York City",
   "executives": [
     {

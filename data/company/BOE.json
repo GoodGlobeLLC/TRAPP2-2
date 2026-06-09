@@ -1,7 +1,7 @@
 {
   "ticker": "BOE",
   "qid": "Q66",
-  "fetchedAt": "2026-06-07T20:16:57.077104Z",
+  "fetchedAt": "2026-06-09T01:02:04.393948Z",
   "source": "wikidata",
   "name": "Boeing",
   "description": "American global aerospace and defense corporation",
@@ -78,16 +78,16 @@
   ],
   "products": [
     {
-      "name": "Boeing 720"
-    },
-    {
-      "name": "Boeing P-8 Poseidon"
-    },
-    {
       "name": "space technology"
     },
     {
       "name": "Boeing C-17 Globemaster III"
+    },
+    {
+      "name": "Boeing 720"
+    },
+    {
+      "name": "Boeing P-8 Poseidon"
     },
     {
       "name": "Boeing CH-47 Chinook"
@@ -99,10 +99,16 @@
       "name": "McDonnell Douglas F/A-18 Hornet"
     },
     {
+      "name": "Boeing 787 Dreamliner"
+    },
+    {
       "name": "McDonnell Douglas F-15 Eagle"
     },
     {
-      "name": "Boeing 787 Dreamliner"
+      "name": "Boeing 777"
+    },
+    {
+      "name": "Boeing 727"
     },
     {
       "name": "Boeing 767"
@@ -112,12 +118,6 @@
     },
     {
       "name": "Boeing 717"
-    },
-    {
-      "name": "Boeing 727"
-    },
-    {
-      "name": "Boeing 777"
     },
     {
       "name": "Boeing 707"
