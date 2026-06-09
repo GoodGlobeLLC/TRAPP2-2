@@ -1,6 +1,6 @@
 {
   "ticker": "PARA",
-  "fetchedAt": "2026-06-08T11:33:41.451996Z",
+  "fetchedAt": "2026-06-09T00:54:43.943917Z",
   "people": [
     {
       "qid": "Q6195201",
@@ -37,8 +37,8 @@
         "birthPlace": "Ricse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Zukor%201921.jpg",
         "occupations": [
-          "film producer",
-          "film director"
+          "film director",
+          "film producer"
         ],
         "education": [],
         "employers": [
