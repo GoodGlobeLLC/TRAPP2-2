@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-06-09T00:50:40.151922Z",
+  "updatedAt": "2026-06-09T16:03:04.066908Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
@@ -34,7 +34,7 @@
       "confidence": 0.7,
       "tier": "LIVE",
       "note": {
-        "spy_pe": 26.66
+        "spy_pe": 26.72
       }
     },
     "trend": {
