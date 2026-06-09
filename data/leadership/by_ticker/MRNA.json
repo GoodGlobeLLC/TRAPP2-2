@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-08T09:07:47.630738Z",
+  "fetchedAt": "2026-06-09T00:49:20.038217Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -77,9 +77,9 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
-          "entrepreneur",
-          "donor",
           "businessperson",
+          "donor",
+          "entrepreneur",
           "inventor"
         ],
         "education": [
@@ -169,11 +169,11 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
-          "chemical engineer",
           "university teacher",
+          "chemical engineer",
           "biochemist",
-          "engineer",
           "biotechnologist",
+          "engineer",
           "inventor"
         ],
         "education": [
@@ -209,9 +209,9 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
-          "professor",
           "researcher",
-          "physician"
+          "physician",
+          "professor"
         ],
         "education": [
           "Hebrew Reali School",
@@ -220,22 +220,22 @@
         ],
         "employers": [
           {
-            "company": "Sanofi",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "GSK",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Moderna",
             "start": null,
             "end": null
           },
           {
             "company": "University of Pennsylvania",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Sanofi",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "GSK",
             "start": null,
             "end": null
           }
@@ -311,21 +311,6 @@
         ],
         "employers": [
           {
-            "company": "Lonza Group",
-            "start": "2020-04-01",
-            "end": "2020-05-17"
-          },
-          {
-            "company": "GSK",
-            "start": "1988-01-01",
-            "end": "2017-01-01"
-          },
-          {
-            "company": "Qatar Foundation",
-            "start": "2009-01-01",
-            "end": "2020-01-01"
-          },
-          {
             "company": "University of Mons",
             "start": null,
             "end": null
@@ -339,6 +324,21 @@
             "company": "International AIDS Vaccine Initiative",
             "start": "2015-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Lonza Group",
+            "start": "2020-04-01",
+            "end": "2020-05-17"
+          },
+          {
+            "company": "GSK",
+            "start": "1988-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "Qatar Foundation",
+            "start": "2009-01-01",
+            "end": "2020-01-01"
           },
           {
             "company": "Intellia Therapeutics",
