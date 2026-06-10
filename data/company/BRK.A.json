@@ -1,7 +1,7 @@
 {
   "ticker": "BRK.A",
   "qid": "Q217583",
-  "fetchedAt": "2026-06-09T04:52:55.605631Z",
+  "fetchedAt": "2026-06-10T05:06:43.958245Z",
   "source": "wikidata",
   "name": "Berkshire Hathaway",
   "description": "American multinational conglomerate holding company",
@@ -23,6 +23,34 @@
   ],
   "board": [
     {
+      "name": "Steve Burke",
+      "role": "Board Member"
+    },
+    {
+      "name": "Charlie Munger",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kenneth Chenault",
+      "role": "Board Member"
+    },
+    {
+      "name": "David Gottesman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Howard Graham Buffett",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ajit Jain",
+      "role": "Board Member"
+    },
+    {
+      "name": "Thomas Murphy",
+      "role": "Board Member"
+    },
+    {
       "name": "Charlotte M. Guyman",
       "role": "Board Member"
     },
@@ -43,39 +71,11 @@
       "role": "Board Member"
     },
     {
-      "name": "Ronald Olson",
-      "role": "Board Member"
-    },
-    {
-      "name": "David Gottesman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Howard Graham Buffett",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ajit Jain",
-      "role": "Board Member"
-    },
-    {
-      "name": "Thomas Murphy",
-      "role": "Board Member"
-    },
-    {
-      "name": "Steve Burke",
-      "role": "Board Member"
-    },
-    {
-      "name": "Charlie Munger",
-      "role": "Board Member"
-    },
-    {
       "name": "Warren Buffett",
       "role": "Board Member"
     },
     {
-      "name": "Kenneth Chenault",
+      "name": "Ronald Olson",
       "role": "Board Member"
     },
     {

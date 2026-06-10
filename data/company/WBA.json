@@ -1,7 +1,7 @@
 {
   "ticker": "WBA",
   "qid": "Q18712620",
-  "fetchedAt": "2026-06-09T05:07:20.804382Z",
+  "fetchedAt": "2026-06-10T05:14:39.893995Z",
   "source": "wikidata",
   "name": "Walgreens Boots Alliance",
   "description": "American holding company",
@@ -18,22 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "David Brailer",
-      "role": "Board Member"
-    },
-    {
-      "name": "Stefano Pessina",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jim Skinner",
-      "role": "Board Member"
-    },
-    {
-      "name": "Valerie Jarrett",
-      "role": "Board Member"
-    },
     {
       "name": "Steven Shulman",
       "role": "Board Member"
@@ -72,6 +56,22 @@
     },
     {
       "name": "Joe Almeida",
+      "role": "Board Member"
+    },
+    {
+      "name": "David Brailer",
+      "role": "Board Member"
+    },
+    {
+      "name": "Stefano Pessina",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jim Skinner",
+      "role": "Board Member"
+    },
+    {
+      "name": "Valerie Jarrett",
       "role": "Board Member"
     }
   ],

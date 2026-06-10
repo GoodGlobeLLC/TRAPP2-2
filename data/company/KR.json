@@ -1,7 +1,7 @@
 {
   "ticker": "KR",
   "qid": "Q153417",
-  "fetchedAt": "2026-06-09T05:09:48.076403Z",
+  "fetchedAt": "2026-06-10T05:17:11.314562Z",
   "source": "wikidata",
   "name": "Kroger",
   "description": "American multinational retailing company",
@@ -9,7 +9,7 @@
   "isin": "US5010441013",
   "inception": "1882-01-01",
   "employees": 453000,
-  "industry": "retail",
+  "industry": "manufacture of bakery and farinaceous products",
   "headquarters": "Cincinnati",
   "executives": [
     {
@@ -18,6 +18,26 @@
     }
   ],
   "board": [
+    {
+      "name": "Amanda Sourry",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ron Sargent",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ashok Vemuri",
+      "role": "Board Member"
+    },
+    {
+      "name": "Rodney McMullen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Elaine Chao",
+      "role": "Board Member"
+    },
     {
       "name": "Mark Sutton",
       "role": "Board Member"
@@ -40,26 +60,6 @@
     },
     {
       "name": "Nora Aufreiter",
-      "role": "Board Member"
-    },
-    {
-      "name": "Amanda Sourry",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ron Sargent",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ashok Vemuri",
-      "role": "Board Member"
-    },
-    {
-      "name": "Rodney McMullen",
-      "role": "Board Member"
-    },
-    {
-      "name": "Elaine Chao",
       "role": "Board Member"
     }
   ],

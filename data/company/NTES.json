@@ -1,7 +1,7 @@
 {
   "ticker": "NTES",
   "qid": "Q196259",
-  "fetchedAt": "2026-06-09T05:29:54.176034Z",
+  "fetchedAt": "2026-06-10T05:49:43.840177Z",
   "source": "wikidata",
   "name": "NetEase",
   "description": "Chinese Internet technology company",
@@ -10,7 +10,7 @@
   "inception": "1997-06-01",
   "employees": 10004,
   "industry": "technology industry",
-  "headquarters": "George Town",
+  "headquarters": "Hangzhou",
   "executives": [
     {
       "name": "Ding Lei",

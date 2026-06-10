@@ -1,7 +1,7 @@
 {
   "ticker": "MRVL",
   "qid": "Q1347782",
-  "fetchedAt": "2026-06-09T04:53:30.061863Z",
+  "fetchedAt": "2026-06-10T05:07:13.098936Z",
   "source": "wikidata",
   "name": "Marvell Technology",
   "description": "American fabless semiconductor company",
@@ -20,15 +20,6 @@
   ],
   "products": [
     {
-      "name": "application-specific integrated circuit"
-    },
-    {
-      "name": "semiconductor device"
-    },
-    {
-      "name": "digital signal processor"
-    },
-    {
       "name": "networking hardware"
     },
     {
@@ -36,6 +27,12 @@
     },
     {
       "name": "memory controller"
+    },
+    {
+      "name": "application-specific integrated circuit"
+    },
+    {
+      "name": "semiconductor device"
     },
     {
       "name": "integrated circuit"
@@ -48,6 +45,9 @@
     },
     {
       "name": "data processing unit"
+    },
+    {
+      "name": "digital signal processor"
     }
   ],
   "countries": []

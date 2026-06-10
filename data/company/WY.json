@@ -1,7 +1,7 @@
 {
   "ticker": "WY",
   "qid": "Q1780382",
-  "fetchedAt": "2026-06-09T05:33:07.048056Z",
+  "fetchedAt": "2026-06-10T05:51:58.592988Z",
   "source": "wikidata",
   "name": "Weyerhaeuser",
   "description": "American timber company",
@@ -10,7 +10,7 @@
   "inception": "1900-01-01",
   "employees": 13200,
   "industry": "pulp and paper industry",
-  "headquarters": "Seattle",
+  "headquarters": "Federal Way",
   "executives": [],
   "board": [
     {

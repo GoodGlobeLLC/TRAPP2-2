@@ -1,7 +1,7 @@
 {
   "ticker": "MRNA",
   "qid": "Q17081612",
-  "fetchedAt": "2026-06-09T05:23:21.164233Z",
+  "fetchedAt": "2026-06-10T05:32:46.976304Z",
   "source": "wikidata",
   "name": "Moderna",
   "description": "American biotechnology company",
@@ -18,6 +18,18 @@
     }
   ],
   "board": [
+    {
+      "name": "Tal Zaks",
+      "role": "Board Member"
+    },
+    {
+      "name": "St\u00e9phane Bancel",
+      "role": "Board Member"
+    },
+    {
+      "name": "Moncef Slaoui",
+      "role": "Board Member"
+    },
     {
       "name": "Israel Ruiz",
       "role": "Board Member"
@@ -36,18 +48,6 @@
     },
     {
       "name": "Robert S. Langer, Jr.",
-      "role": "Board Member"
-    },
-    {
-      "name": "Tal Zaks",
-      "role": "Board Member"
-    },
-    {
-      "name": "St\u00e9phane Bancel",
-      "role": "Board Member"
-    },
-    {
-      "name": "Moncef Slaoui",
       "role": "Board Member"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "ticker": "CHKP",
   "qid": "Q176587",
-  "fetchedAt": "2026-06-09T05:28:28.925539Z",
+  "fetchedAt": "2026-06-10T05:48:06.830803Z",
   "source": "wikidata",
   "name": "Check Point",
   "description": "Israeli security company",
@@ -26,10 +26,10 @@
   ],
   "products": [
     {
-      "name": "software"
+      "name": "networking hardware"
     },
     {
-      "name": "networking hardware"
+      "name": "software"
     }
   ],
   "countries": []

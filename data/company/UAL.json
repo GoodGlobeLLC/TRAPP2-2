@@ -1,7 +1,7 @@
 {
   "ticker": "UAL",
   "qid": "Q174769",
-  "fetchedAt": "2026-06-09T04:54:20.294820Z",
+  "fetchedAt": "2026-06-10T05:07:52.784884Z",
   "source": "wikidata",
   "name": "United Airlines",
   "description": "American airline",
@@ -10,7 +10,7 @@
   "inception": "1926-04-06",
   "employees": null,
   "industry": "air transport",
-  "headquarters": "Chicago",
+  "headquarters": "Willis Tower",
   "executives": [
     {
       "name": "Scott Kirby",
