@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "regime": "neutral",
   "confidence": 0.879,
   "scores": {
@@ -66,7 +66,7 @@
       "vix9d_over_vix": 1.112
     },
     "valuation": {
-      "spy_pe": 26.4
+      "spy_pe": 25.98
     },
     "trend": {
       "spy_price": 737.55,
@@ -93,5 +93,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-10T23:18:43+00:00"
+  "computed_at": "2026-06-11T16:59:37+00:00"
 }
