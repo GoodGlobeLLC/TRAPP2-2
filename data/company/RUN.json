@@ -1,7 +1,7 @@
 {
   "ticker": "RUN",
   "qid": "Q54718",
-  "fetchedAt": "2026-06-10T05:24:06.299278Z",
+  "fetchedAt": "2026-06-11T05:39:10.273713Z",
   "source": "wikidata",
   "name": "Yle",
   "description": "Finland's national public-broadcasting company",
@@ -9,7 +9,7 @@
   "isin": null,
   "inception": "1926-01-01",
   "employees": null,
-  "industry": "broadcasting",
+  "industry": "journalism",
   "headquarters": "L\u00e4nsi-Pasila",
   "executives": [
     {

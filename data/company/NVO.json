@@ -1,7 +1,7 @@
 {
   "ticker": "NVO",
   "qid": "Q818846",
-  "fetchedAt": "2026-06-10T05:13:36.879571Z",
+  "fetchedAt": "2026-06-11T05:26:15.319806Z",
   "source": "wikidata",
   "name": "Novo Nordisk",
   "description": "Danish pharmaceutical company",
@@ -40,6 +40,15 @@
       "name": "semaglutide"
     },
     {
+      "name": "turoctocog alfa"
+    },
+    {
+      "name": "Insulin degludec"
+    },
+    {
+      "name": "preproinsulin"
+    },
+    {
       "name": "recombinant factor VIIa"
     },
     {
@@ -52,13 +61,7 @@
       "name": "insulin aspart"
     },
     {
-      "name": "turoctocog alfa"
-    },
-    {
-      "name": "Insulin degludec"
-    },
-    {
-      "name": "preproinsulin"
+      "name": "Insulin degludec/insulin aspart"
     },
     {
       "name": "liraglutide"
@@ -71,9 +74,6 @@
     },
     {
       "name": "glucagon"
-    },
-    {
-      "name": "Insulin degludec/insulin aspart"
     }
   ],
   "countries": []

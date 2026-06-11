@@ -1,7 +1,7 @@
 {
   "ticker": "NOK",
   "qid": "Q1418",
-  "fetchedAt": "2026-06-10T05:22:32.553163Z",
+  "fetchedAt": "2026-06-11T05:37:38.372185Z",
   "source": "wikidata",
   "name": "Nokia",
   "description": "Finnish multinational telecommunications and information technology company",
@@ -9,7 +9,7 @@
   "isin": "FI0009000681",
   "inception": "1865-05-12",
   "employees": 103083,
-  "industry": "electrical appliance",
+  "industry": "telecommunications",
   "headquarters": "Espoo",
   "executives": [
     {

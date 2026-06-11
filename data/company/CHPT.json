@@ -1,7 +1,7 @@
 {
   "ticker": "CHPT",
   "qid": "Q5176149",
-  "fetchedAt": "2026-06-10T05:50:38.797433Z",
+  "fetchedAt": "2026-06-11T05:54:15.480935Z",
   "source": "wikidata",
   "name": "ChargePoint",
   "description": "electric vehicle infrastructure company",
@@ -24,58 +24,58 @@
   ],
   "countries": [
     {
-      "name": "Puerto Rico"
-    },
-    {
-      "name": "Austria"
-    },
-    {
-      "name": "Germany"
-    },
-    {
-      "name": "United States"
-    },
-    {
-      "name": "Sweden"
-    },
-    {
-      "name": "Switzerland"
-    },
-    {
-      "name": "Spain"
-    },
-    {
-      "name": "France"
-    },
-    {
       "name": "Mexico"
     },
     {
       "name": "Netherlands"
     },
     {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Puerto Rico"
+    },
+    {
       "name": "Italy"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Austria"
     },
     {
       "name": "Belgium"
     },
     {
-      "name": "Ireland"
+      "name": "Northern Ireland"
+    },
+    {
+      "name": "United States"
     },
     {
       "name": "Wales"
     },
     {
-      "name": "Northern Ireland"
-    },
-    {
-      "name": "Scotland"
+      "name": "Ireland"
     },
     {
       "name": "Canada"
     },
     {
       "name": "England"
+    },
+    {
+      "name": "Scotland"
     }
   ]
 }

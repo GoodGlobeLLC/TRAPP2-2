@@ -1,7 +1,7 @@
 {
   "ticker": "BMWYY",
   "qid": "Q26678",
-  "fetchedAt": "2026-06-10T05:08:54.337459Z",
+  "fetchedAt": "2026-06-11T05:20:52.880880Z",
   "source": "wikidata",
   "name": "BMW",
   "description": "German automobile manufacturer, and conglomerate",
@@ -9,7 +9,7 @@
   "isin": "DE0005190037",
   "inception": "1916-03-07",
   "employees": 149475,
-  "industry": "activities of holding companies",
+  "industry": "manufacture of motor vehicles",
   "headquarters": "Munich",
   "executives": [
     {
@@ -33,27 +33,27 @@
   ],
   "founders": [
     {
-      "name": "Franz Josef Popp"
-    },
-    {
-      "name": "Camillo Castiglioni"
-    },
-    {
       "name": "Karl Rapp"
     },
     {
       "name": "Gustav Otto"
+    },
+    {
+      "name": "Franz Josef Popp"
+    },
+    {
+      "name": "Camillo Castiglioni"
     }
   ],
   "products": [
-    {
-      "name": "electric car"
-    },
     {
       "name": "motorcycle"
     },
     {
       "name": "car"
+    },
+    {
+      "name": "electric car"
     }
   ],
   "countries": []

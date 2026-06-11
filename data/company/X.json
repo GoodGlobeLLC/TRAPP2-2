@@ -1,7 +1,7 @@
 {
   "ticker": "X",
   "qid": "Q72539",
-  "fetchedAt": "2026-06-10T05:09:46.983277Z",
+  "fetchedAt": "2026-06-11T05:21:51.042374Z",
   "source": "wikidata",
   "name": "U.S. Steel",
   "description": "US steel-producing company",
@@ -45,13 +45,13 @@
   ],
   "founders": [
     {
+      "name": "Elbert Henry Gary"
+    },
+    {
       "name": "Andrew Carnegie"
     },
     {
       "name": "J. P. Morgan"
-    },
-    {
-      "name": "Elbert Henry Gary"
     },
     {
       "name": "William H. Moore"

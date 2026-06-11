@@ -1,11 +1,11 @@
 {
   "ticker": "SONY",
   "qid": "Q41187",
-  "fetchedAt": "2026-06-10T05:39:26.478397Z",
+  "fetchedAt": "2026-06-11T05:49:10.285783Z",
   "source": "wikidata",
   "name": "Sony Group",
   "description": "Japanese multinational conglomerate corporation",
-  "website": "https://www.sony.com/en/",
+  "website": "https://www.sony.co.in/",
   "isin": "JP3435000009",
   "inception": "1946-05-07",
   "employees": 112300,
@@ -20,25 +20,13 @@
   "board": [],
   "founders": [
     {
-      "name": "Akio Morita"
+      "name": "Masaru Ibuka"
     },
     {
-      "name": "Masaru Ibuka"
+      "name": "Akio Morita"
     }
   ],
   "products": [
-    {
-      "name": "photocopier"
-    },
-    {
-      "name": "software"
-    },
-    {
-      "name": "semiconductor"
-    },
-    {
-      "name": "computer hardware"
-    },
     {
       "name": "telecommunications device"
     },
@@ -46,13 +34,25 @@
       "name": "consumer electronics"
     },
     {
-      "name": "video game"
-    },
-    {
       "name": "Sony Alpha"
     },
     {
       "name": "single-lens reflex camera"
+    },
+    {
+      "name": "video game"
+    },
+    {
+      "name": "photocopier"
+    },
+    {
+      "name": "semiconductor"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "computer hardware"
     }
   ],
   "countries": []

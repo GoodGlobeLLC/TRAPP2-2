@@ -1,7 +1,7 @@
 {
   "ticker": "BRK.B",
   "qid": "Q217583",
-  "fetchedAt": "2026-06-10T05:06:38.816254Z",
+  "fetchedAt": "2026-06-11T05:18:09.430220Z",
   "source": "wikidata",
   "name": "Berkshire Hathaway",
   "description": "American multinational conglomerate holding company",
@@ -9,7 +9,7 @@
   "isin": "US0846701086",
   "inception": "1839-01-01",
   "employees": 360000,
-  "industry": "aircraft industry",
+  "industry": "insurance",
   "headquarters": "Omaha",
   "executives": [
     {
@@ -35,22 +35,6 @@
       "role": "Board Member"
     },
     {
-      "name": "David Gottesman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Howard Graham Buffett",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ajit Jain",
-      "role": "Board Member"
-    },
-    {
-      "name": "Thomas Murphy",
-      "role": "Board Member"
-    },
-    {
       "name": "Charlotte M. Guyman",
       "role": "Board Member"
     },
@@ -71,11 +55,23 @@
       "role": "Board Member"
     },
     {
-      "name": "Warren Buffett",
+      "name": "Ronald Olson",
       "role": "Board Member"
     },
     {
-      "name": "Ronald Olson",
+      "name": "David Gottesman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Howard Graham Buffett",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ajit Jain",
+      "role": "Board Member"
+    },
+    {
+      "name": "Thomas Murphy",
       "role": "Board Member"
     },
     {
@@ -92,6 +88,10 @@
     },
     {
       "name": "Meryl B. Witmer",
+      "role": "Board Member"
+    },
+    {
+      "name": "Warren Buffett",
       "role": "Board Member"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "ticker": "BOE",
   "qid": "Q66",
-  "fetchedAt": "2026-06-10T05:18:08.736967Z",
+  "fetchedAt": "2026-06-11T05:33:04.126582Z",
   "source": "wikidata",
   "name": "Boeing",
   "description": "American global aerospace and defense corporation",
@@ -9,7 +9,7 @@
   "isin": "US0970231058",
   "inception": "1916-07-15",
   "employees": 171000,
-  "industry": "aerospace industry",
+  "industry": "aircraft construction",
   "headquarters": "Chicago",
   "executives": [
     {
@@ -78,6 +78,12 @@
   ],
   "products": [
     {
+      "name": "Boeing 720"
+    },
+    {
+      "name": "Boeing P-8 Poseidon"
+    },
+    {
       "name": "space technology"
     },
     {
@@ -93,25 +99,19 @@
       "name": "McDonnell Douglas F/A-18 Hornet"
     },
     {
-      "name": "McDonnell Douglas F-15 Eagle"
-    },
-    {
       "name": "Boeing 787 Dreamliner"
     },
     {
-      "name": "Boeing 727"
-    },
-    {
-      "name": "Boeing 720"
-    },
-    {
-      "name": "Boeing 717"
+      "name": "McDonnell Douglas F-15 Eagle"
     },
     {
       "name": "Boeing 777"
     },
     {
-      "name": "Boeing P-8 Poseidon"
+      "name": "Boeing 727"
+    },
+    {
+      "name": "Boeing 717"
     },
     {
       "name": "Boeing 767"
