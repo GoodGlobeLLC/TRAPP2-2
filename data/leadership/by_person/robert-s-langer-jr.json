@@ -7,10 +7,10 @@
   "occupations": [
     "university teacher",
     "chemical engineer",
-    "biochemist",
     "biotechnologist",
+    "inventor",
     "engineer",
-    "inventor"
+    "biochemist"
   ],
   "education": [
     "The Milne School",
@@ -20,12 +20,12 @@
   ],
   "employers": [
     {
-      "company": "Massachusetts Institute of Technology",
+      "company": "Harvard University",
       "start": null,
       "end": null
     },
     {
-      "company": "Harvard University",
+      "company": "Massachusetts Institute of Technology",
       "start": null,
       "end": null
     }

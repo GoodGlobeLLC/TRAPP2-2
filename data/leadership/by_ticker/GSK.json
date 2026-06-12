@@ -1,6 +1,6 @@
 {
   "ticker": "GSK",
-  "fetchedAt": "2026-06-09T00:57:33.887324Z",
+  "fetchedAt": "2026-06-12T05:11:38.382315Z",
   "people": [
     {
       "qid": "Q27058352",
@@ -76,8 +76,8 @@
         "birthPlace": "United Kingdom",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "INSEAD",

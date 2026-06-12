@@ -1,6 +1,6 @@
 {
   "ticker": "TM",
-  "fetchedAt": "2026-06-09T00:54:43.947461Z",
+  "fetchedAt": "2026-06-12T05:11:38.400392Z",
   "people": [
     {
       "qid": "Q116935918",
@@ -35,8 +35,8 @@
         "occupations": [
           "industrialist",
           "entrepreneur",
-          "racing automobile driver",
-          "business executive"
+          "business executive",
+          "racing automobile driver"
         ],
         "education": [
           "Aichi Ky\u014diku Daigaku. Fuzoku Nagoya Ch\u016bgakk\u014d",
@@ -72,8 +72,8 @@
         "birthPlace": "Washizu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kiichiro%20Toyoda.jpg",
         "occupations": [
-          "industrialist",
-          "entrepreneur"
+          "entrepreneur",
+          "industrialist"
         ],
         "education": [
           "Tokyo Imperial University",

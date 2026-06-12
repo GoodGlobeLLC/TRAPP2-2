@@ -1,82 +1,73 @@
 {
   "ticker": "NOK",
-  "fetchedAt": "2026-06-09T00:54:43.940496Z",
+  "fetchedAt": "2026-06-12T05:11:38.390336Z",
   "people": [
     {
-      "qid": "Q2794297",
-      "name": "Oliver Ellsworth Buckley",
+      "qid": "Q115735574",
+      "name": "Justin Hotard",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q115735574",
+        "name": "Justin Hotard",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2025-03-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4118053",
+      "name": "Sari Baldauf",
       "role_at_company": "Chairperson",
       "source_field": "executives",
       "career": {
-        "qid": "Q2794297",
-        "name": "Oliver Ellsworth Buckley",
-        "dateOfBirth": "1887-08-08",
-        "birthPlace": "Sloan",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20E.%20Buckley.jpg",
+        "qid": "Q4118053",
+        "name": "Sari Baldauf",
+        "dateOfBirth": "1955-08-10",
+        "birthPlace": "Kotka",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sari%20Baldauf%201998.jpg",
         "occupations": [
-          "inventor"
+          "businessperson"
         ],
-        "education": [
-          "Cornell University",
-          "Grinnell College"
-        ],
+        "education": [],
         "employers": [],
         "positions": []
       }
     },
     {
-      "qid": "Q1592133",
-      "name": "Mervin Joe Kelly",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
+      "qid": "Q2271104",
+      "name": "Fredrik Idestam",
+      "role_at_company": "Founder",
+      "source_field": "founders",
       "career": {
-        "qid": "Q1592133",
-        "name": "Mervin Joe Kelly",
-        "dateOfBirth": "1894-02-14",
-        "birthPlace": "Princeton",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20telephone%20magazine%20%281922%29%20%2814753744644%29.jpg",
+        "qid": "Q2271104",
+        "name": "Fredrik Idestam",
+        "dateOfBirth": "1838-10-28",
+        "birthPlace": "Tyrv\u00e4nt\u00f6",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fredrik%20Idestam.png",
         "occupations": [
-          "physicist"
+          "engineer",
+          "entrepreneur",
+          "businessperson",
+          "mining engineer"
         ],
-        "education": [
-          "Missouri University of Science and Technology",
-          "University of Chicago"
-        ],
+        "education": [],
         "employers": [
           {
-            "company": "Western Electric",
-            "start": "1918-01-01",
-            "end": "1925-01-01"
-          },
-          {
-            "company": "Bell Labs",
-            "start": "1925-01-01",
-            "end": "1959-01-01"
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q1397394",
-      "name": "Frank B. Jewett",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q1397394",
-        "name": "Frank B. Jewett",
-        "dateOfBirth": "1879-09-05",
-        "birthPlace": "Pasadena",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20B%20Jewett%20c1940%20%28cropped%29.jpg",
-        "occupations": [
-          "physicist"
-        ],
-        "education": [
-          "University of Chicago"
-        ],
-        "employers": [
-          {
-            "company": "Bell Labs",
+            "company": "Nokia",
             "start": null,
             "end": null
           }

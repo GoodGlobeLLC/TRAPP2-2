@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-09T00:54:43.949801Z",
+  "fetchedAt": "2026-06-12T05:11:38.404129Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,9 +14,9 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
           "chief executive officer",
+          "businessperson",
           "engineer"
         ],
         "education": [
@@ -226,16 +226,16 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Stanford Law School",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Chicago"
+          "University of Chicago",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -318,9 +318,9 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
           "chief executive officer",
+          "businessperson",
           "engineer"
         ],
         "education": [
@@ -383,8 +383,8 @@
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "Stanford University",
-          "University of Michigan"
+          "University of Michigan",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [

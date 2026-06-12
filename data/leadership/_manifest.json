@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-09T00:57:33.905285Z",
-  "totalPeople": 247,
+  "generatedAt": "2026-06-12T05:11:38.447235Z",
+  "totalPeople": 250,
   "totalTickers": 78,
-  "lastRangeFilter": "A-G",
-  "thisRunPeople": 140,
-  "thisRunTickers": 87,
+  "lastRangeFilter": "ALL",
+  "thisRunPeople": 247,
+  "thisRunTickers": 238,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,8 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "AES"
+        "AES",
+        "WBA"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -2521,6 +2522,36 @@
       "tickers": [
         "Z",
         "Z"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q115735574",
+      "name": "Justin Hotard",
+      "slug": "justin-hotard",
+      "tickers": [
+        "NOK"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q4118053",
+      "name": "Sari Baldauf",
+      "slug": "sari-baldauf",
+      "tickers": [
+        "NOK"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q2271104",
+      "name": "Fredrik Idestam",
+      "slug": "fredrik-idestam",
+      "tickers": [
+        "NOK"
       ],
       "positionsCount": 0,
       "employersCount": 1

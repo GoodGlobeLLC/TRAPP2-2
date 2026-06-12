@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-09T00:49:20.038217Z",
+  "fetchedAt": "2026-06-12T05:11:38.389587Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -77,9 +77,9 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
-          "businessperson",
-          "donor",
           "entrepreneur",
+          "donor",
+          "businessperson",
           "inventor"
         ],
         "education": [
@@ -171,10 +171,10 @@
         "occupations": [
           "university teacher",
           "chemical engineer",
-          "biochemist",
           "biotechnologist",
+          "inventor",
           "engineer",
-          "inventor"
+          "biochemist"
         ],
         "education": [
           "The Milne School",
@@ -184,12 +184,12 @@
         ],
         "employers": [
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Harvard University",
             "start": null,
             "end": null
           },
           {
-            "company": "Harvard University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           }
@@ -209,9 +209,9 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
+          "professor",
           "researcher",
-          "physician",
-          "professor"
+          "physician"
         ],
         "education": [
           "Hebrew Reali School",
@@ -225,17 +225,17 @@
             "end": null
           },
           {
-            "company": "University of Pennsylvania",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Sanofi",
             "start": null,
             "end": null
           },
           {
             "company": "GSK",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Pennsylvania",
             "start": null,
             "end": null
           }
@@ -299,15 +299,15 @@
         "birthPlace": "Agadir",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moncef%20Slaoui%20%28cropped%29.jpg",
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
+          "Universit\u00e9 libre de Bruxelles",
+          "Harvard Medical School",
           "Tufts University School of Medicine",
           "Mohammed V high school",
-          "International Institute for Management Development",
-          "Universit\u00e9 libre de Bruxelles",
-          "Harvard Medical School"
+          "International Institute for Management Development"
         ],
         "employers": [
           {
@@ -326,6 +326,16 @@
             "end": "2017-01-01"
           },
           {
+            "company": "Intellia Therapeutics",
+            "start": "2017-07-24",
+            "end": "2017-08-09"
+          },
+          {
+            "company": "Galvani Bioelectronics",
+            "start": "2016-01-01",
+            "end": null
+          },
+          {
             "company": "Lonza Group",
             "start": "2020-04-01",
             "end": "2020-05-17"
@@ -339,16 +349,6 @@
             "company": "Qatar Foundation",
             "start": "2009-01-01",
             "end": "2020-01-01"
-          },
-          {
-            "company": "Intellia Therapeutics",
-            "start": "2017-07-24",
-            "end": "2017-08-09"
-          },
-          {
-            "company": "Galvani Bioelectronics",
-            "start": "2016-01-01",
-            "end": null
           }
         ],
         "positions": []

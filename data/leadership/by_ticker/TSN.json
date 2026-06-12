@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-06-09T00:54:43.947955Z",
+  "fetchedAt": "2026-06-12T05:11:38.401060Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -146,6 +146,11 @@
         ],
         "employers": [
           {
+            "company": "Salesforce",
+            "start": "2010-02-01",
+            "end": "2018-04-01"
+          },
+          {
             "company": "Bell Labs",
             "start": "1980-01-01",
             "end": "1991-01-01"
@@ -164,11 +169,6 @@
             "company": "Cisco",
             "start": "2018-04-01",
             "end": null
-          },
-          {
-            "company": "Salesforce",
-            "start": "2010-02-01",
-            "end": "2018-04-01"
           }
         ],
         "positions": []
@@ -249,9 +249,9 @@
         "occupations": [
           "prosecutor",
           "governor",
+          "lawyer",
           "jurist",
-          "politician",
-          "lawyer"
+          "politician"
         ],
         "education": [
           "University of Arkansas School of Law",
@@ -290,8 +290,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Harvard University"
         ],
         "employers": [
           {

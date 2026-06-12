@@ -1,6 +1,6 @@
 {
   "ticker": "GILD",
-  "fetchedAt": "2026-06-09T00:57:33.886993Z",
+  "fetchedAt": "2026-06-12T05:11:38.381831Z",
   "people": [
     {
       "qid": "Q63981759",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive"
         ],
         "education": [
           "Georgetown University",
