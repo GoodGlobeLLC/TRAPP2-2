@@ -9,8 +9,8 @@
     "valuation": -1.0,
     "trend": 0.879,
     "breadth": 0.273,
-    "commodity": 0.105,
-    "crypto": -0.704
+    "commodity": 0.101,
+    "crypto": -0.711
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.1675,
-    "risk_on_melt_up": 0.0305,
-    "inflation_shock": 0.0904,
-    "recession_fear": 0.0175,
-    "risk_off": 0.1202,
-    "neutral": 0.5739
+    "expansion": 0.1658,
+    "risk_on_melt_up": 0.0299,
+    "inflation_shock": 0.0901,
+    "recession_fear": 0.0178,
+    "risk_off": 0.1221,
+    "neutral": 0.5743
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "crypto",
-      "score": -0.704,
+      "score": -0.711,
       "confidence": 1.0,
-      "weight": 0.704,
+      "weight": 0.711,
       "direction": "bearish"
     },
     {
@@ -80,20 +80,20 @@
       "n_total": 11
     },
     "commodity": {
-      "copper_60d_return": 0.0735,
-      "oil_60d_return": -0.1298,
-      "gold_oil_ratio": 48.934,
-      "gold_oil_zscore": -0.927,
+      "copper_60d_return": 0.0725,
+      "oil_60d_return": -0.1324,
+      "gold_oil_ratio": 48.948,
+      "gold_oil_zscore": -0.926,
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": -0.1975,
-      "btc_pct_from_50dma": -0.1484,
-      "eth_30d_return": -0.2577,
+      "btc_30d_return": -0.2003,
+      "btc_pct_from_50dma": -0.1514,
+      "eth_30d_return": -0.2616,
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-12T04:49:05+00:00",
+  "computed_at": "2026-06-12T05:23:24+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.1429,
@@ -181,5 +181,5 @@
   ],
   "transition_observation_count": 14,
   "transition_warning": "Only 14 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-06-12T04:49:05+00:00"
+  "transitions_computed_at": "2026-06-12T05:23:24+00:00"
 }

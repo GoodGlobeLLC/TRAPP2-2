@@ -1,6 +1,6 @@
 {
   "ticker": "SHEL",
-  "fetchedAt": "2026-06-12T05:11:38.397230Z",
+  "fetchedAt": "2026-06-12T05:43:22.858083Z",
   "people": [
     {
       "qid": "Q113988833",
@@ -179,9 +179,9 @@
         "occupations": [
           "finance minister",
           "university teacher",
-          "politician",
+          "banker",
           "economist",
-          "banker"
+          "politician"
         ],
         "education": [
           "Vrije Universiteit Amsterdam"

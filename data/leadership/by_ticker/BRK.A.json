@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-06-12T05:11:38.371653Z",
+  "fetchedAt": "2026-06-12T05:43:22.831997Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -66,16 +66,16 @@
           "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "entrepreneur",
-          "economist"
+          "economist",
+          "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -100,13 +100,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
           "Colgate University",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -186,8 +186,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Bowdoin College",
@@ -471,8 +471,8 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "entrepreneur",
           "farmer",
+          "entrepreneur",
           "writer",
           "photographer"
         ],
@@ -505,9 +505,9 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Indian Institute of Technology Kharagpur"
         ],
         "employers": [
           {
@@ -678,16 +678,16 @@
           "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "entrepreneur",
-          "economist"
+          "economist",
+          "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [

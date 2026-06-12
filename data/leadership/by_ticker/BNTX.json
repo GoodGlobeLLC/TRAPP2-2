@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-06-12T05:11:38.370591Z",
+  "fetchedAt": "2026-06-12T05:43:22.831031Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -17,8 +17,8 @@
           "oncologist",
           "immunologist",
           "academic",
-          "researcher",
           "chairman of the executive board",
+          "researcher",
           "university teacher",
           "entrepreneur",
           "physician",
@@ -72,8 +72,8 @@
           "board member",
           "university teacher",
           "researcher",
-          "entrepreneur",
           "physician",
+          "entrepreneur",
           "Privatdozent"
         ],
         "education": [
@@ -118,8 +118,8 @@
           "oncologist",
           "immunologist",
           "academic",
-          "researcher",
           "chairman of the executive board",
+          "researcher",
           "university teacher",
           "entrepreneur",
           "physician",
@@ -173,8 +173,8 @@
           "board member",
           "university teacher",
           "researcher",
-          "entrepreneur",
           "physician",
+          "entrepreneur",
           "Privatdozent"
         ],
         "education": [
@@ -219,8 +219,8 @@
           "oncologist",
           "immunologist",
           "academic",
-          "researcher",
           "chairman of the executive board",
+          "researcher",
           "university teacher",
           "entrepreneur",
           "physician",

@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-06-12T05:11:38.374827Z",
+  "fetchedAt": "2026-06-12T05:43:22.835227Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -171,8 +171,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
           "University of Virginia",
+          "Princeton University",
           "University of Mississippi"
         ],
         "employers": [],
@@ -263,17 +263,17 @@
         ],
         "employers": [
           {
+            "company": "Barnes & Noble",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Electronic Arts",
             "start": null,
             "end": null
           },
           {
             "company": "Starbucks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Barnes & Noble",
             "start": null,
             "end": null
           }
@@ -294,8 +294,8 @@
         "image": null,
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "publisher"
+          "publisher",
+          "entrepreneur"
         ],
         "education": [
           "Yale School of Engineering and Applied Science",

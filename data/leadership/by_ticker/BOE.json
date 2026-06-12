@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-06-12T05:11:38.370952Z",
+  "fetchedAt": "2026-06-12T05:43:22.831386Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -75,8 +75,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Xavier University",
