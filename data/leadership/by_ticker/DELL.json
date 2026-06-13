@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-06-12T05:43:22.839098Z",
+  "fetchedAt": "2026-06-13T05:31:23.509023Z",
   "people": [
     {
       "qid": "Q218630",
@@ -97,8 +97,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -116,8 +116,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Stanford Graduate School of Business",

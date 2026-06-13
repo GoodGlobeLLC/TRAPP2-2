@@ -1,6 +1,6 @@
 {
   "ticker": "S",
-  "fetchedAt": "2026-06-12T05:43:22.857479Z",
+  "fetchedAt": "2026-06-13T05:31:23.522332Z",
   "people": [
     {
       "qid": "Q15728648",
@@ -14,9 +14,9 @@
         "birthPlace": "Guatemala City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcelo%20Claure%202019%20uncropped%20%28cropped%29.jpg",
         "occupations": [
+          "technology entrepreneur",
           "philanthropist",
-          "chief executive officer",
-          "technology entrepreneur"
+          "chief executive officer"
         ],
         "education": [
           "Bentley University",

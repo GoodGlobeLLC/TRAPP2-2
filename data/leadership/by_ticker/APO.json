@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-06-12T05:43:22.827553Z",
+  "fetchedAt": "2026-06-13T05:31:23.499767Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -62,9 +62,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],
@@ -243,9 +243,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],

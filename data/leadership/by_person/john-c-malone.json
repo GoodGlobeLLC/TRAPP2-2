@@ -6,18 +6,28 @@
   "image": null,
   "occupations": [
     "business executive",
-    "publisher",
-    "entrepreneur"
+    "entrepreneur",
+    "publisher"
   ],
   "education": [
     "Yale School of Engineering and Applied Science",
     "Hopkins School",
     "Johns Hopkins University",
     "New York University Tandon School of Engineering",
-    "New York University",
-    "Yale University"
+    "Yale University",
+    "New York University"
   ],
   "employers": [
+    {
+      "company": "Bell Labs",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "McKinsey & Company",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Jerrold Electronics",
       "start": null,
@@ -30,16 +40,6 @@
     },
     {
       "company": "General Instrument",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Bell Labs",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "McKinsey & Company",
       "start": null,
       "end": null
     }

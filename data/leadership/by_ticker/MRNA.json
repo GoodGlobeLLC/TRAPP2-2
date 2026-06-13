@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-12T05:43:22.850314Z",
+  "fetchedAt": "2026-06-13T05:31:23.517132Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -77,10 +77,10 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson",
           "inventor",
-          "donor"
+          "donor",
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "McGill University",
@@ -170,10 +170,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
           "chemical engineer",
-          "university teacher",
-          "biochemist",
           "biotechnologist",
           "engineer",
+          "university teacher",
+          "biochemist",
           "inventor"
         ],
         "education": [
@@ -303,28 +303,13 @@
           "researcher"
         ],
         "education": [
+          "Universit\u00e9 libre de Bruxelles",
+          "Harvard Medical School",
           "Tufts University School of Medicine",
           "Mohammed V high school",
-          "International Institute for Management Development",
-          "Universit\u00e9 libre de Bruxelles",
-          "Harvard Medical School"
+          "International Institute for Management Development"
         ],
         "employers": [
-          {
-            "company": "University of Mons",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Moderna",
-            "start": "2017-01-01",
-            "end": "2020-01-01"
-          },
-          {
-            "company": "International AIDS Vaccine Initiative",
-            "start": "2015-01-01",
-            "end": "2017-01-01"
-          },
           {
             "company": "Lonza Group",
             "start": "2020-04-01",
@@ -339,6 +324,21 @@
             "company": "Qatar Foundation",
             "start": "2009-01-01",
             "end": "2020-01-01"
+          },
+          {
+            "company": "University of Mons",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Moderna",
+            "start": "2017-01-01",
+            "end": "2020-01-01"
+          },
+          {
+            "company": "International AIDS Vaccine Initiative",
+            "start": "2015-01-01",
+            "end": "2017-01-01"
           },
           {
             "company": "Intellia Therapeutics",

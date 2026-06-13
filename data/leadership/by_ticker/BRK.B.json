@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-06-12T05:43:22.832818Z",
+  "fetchedAt": "2026-06-13T05:31:23.504151Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -61,9 +61,9 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "broker-dealer",
           "financier",
           "investor",
-          "broker-dealer",
           "chief executive officer",
           "shareholder",
           "economist",
@@ -104,9 +104,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Colgate University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -186,8 +186,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Bowdoin College",
@@ -471,10 +471,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "farmer",
           "entrepreneur",
-          "writer",
-          "photographer"
+          "photographer",
+          "farmer",
+          "writer"
         ],
         "education": [
           "Harvard University"
@@ -541,8 +541,8 @@
           "military personnel"
         ],
         "education": [
-          "Harvard Business School",
           "Cornell University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -673,9 +673,9 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "broker-dealer",
           "financier",
           "investor",
-          "broker-dealer",
           "chief executive officer",
           "shareholder",
           "economist",
