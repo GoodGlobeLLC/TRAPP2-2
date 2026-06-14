@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-06-13T05:31:23.499767Z",
+  "fetchedAt": "2026-06-14T05:41:43.088666Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -58,8 +58,8 @@
           "art collector",
           "investment banker",
           "financier",
-          "investor",
-          "businessperson"
+          "businessperson",
+          "investor"
         ],
         "education": [
           "Van High School",
@@ -155,9 +155,9 @@
         "birthPlace": "Washington, D.C.",
         "image": null,
         "occupations": [
-          "businessperson",
+          "investment banker",
           "financier",
-          "investment banker"
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -239,8 +239,8 @@
           "art collector",
           "investment banker",
           "financier",
-          "investor",
-          "businessperson"
+          "businessperson",
+          "investor"
         ],
         "education": [
           "Van High School",

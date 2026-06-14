@@ -1,6 +1,6 @@
 {
   "ticker": "AAL",
-  "fetchedAt": "2026-06-13T05:31:23.496425Z",
+  "fetchedAt": "2026-06-14T05:41:43.084911Z",
   "people": [
     {
       "qid": "Q12326818",
@@ -14,8 +14,8 @@
         "birthPlace": "Frederiksberg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mette%20Davidsen-Nielsen%2C%202015%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "journalist"
+          "journalist",
+          "businessperson"
         ],
         "education": [
           "Roskilde University"
@@ -55,8 +55,8 @@
         "birthPlace": "Hirtshals",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Espersen%202009.png",
         "occupations": [
-          "politician",
           "director",
+          "politician",
           "diplomat"
         ],
         "education": [

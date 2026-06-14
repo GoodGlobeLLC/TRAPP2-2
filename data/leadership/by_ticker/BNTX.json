@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-06-13T05:31:23.502591Z",
+  "fetchedAt": "2026-06-14T05:41:43.092358Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -16,13 +16,13 @@
         "occupations": [
           "oncologist",
           "immunologist",
+          "researcher",
+          "chairman of the executive board",
           "academic",
           "university teacher",
-          "chairman of the executive board",
-          "researcher",
-          "physician",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -67,14 +67,14 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
-          "immunologist",
           "academic",
           "board member",
-          "university teacher",
+          "immunologist",
           "researcher",
+          "university teacher",
+          "Privatdozent",
           "entrepreneur",
-          "physician",
-          "Privatdozent"
+          "physician"
         ],
         "education": [
           "Werner-von-Siemens-Gymnasium",
@@ -117,13 +117,13 @@
         "occupations": [
           "oncologist",
           "immunologist",
+          "researcher",
+          "chairman of the executive board",
           "academic",
           "university teacher",
-          "chairman of the executive board",
-          "researcher",
-          "physician",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -168,14 +168,14 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
-          "immunologist",
           "academic",
           "board member",
-          "university teacher",
+          "immunologist",
           "researcher",
+          "university teacher",
+          "Privatdozent",
           "entrepreneur",
-          "physician",
-          "Privatdozent"
+          "physician"
         ],
         "education": [
           "Werner-von-Siemens-Gymnasium",
@@ -218,13 +218,13 @@
         "occupations": [
           "oncologist",
           "immunologist",
+          "researcher",
+          "chairman of the executive board",
           "academic",
           "university teacher",
-          "chairman of the executive board",
-          "researcher",
-          "physician",
           "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"
