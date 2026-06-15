@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-06-15T03:38:18.177586Z",
+  "fetchedAt": "2026-06-15T06:25:08.349326Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -55,18 +55,17 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "businessperson",
+          "art collector",
           "investment banker",
           "financier",
-          "art collector"
+          "businessperson",
+          "investor"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
           "Dartmouth College",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -115,8 +114,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -196,9 +195,9 @@
           "investor"
         ],
         "education": [
-          "The Field School",
           "The Wharton School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "The Field School"
         ],
         "employers": [
           {
@@ -237,18 +236,17 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "businessperson",
+          "art collector",
           "investment banker",
           "financier",
-          "art collector"
+          "businessperson",
+          "investor"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
           "Dartmouth College",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [

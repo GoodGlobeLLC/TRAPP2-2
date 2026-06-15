@@ -1,6 +1,6 @@
 {
   "ticker": "TDG",
-  "fetchedAt": "2026-06-15T03:38:18.196623Z",
+  "fetchedAt": "2026-06-15T06:25:08.362103Z",
   "people": [
     {
       "qid": "Q117323921",
@@ -62,13 +62,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
           "philanthropist",
-          "business executive"
+          "business executive",
+          "merchant"
         ],
         "education": [
-          "Harvard University",
-          "Drexel University"
+          "Drexel University",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -99,13 +99,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
           "philanthropist",
-          "business executive"
+          "business executive",
+          "merchant"
         ],
         "education": [
-          "Harvard University",
-          "Drexel University"
+          "Drexel University",
+          "Harvard University"
         ],
         "employers": [
           {

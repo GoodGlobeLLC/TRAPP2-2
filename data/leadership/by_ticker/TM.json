@@ -1,6 +1,6 @@
 {
   "ticker": "TM",
-  "fetchedAt": "2026-06-15T03:38:18.196910Z",
+  "fetchedAt": "2026-06-15T06:25:08.362302Z",
   "people": [
     {
       "qid": "Q116935918",
@@ -33,8 +33,8 @@
         "birthPlace": "Nagoya",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akio%20Toyoda%20cropped%201%20Mark%20Templin%20and%20Akio%20Toyoda%2020110818%202.jpg",
         "occupations": [
-          "industrialist",
           "entrepreneur",
+          "industrialist",
           "racing automobile driver",
           "business executive"
         ],

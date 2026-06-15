@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-15T03:38:18.190938Z",
+  "fetchedAt": "2026-06-15T06:25:08.358194Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -18,10 +18,10 @@
           "businessperson"
         ],
         "education": [
-          "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School"
+          "Harvard Business School",
+          "\u00c9cole Centrale Paris",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
         ],
         "employers": [
           {
@@ -77,15 +77,14 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
-          "inventor",
-          "entrepreneur",
           "businessperson",
           "donor",
+          "entrepreneur",
           "inventor"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "McGill University"
+          "McGill University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -135,6 +134,11 @@
         ],
         "employers": [
           {
+            "company": "University of Michigan",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
             "end": null
@@ -146,11 +150,6 @@
           },
           {
             "company": "Brigham and Women's Hospital",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -171,11 +170,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
           "chemical engineer",
-          "university teacher",
           "biochemist",
-          "biotechnologist",
+          "university teacher",
+          "inventor",
           "engineer",
-          "inventor"
+          "biotechnologist"
         ],
         "education": [
           "The Milne School",
@@ -185,12 +184,12 @@
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -260,10 +259,10 @@
           "businessperson"
         ],
         "education": [
-          "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School"
+          "Harvard Business School",
+          "\u00c9cole Centrale Paris",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
         ],
         "employers": [
           {
@@ -300,8 +299,8 @@
         "birthPlace": "Agadir",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moncef%20Slaoui%20%28cropped%29.jpg",
         "occupations": [
-          "researcher",
-          "immunologist"
+          "immunologist",
+          "researcher"
         ],
         "education": [
           "Universit\u00e9 libre de Bruxelles",
@@ -311,6 +310,21 @@
           "International Institute for Management Development"
         ],
         "employers": [
+          {
+            "company": "University of Mons",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Moderna",
+            "start": "2017-01-01",
+            "end": "2020-01-01"
+          },
+          {
+            "company": "International AIDS Vaccine Initiative",
+            "start": "2015-01-01",
+            "end": "2017-01-01"
+          },
           {
             "company": "Lonza Group",
             "start": "2020-04-01",
@@ -327,29 +341,14 @@
             "end": "2020-01-01"
           },
           {
-            "company": "University of Mons",
-            "start": null,
-            "end": null
+            "company": "Intellia Therapeutics",
+            "start": "2017-07-24",
+            "end": "2017-08-09"
           },
           {
             "company": "Galvani Bioelectronics",
             "start": "2016-01-01",
             "end": null
-          },
-          {
-            "company": "University of Mons",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Moderna",
-            "start": "2017-01-01",
-            "end": "2020-01-01"
-          },
-          {
-            "company": "International AIDS Vaccine Initiative",
-            "start": "2015-01-01",
-            "end": "2017-01-01"
           }
         ],
         "positions": []

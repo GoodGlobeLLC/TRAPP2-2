@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-06-15T03:38:18.197387Z",
+  "fetchedAt": "2026-06-15T06:25:08.362630Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -161,14 +161,14 @@
             "end": null
           },
           {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
-          },
-          {
             "company": "Salesforce",
             "start": "2010-02-01",
             "end": "2018-04-01"
+          },
+          {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
           }
         ],
         "positions": []
@@ -249,8 +249,8 @@
         "occupations": [
           "prosecutor",
           "governor",
-          "jurist",
           "lawyer",
+          "jurist",
           "politician"
         ],
         "education": [

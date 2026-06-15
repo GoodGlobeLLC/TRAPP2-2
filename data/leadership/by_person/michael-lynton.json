@@ -6,15 +6,15 @@
   "image": null,
   "occupations": [
     "chief executive officer",
-    "investment banker",
     "entrepreneur",
-    "businessperson"
+    "businessperson",
+    "investment banker"
   ],
   "education": [
+    "Harvard University",
     "Harvard Business School",
-    "Phillips Exeter Academy",
     "Harvard College",
-    "Harvard University"
+    "Phillips Exeter Academy"
   ],
   "employers": [
     {
