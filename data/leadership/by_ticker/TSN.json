@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-06-14T05:41:43.124472Z",
+  "fetchedAt": "2026-06-15T03:22:28.026561Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -146,16 +146,6 @@
         ],
         "employers": [
           {
-            "company": "Salesforce",
-            "start": "2010-02-01",
-            "end": "2018-04-01"
-          },
-          {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
-          },
-          {
             "company": "Microsoft",
             "start": "2003-06-01",
             "end": "2009-09-01"
@@ -169,6 +159,16 @@
             "company": "Cisco",
             "start": "2018-04-01",
             "end": null
+          },
+          {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
+          },
+          {
+            "company": "Salesforce",
+            "start": "2010-02-01",
+            "end": "2018-04-01"
           }
         ],
         "positions": []
@@ -295,11 +295,6 @@
         ],
         "employers": [
           {
-            "company": "J.P. Morgan & Co.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Tyson Foods",
             "start": "2019-01-01",
             "end": "2022-01-01"
@@ -313,6 +308,11 @@
             "company": "Tyson Foods",
             "start": "2022-01-01",
             "end": "2024-01-01"
+          },
+          {
+            "company": "J.P. Morgan & Co.",
+            "start": null,
+            "end": null
           }
         ],
         "positions": []

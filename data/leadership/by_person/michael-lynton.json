@@ -7,14 +7,14 @@
   "occupations": [
     "businessperson",
     "chief executive officer",
-    "investment banker",
-    "entrepreneur"
+    "entrepreneur",
+    "investment banker"
   ],
   "education": [
-    "Harvard College",
-    "Harvard Business School",
+    "Harvard University",
     "Phillips Exeter Academy",
-    "Harvard University"
+    "Harvard College",
+    "Harvard Business School"
   ],
   "employers": [
     {

@@ -1,6 +1,6 @@
 {
   "ticker": "NOK",
-  "fetchedAt": "2026-06-14T05:41:43.113034Z",
+  "fetchedAt": "2026-06-15T03:22:28.014853Z",
   "people": [
     {
       "qid": "Q115735574",
@@ -61,8 +61,8 @@
         "occupations": [
           "entrepreneur",
           "mining engineer",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [],
         "employers": [
