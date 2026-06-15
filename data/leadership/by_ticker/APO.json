@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-06-15T10:05:53.554866Z",
+  "fetchedAt": "2026-06-15T23:56:47.139264Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -62,9 +62,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
-          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],
@@ -82,12 +82,6 @@
         ],
         "positions": [
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
-            "end": "2021-01-01"
-          },
-          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -97,6 +91,12 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
+            "end": "2021-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]
@@ -155,8 +155,8 @@
         "birthPlace": "Washington, D.C.",
         "image": null,
         "occupations": [
-          "businessperson",
           "financier",
+          "businessperson",
           "investment banker"
         ],
         "education": [
@@ -243,9 +243,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
-          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],
@@ -263,12 +263,6 @@
         ],
         "positions": [
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
-            "end": "2021-01-01"
-          },
-          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -278,6 +272,12 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
+            "end": "2021-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]

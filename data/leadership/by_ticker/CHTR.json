@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-06-15T10:05:53.562830Z",
+  "fetchedAt": "2026-06-15T23:56:47.144940Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -151,8 +151,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -172,8 +172,8 @@
         "occupations": [],
         "education": [
           "University of Virginia",
-          "University of Mississippi",
-          "Princeton University"
+          "Princeton University",
+          "University of Mississippi"
         ],
         "employers": [],
         "positions": []
@@ -302,8 +302,8 @@
           "Hopkins School",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
-          "New York University",
-          "Yale University"
+          "Yale University",
+          "New York University"
         ],
         "employers": [
           {
