@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-15T06:25:08.358194Z",
+  "fetchedAt": "2026-06-15T10:55:04.713134Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -14,8 +14,8 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "University of Minnesota",
@@ -77,9 +77,9 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
-          "businessperson",
           "donor",
           "entrepreneur",
+          "businessperson",
           "inventor"
         ],
         "education": [
@@ -134,11 +134,6 @@
         ],
         "employers": [
           {
-            "company": "University of Michigan",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
             "end": null
@@ -150,6 +145,11 @@
           },
           {
             "company": "Brigham and Women's Hospital",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -170,11 +170,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
           "chemical engineer",
-          "biochemist",
           "university teacher",
-          "inventor",
+          "biochemist",
+          "biotechnologist",
           "engineer",
-          "biotechnologist"
+          "inventor"
         ],
         "education": [
           "The Milne School",
@@ -209,8 +209,8 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
-          "researcher",
           "professor",
+          "researcher",
           "physician"
         ],
         "education": [
@@ -255,8 +255,8 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "University of Minnesota",
@@ -303,11 +303,11 @@
           "researcher"
         ],
         "education": [
-          "Universit\u00e9 libre de Bruxelles",
-          "Harvard Medical School",
           "Tufts University School of Medicine",
           "Mohammed V high school",
-          "International Institute for Management Development"
+          "International Institute for Management Development",
+          "Universit\u00e9 libre de Bruxelles",
+          "Harvard Medical School"
         ],
         "employers": [
           {
