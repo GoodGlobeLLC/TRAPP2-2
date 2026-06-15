@@ -1,6 +1,6 @@
 {
   "ticker": "KKR",
-  "fetchedAt": "2026-06-15T10:55:04.709859Z",
+  "fetchedAt": "2026-06-15T23:48:38.744367Z",
   "people": [
     {
       "qid": "Q1508188",
@@ -14,9 +14,9 @@
         "birthPlace": "Houston",
         "image": null,
         "occupations": [
-          "businessperson",
           "entrepreneur",
-          "financier"
+          "financier",
+          "businessperson"
         ],
         "education": [
           "Claremont McKenna College",

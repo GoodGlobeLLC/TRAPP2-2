@@ -1,6 +1,6 @@
 {
   "ticker": "X",
-  "fetchedAt": "2026-06-15T12:40:11.161819Z",
+  "fetchedAt": "2026-06-15T23:52:21.265371Z",
   "people": [
     {
       "qid": "Q55819254",
@@ -151,8 +151,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeh%20Johnson%20official%20DHS%20portrait.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
           "Columbia Law School",
