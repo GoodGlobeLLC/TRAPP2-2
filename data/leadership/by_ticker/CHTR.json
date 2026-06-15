@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-06-15T06:25:08.352700Z",
+  "fetchedAt": "2026-06-15T10:05:53.562830Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -151,8 +151,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -172,8 +172,8 @@
         "occupations": [],
         "education": [
           "University of Virginia",
-          "Princeton University",
-          "University of Mississippi"
+          "University of Mississippi",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -194,8 +194,8 @@
           "financier"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Harvard Business School"
+          "Harvard Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -263,17 +263,17 @@
         ],
         "employers": [
           {
-            "company": "Barnes & Noble",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Electronic Arts",
             "start": null,
             "end": null
           },
           {
             "company": "Starbucks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Barnes & Noble",
             "start": null,
             "end": null
           }
@@ -300,10 +300,10 @@
         "education": [
           "Yale School of Engineering and Applied Science",
           "Hopkins School",
-          "Yale University",
-          "New York University",
           "Johns Hopkins University",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "New York University",
+          "Yale University"
         ],
         "employers": [
           {

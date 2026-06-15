@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-06-15T06:25:08.350995Z",
+  "fetchedAt": "2026-06-15T10:05:53.558524Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -75,8 +75,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Xavier University",
@@ -98,8 +98,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Virginia Tech"
@@ -193,9 +193,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
           "Amherst College",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -219,8 +219,8 @@
         "birthPlace": "Ohio",
         "image": null,
         "occupations": [
-          "entrepreneur",
           "merchant",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
