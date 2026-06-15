@@ -1,6 +1,6 @@
 {
   "ticker": "SHEL",
-  "fetchedAt": "2026-06-14T05:41:43.120315Z",
+  "fetchedAt": "2026-06-15T03:38:18.195244Z",
   "people": [
     {
       "qid": "Q113988833",
@@ -43,8 +43,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Andrew%20Mackenzie%20FRS.jpg",
         "occupations": [
-          "geologist",
           "chief executive officer",
+          "geologist",
           "entrepreneur"
         ],
         "education": [
@@ -79,8 +79,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Andrew%20Mackenzie%20FRS.jpg",
         "occupations": [
-          "geologist",
           "chief executive officer",
+          "geologist",
           "entrepreneur"
         ],
         "education": [
@@ -178,10 +178,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Zalm%202006.jpg",
         "occupations": [
           "finance minister",
-          "university teacher",
           "banker",
+          "university teacher",
           "economist",
-          "politician"
+          "university teacher",
+          "banker"
         ],
         "education": [
           "Vrije Universiteit Amsterdam"

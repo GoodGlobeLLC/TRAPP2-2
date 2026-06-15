@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-06-14T05:41:43.094206Z",
+  "fetchedAt": "2026-06-15T03:38:18.181348Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -64,10 +64,11 @@
           "broker-dealer",
           "financier",
           "investor",
+          "entrepreneur",
           "chief executive officer",
           "shareholder",
-          "economist",
-          "entrepreneur"
+          "entrepreneur",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
@@ -100,13 +101,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Colgate University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -186,13 +187,13 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
+          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School",
-          "The Waldorf School of Garden City"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -472,9 +473,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
           "photographer",
+          "writer",
           "entrepreneur",
-          "farmer",
-          "writer"
+          "farmer"
         ],
         "education": [
           "Harvard University"
@@ -505,8 +506,8 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
+          "Indian Institute of Technology Kharagpur",
           "Harvard University"
         ],
         "employers": [
@@ -541,9 +542,9 @@
           "military personnel"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Cornell University"
+          "Cornell University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -676,10 +677,11 @@
           "broker-dealer",
           "financier",
           "investor",
+          "entrepreneur",
           "chief executive officer",
           "shareholder",
-          "economist",
-          "entrepreneur"
+          "entrepreneur",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
