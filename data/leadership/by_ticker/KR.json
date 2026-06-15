@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "fetchedAt": "2026-06-14T05:41:43.108784Z",
+  "fetchedAt": "2026-06-15T03:38:18.189193Z",
   "people": [
     {
       "qid": "Q16732385",
@@ -123,13 +123,13 @@
           "politician"
         ],
         "education": [
+          "Syosset High School",
+          "Harvard University",
           "Dartmouth College",
           "Mount Holyoke College",
           "Harvard Business School",
-          "Syosset High School",
           "Massachusetts Institute of Technology",
-          "Columbia University",
-          "Harvard University"
+          "Columbia University"
         ],
         "employers": [],
         "positions": [

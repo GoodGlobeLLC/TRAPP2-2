@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-06-14T05:41:43.089654Z",
+  "fetchedAt": "2026-06-15T03:38:18.178281Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -14,12 +14,12 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
-          "HEC Paris",
-          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort"
+          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -97,12 +97,12 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "singer-songwriter",
-          "geneticist"
+          "geneticist",
+          "singer-songwriter"
         ],
         "education": [
-          "Redland High School for Girls",
-          "University of Oxford"
+          "University of Oxford",
+          "Redland High School for Girls"
         ],
         "employers": [
           {
@@ -136,13 +136,13 @@
         "birthPlace": "Quincy",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheri%20McCoy.jpg",
         "occupations": [
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
+          "Princeton University",
           "University of Massachusetts Dartmouth",
-          "Rutgers University",
-          "Princeton University"
+          "Rutgers University"
         ],
         "employers": [],
         "positions": []
@@ -160,12 +160,12 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
-          "HEC Paris",
-          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort"
+          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -218,9 +218,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "biologist",
           "researcher",
-          "physician"
+          "physician",
+          "biologist"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -268,21 +268,6 @@
         ],
         "employers": [
           {
-            "company": "Skandinaviska Enskilda Banken",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Stockholm School of Economics",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Investor",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "International Chamber of Commerce",
             "start": null,
             "end": null
@@ -299,6 +284,21 @@
           },
           {
             "company": "Deutsche Bank",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Skandinaviska Enskilda Banken",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Stockholm School of Economics",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Investor",
             "start": null,
             "end": null
           },
