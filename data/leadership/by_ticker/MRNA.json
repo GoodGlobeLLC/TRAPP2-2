@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-14T05:41:43.112235Z",
+  "fetchedAt": "2026-06-15T03:02:42.670774Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -19,9 +19,9 @@
         ],
         "education": [
           "\u00c9cole Centrale Paris",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -77,14 +77,14 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
+          "inventor",
           "entrepreneur",
           "donor",
-          "businessperson",
-          "inventor"
+          "businessperson"
         ],
         "education": [
-          "McGill University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "McGill University"
         ],
         "employers": [],
         "positions": []
@@ -170,10 +170,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
           "chemical engineer",
-          "biochemist",
           "university teacher",
           "biotechnologist",
           "inventor",
+          "biochemist",
           "engineer"
         ],
         "education": [
@@ -184,12 +184,12 @@
         ],
         "employers": [
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Harvard University",
             "start": null,
             "end": null
           },
           {
-            "company": "Harvard University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           }
@@ -209,8 +209,8 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
-          "professor",
           "researcher",
+          "professor",
           "physician"
         ],
         "education": [
@@ -260,9 +260,9 @@
         ],
         "education": [
           "\u00c9cole Centrale Paris",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -299,8 +299,8 @@
         "birthPlace": "Agadir",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moncef%20Slaoui%20%28cropped%29.jpg",
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
           "Universit\u00e9 libre de Bruxelles",
@@ -311,19 +311,14 @@
         ],
         "employers": [
           {
-            "company": "University of Mons",
-            "start": null,
+            "company": "Intellia Therapeutics",
+            "start": "2017-07-24",
+            "end": "2017-08-09"
+          },
+          {
+            "company": "Galvani Bioelectronics",
+            "start": "2016-01-01",
             "end": null
-          },
-          {
-            "company": "Moderna",
-            "start": "2017-01-01",
-            "end": "2020-01-01"
-          },
-          {
-            "company": "International AIDS Vaccine Initiative",
-            "start": "2015-01-01",
-            "end": "2017-01-01"
           },
           {
             "company": "Lonza Group",
@@ -341,14 +336,19 @@
             "end": "2020-01-01"
           },
           {
-            "company": "Intellia Therapeutics",
-            "start": "2017-07-24",
-            "end": "2017-08-09"
+            "company": "University of Mons",
+            "start": null,
+            "end": null
           },
           {
-            "company": "Galvani Bioelectronics",
-            "start": "2016-01-01",
-            "end": null
+            "company": "Moderna",
+            "start": "2017-01-01",
+            "end": "2020-01-01"
+          },
+          {
+            "company": "International AIDS Vaccine Initiative",
+            "start": "2015-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": []
