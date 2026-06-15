@@ -131,8 +131,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Brown University",
-          "George Washington University Law School"
+          "George Washington University Law School",
+          "Brown University"
         ],
         "employers": [],
         "positions": []
@@ -172,8 +172,8 @@
         "occupations": [],
         "education": [
           "University of Virginia",
-          "University of Mississippi",
-          "Princeton University"
+          "Princeton University",
+          "University of Mississippi"
         ],
         "employers": [],
         "positions": []
@@ -307,16 +307,6 @@
         ],
         "employers": [
           {
-            "company": "Bell Labs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Jerrold Electronics",
             "start": null,
             "end": null
@@ -328,6 +318,16 @@
           },
           {
             "company": "General Instrument",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bell Labs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
             "start": null,
             "end": null
           }
