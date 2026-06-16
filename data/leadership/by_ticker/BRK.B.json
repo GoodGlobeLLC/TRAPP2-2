@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-06-15T10:05:53.559816Z",
+  "fetchedAt": "2026-06-16T00:16:45.340613Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -61,21 +61,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "broker-dealer",
           "financier",
           "investor",
-          "entrepreneur",
+          "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "economist"
+          "economist",
+          "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
-          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -100,8 +100,8 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Colgate University",
@@ -146,9 +146,9 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
+          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
@@ -268,9 +268,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -471,10 +471,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "farmer",
           "entrepreneur",
-          "photographer",
-          "writer"
+          "farmer",
+          "writer",
+          "photographer"
         ],
         "education": [
           "Harvard University"
@@ -673,21 +673,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "broker-dealer",
           "financier",
           "investor",
-          "entrepreneur",
+          "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "economist"
+          "economist",
+          "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
-          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [

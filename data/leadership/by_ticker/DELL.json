@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-06-15T10:05:53.566163Z",
+  "fetchedAt": "2026-06-16T00:16:45.346347Z",
   "people": [
     {
       "qid": "Q218630",
@@ -14,9 +14,9 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "philanthropist",
           "financier",
           "investor",
+          "philanthropist",
           "chief executive officer",
           "computer scientist",
           "entrepreneur",
@@ -49,8 +49,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "College of the Holy Cross",
@@ -97,8 +97,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -230,9 +230,9 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "philanthropist",
           "financier",
           "investor",
+          "philanthropist",
           "chief executive officer",
           "computer scientist",
           "entrepreneur",
@@ -265,9 +265,9 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "philanthropist",
           "financier",
           "investor",
+          "philanthropist",
           "chief executive officer",
           "computer scientist",
           "entrepreneur",

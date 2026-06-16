@@ -1,6 +1,6 @@
 {
   "ticker": "KKR",
-  "fetchedAt": "2026-06-15T10:55:04.709859Z",
+  "fetchedAt": "2026-06-16T00:16:45.352633Z",
   "people": [
     {
       "qid": "Q1508188",
@@ -14,8 +14,8 @@
         "birthPlace": "Houston",
         "image": null,
         "occupations": [
-          "businessperson",
           "entrepreneur",
+          "businessperson",
           "financier"
         ],
         "education": [

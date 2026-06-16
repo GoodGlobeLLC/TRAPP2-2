@@ -1,6 +1,6 @@
 {
   "ticker": "AKAM",
-  "fetchedAt": "2026-06-15T10:05:53.553827Z",
+  "fetchedAt": "2026-06-16T00:16:45.332788Z",
   "people": [
     {
       "qid": "Q5424058",
@@ -188,12 +188,12 @@
           "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
           "Samuel Curtis Johnson Graduate School of Management",
+          "Cornell University",
           "University of Notre Dame",
           "MIT Sloan School of Management",
-          "Cornell University"
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {

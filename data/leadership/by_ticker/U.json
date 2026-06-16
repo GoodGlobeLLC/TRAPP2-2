@@ -1,6 +1,6 @@
 {
   "ticker": "U",
-  "fetchedAt": "2026-06-15T12:40:11.157489Z",
+  "fetchedAt": "2026-06-16T00:16:45.366919Z",
   "people": [
     {
       "qid": "Q5300803",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DougParker.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Albion College",

@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-06-15T12:40:11.156628Z",
+  "fetchedAt": "2026-06-16T00:16:45.366144Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -247,11 +247,11 @@
         "birthPlace": "Amagon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Governor%20Mike%20Beebe.jpg",
         "occupations": [
-          "prosecutor",
-          "governor",
-          "politician",
           "jurist",
-          "lawyer"
+          "prosecutor",
+          "lawyer",
+          "governor",
+          "politician"
         ],
         "education": [
           "University of Arkansas School of Law",
@@ -290,15 +290,10 @@
           "businessperson"
         ],
         "education": [
-          "Stanford Graduate School of Business",
-          "Harvard University"
+          "Harvard University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [
-          {
-            "company": "J.P. Morgan & Co.",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Tyson Foods",
             "start": "2019-01-01",
@@ -313,6 +308,11 @@
             "company": "Tyson Foods",
             "start": "2022-01-01",
             "end": "2024-01-01"
+          },
+          {
+            "company": "J.P. Morgan & Co.",
+            "start": null,
+            "end": null
           }
         ],
         "positions": []

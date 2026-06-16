@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-15T10:55:04.713134Z",
+  "fetchedAt": "2026-06-16T00:16:45.355922Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -14,14 +14,14 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "University of Minnesota",
-          "Harvard Business School",
           "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
+          "University of Minnesota",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -77,14 +77,14 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
+          "businessperson",
           "donor",
           "entrepreneur",
-          "businessperson",
           "inventor"
         ],
         "education": [
-          "McGill University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "McGill University"
         ],
         "employers": [],
         "positions": []
@@ -134,6 +134,11 @@
         ],
         "employers": [
           {
+            "company": "University of Michigan",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
             "end": null
@@ -145,11 +150,6 @@
           },
           {
             "company": "Brigham and Women's Hospital",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -170,8 +170,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
           "chemical engineer",
-          "university teacher",
           "biochemist",
+          "university teacher",
           "biotechnologist",
           "engineer",
           "inventor"
@@ -255,14 +255,14 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "University of Minnesota",
-          "Harvard Business School",
           "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
+          "University of Minnesota",
+          "Harvard Business School"
         ],
         "employers": [
           {
