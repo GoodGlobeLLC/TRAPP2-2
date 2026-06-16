@@ -136,8 +136,8 @@
         "birthPlace": "Quincy",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheri%20McCoy.jpg",
         "occupations": [
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Princeton University",
@@ -268,16 +268,6 @@
         ],
         "employers": [
           {
-            "company": "International Chamber of Commerce",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Citibank",
-            "start": "1980-01-01",
-            "end": "1982-01-01"
-          },
-          {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
             "end": null
@@ -291,6 +281,16 @@
             "company": "Investor",
             "start": null,
             "end": null
+          },
+          {
+            "company": "International Chamber of Commerce",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Citibank",
+            "start": "1980-01-01",
+            "end": "1982-01-01"
           },
           {
             "company": "Institute of International Finance",

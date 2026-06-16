@@ -17,7 +17,7 @@
           "entrepreneur",
           "businessperson",
           "engineer",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -226,8 +226,8 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [
           "Stanford Law School",
@@ -321,7 +321,7 @@
           "entrepreneur",
           "businessperson",
           "engineer",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
