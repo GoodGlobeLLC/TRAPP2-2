@@ -1,6 +1,6 @@
 {
   "ticker": "DAL",
-  "fetchedAt": "2026-06-16T00:16:45.345868Z",
+  "fetchedAt": "2026-06-16T06:38:41.926799Z",
   "people": [
     {
       "qid": "Q32374551",
@@ -22,17 +22,17 @@
         ],
         "employers": [
           {
+            "company": "Acuity Brands",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Delta Air Lines",
             "start": null,
             "end": null
           },
           {
             "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Acuity Brands",
             "start": null,
             "end": null
           }
@@ -60,13 +60,13 @@
         "image": null,
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
-          "Harvard University",
           "Columbia Law School",
-          "Brooks School"
+          "Brooks School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "AAL",
-  "fetchedAt": "2026-06-16T00:16:45.331027Z",
+  "fetchedAt": "2026-06-16T06:38:41.916699Z",
   "people": [
     {
       "qid": "Q12326818",
@@ -55,9 +55,9 @@
         "birthPlace": "Hirtshals",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Espersen%202009.png",
         "occupations": [
-          "diplomat",
+          "politician",
           "director",
-          "politician"
+          "diplomat"
         ],
         "education": [
           "Pearson College UWC",

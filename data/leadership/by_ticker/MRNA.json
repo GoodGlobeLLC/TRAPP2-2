@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-16T00:16:45.355922Z",
+  "fetchedAt": "2026-06-16T06:38:41.933383Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -19,9 +19,9 @@
         ],
         "education": [
           "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
         ],
         "employers": [
           {
@@ -77,14 +77,14 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
-          "businessperson",
           "donor",
           "entrepreneur",
+          "businessperson",
           "inventor"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "McGill University"
+          "McGill University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -134,11 +134,6 @@
         ],
         "employers": [
           {
-            "company": "University of Michigan",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
             "end": null
@@ -150,6 +145,11 @@
           },
           {
             "company": "Brigham and Women's Hospital",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -170,9 +170,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
           "chemical engineer",
+          "biotechnologist",
           "biochemist",
           "university teacher",
-          "biotechnologist",
           "engineer",
           "inventor"
         ],
@@ -260,9 +260,9 @@
         ],
         "education": [
           "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
         ],
         "employers": [
           {
@@ -311,21 +311,6 @@
         ],
         "employers": [
           {
-            "company": "Lonza Group",
-            "start": "2020-04-01",
-            "end": "2020-05-17"
-          },
-          {
-            "company": "GSK",
-            "start": "1988-01-01",
-            "end": "2017-01-01"
-          },
-          {
-            "company": "Qatar Foundation",
-            "start": "2009-01-01",
-            "end": "2020-01-01"
-          },
-          {
             "company": "University of Mons",
             "start": null,
             "end": null
@@ -339,6 +324,21 @@
             "company": "International AIDS Vaccine Initiative",
             "start": "2015-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Lonza Group",
+            "start": "2020-04-01",
+            "end": "2020-05-17"
+          },
+          {
+            "company": "GSK",
+            "start": "1988-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "Qatar Foundation",
+            "start": "2009-01-01",
+            "end": "2020-01-01"
           },
           {
             "company": "Intellia Therapeutics",

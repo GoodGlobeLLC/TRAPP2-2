@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-16T00:16:45.368824Z",
+  "fetchedAt": "2026-06-16T06:38:41.942071Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -15,7 +15,7 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
-          "businessperson",
+          "chief executive officer",
           "engineer",
           "businessperson"
         ],
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
-          "Cornell University"
+          "Cornell University",
+          "Duke University"
         ],
         "employers": [],
         "positions": []
@@ -226,8 +226,8 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [
           "Stanford Law School",
@@ -290,10 +290,10 @@
           "economist"
         ],
         "education": [
+          "West Virginia University School of Medicine",
           "The Wharton School",
           "West Virginia University",
-          "University of Pennsylvania",
-          "West Virginia University School of Medicine"
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -319,7 +319,7 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
-          "businessperson",
+          "chief executive officer",
           "engineer",
           "businessperson"
         ],

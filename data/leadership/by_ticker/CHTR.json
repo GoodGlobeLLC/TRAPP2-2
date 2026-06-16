@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-06-16T00:16:45.342962Z",
+  "fetchedAt": "2026-06-16T06:38:41.924882Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -263,17 +263,17 @@
         ],
         "employers": [
           {
+            "company": "Barnes & Noble",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Electronic Arts",
             "start": null,
             "end": null
           },
           {
             "company": "Starbucks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Barnes & Noble",
             "start": null,
             "end": null
           }
@@ -294,28 +294,18 @@
         "image": null,
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "publisher"
+          "publisher",
+          "entrepreneur"
         ],
         "education": [
           "Yale School of Engineering and Applied Science",
           "Hopkins School",
-          "Yale University",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
-          "New York University"
+          "New York University",
+          "Yale University"
         ],
         "employers": [
-          {
-            "company": "Bell Labs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Jerrold Electronics",
             "start": null,
@@ -328,6 +318,16 @@
           },
           {
             "company": "General Instrument",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bell Labs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
             "start": null,
             "end": null
           }
