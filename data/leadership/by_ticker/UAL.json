@@ -1,6 +1,6 @@
 {
   "ticker": "UAL",
-  "fetchedAt": "2026-06-16T06:38:41.940913Z",
+  "fetchedAt": "2026-06-17T06:02:02.031346Z",
   "people": [
     {
       "qid": "Q21072926",
@@ -28,11 +28,6 @@
             "end": "2013-01-01"
           },
           {
-            "company": "America West Airlines",
-            "start": "1995-01-01",
-            "end": "2006-01-01"
-          },
-          {
             "company": "American Airlines",
             "start": "2013-01-01",
             "end": "2016-08-01"
@@ -41,6 +36,11 @@
             "company": "United Airlines",
             "start": "2016-08-01",
             "end": null
+          },
+          {
+            "company": "America West Airlines",
+            "start": "1995-01-01",
+            "end": "2006-01-01"
           }
         ],
         "positions": []

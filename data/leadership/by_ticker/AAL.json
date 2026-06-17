@@ -1,6 +1,6 @@
 {
   "ticker": "AAL",
-  "fetchedAt": "2026-06-16T06:38:41.916699Z",
+  "fetchedAt": "2026-06-17T06:02:02.008878Z",
   "people": [
     {
       "qid": "Q12326818",
@@ -14,8 +14,8 @@
         "birthPlace": "Frederiksberg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mette%20Davidsen-Nielsen%2C%202015%20%28cropped%29.jpg",
         "occupations": [
-          "journalist",
-          "businessperson"
+          "businessperson",
+          "journalist"
         ],
         "education": [
           "Roskilde University"

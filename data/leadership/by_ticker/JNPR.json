@@ -1,6 +1,6 @@
 {
   "ticker": "JNPR",
-  "fetchedAt": "2026-06-16T06:38:41.930987Z",
+  "fetchedAt": "2026-06-17T06:02:02.022162Z",
   "people": [
     {
       "qid": "Q31099193",
@@ -36,9 +36,9 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kanpur",
           "University of Hawai\u02bbi System",
-          "Carnegie Mellon University"
+          "Carnegie Mellon University",
+          "Indian Institute of Technology Kanpur"
         ],
         "employers": [
           {

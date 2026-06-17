@@ -1,6 +1,6 @@
 {
   "ticker": "WMG",
-  "fetchedAt": "2026-06-16T06:38:41.942517Z",
+  "fetchedAt": "2026-06-17T06:02:02.032801Z",
   "people": [
     {
       "qid": "Q7608947",
@@ -36,14 +36,14 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
+          "businessperson",
           "investment banker",
           "chief executive officer",
-          "businessperson",
           "entrepreneur"
         ],
         "education": [
-          "Phillips Exeter Academy",
           "Harvard Business School",
+          "Phillips Exeter Academy",
           "Harvard College",
           "Harvard University"
         ],

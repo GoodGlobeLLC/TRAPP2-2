@@ -1,6 +1,6 @@
 {
   "ticker": "WY",
-  "fetchedAt": "2026-06-16T06:38:41.942746Z",
+  "fetchedAt": "2026-06-17T06:02:02.033010Z",
   "people": [
     {
       "qid": "Q6767521",
@@ -23,16 +23,6 @@
         ],
         "employers": [
           {
-            "company": "University of Connecticut",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "National Collegiate Athletic Association",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "University of Colorado",
             "start": null,
             "end": null
@@ -40,6 +30,16 @@
           {
             "company": "Louisiana State University",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Connecticut",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "National Collegiate Athletic Association",
+            "start": "2010-01-01",
             "end": null
           }
         ],
