@@ -1,6 +1,6 @@
 {
   "ticker": "PARA",
-  "fetchedAt": "2026-06-17T06:02:02.026622Z",
+  "fetchedAt": "2026-06-18T03:16:23.654084Z",
   "people": [
     {
       "qid": "Q6195201",
@@ -17,9 +17,9 @@
           "general manager"
         ],
         "education": [
+          "Boston University",
           "Fordham University School of Law",
-          "New York University School of Law",
-          "Boston University"
+          "New York University School of Law"
         ],
         "employers": [],
         "positions": []
@@ -37,8 +37,8 @@
         "birthPlace": "Ricse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Zukor%201921.jpg",
         "occupations": [
-          "film producer",
-          "film director"
+          "film director",
+          "film producer"
         ],
         "education": [],
         "employers": [

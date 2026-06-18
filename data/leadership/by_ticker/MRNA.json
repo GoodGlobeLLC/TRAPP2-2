@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-17T06:02:02.024368Z",
+  "fetchedAt": "2026-06-18T03:11:46.616360Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -14,14 +14,14 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "\u00c9cole Centrale Paris",
           "University of Minnesota",
-          "Harvard Business School",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -169,12 +169,12 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
-          "chemical engineer",
           "university teacher",
+          "chemical engineer",
           "biochemist",
           "biotechnologist",
-          "engineer",
-          "inventor"
+          "inventor",
+          "engineer"
         ],
         "education": [
           "The Milne School",
@@ -209,8 +209,8 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
-          "professor",
           "researcher",
+          "professor",
           "physician"
         ],
         "education": [
@@ -225,17 +225,17 @@
             "end": null
           },
           {
+            "company": "University of Pennsylvania",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Sanofi",
             "start": null,
             "end": null
           },
           {
             "company": "GSK",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Pennsylvania",
             "start": null,
             "end": null
           }
@@ -255,14 +255,14 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "\u00c9cole Centrale Paris",
           "University of Minnesota",
-          "Harvard Business School",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -303,28 +303,13 @@
           "immunologist"
         ],
         "education": [
+          "Universit\u00e9 libre de Bruxelles",
+          "Harvard Medical School",
           "Tufts University School of Medicine",
           "Mohammed V high school",
-          "International Institute for Management Development",
-          "Universit\u00e9 libre de Bruxelles",
-          "Harvard Medical School"
+          "International Institute for Management Development"
         ],
         "employers": [
-          {
-            "company": "University of Mons",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Moderna",
-            "start": "2017-01-01",
-            "end": "2020-01-01"
-          },
-          {
-            "company": "International AIDS Vaccine Initiative",
-            "start": "2015-01-01",
-            "end": "2017-01-01"
-          },
           {
             "company": "Lonza Group",
             "start": "2020-04-01",
@@ -339,6 +324,21 @@
             "company": "Qatar Foundation",
             "start": "2009-01-01",
             "end": "2020-01-01"
+          },
+          {
+            "company": "University of Mons",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Moderna",
+            "start": "2017-01-01",
+            "end": "2020-01-01"
+          },
+          {
+            "company": "International AIDS Vaccine Initiative",
+            "start": "2015-01-01",
+            "end": "2017-01-01"
           },
           {
             "company": "Intellia Therapeutics",

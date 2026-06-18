@@ -5,10 +5,10 @@
   "birthPlace": "London",
   "image": null,
   "occupations": [
-    "businessperson",
-    "investment banker",
     "chief executive officer",
-    "entrepreneur"
+    "investment banker",
+    "entrepreneur",
+    "businessperson"
   ],
   "education": [
     "Harvard Business School",
