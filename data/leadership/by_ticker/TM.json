@@ -1,6 +1,6 @@
 {
   "ticker": "TM",
-  "fetchedAt": "2026-06-18T03:34:49.768968Z",
+  "fetchedAt": "2026-06-18T05:44:05.712602Z",
   "people": [
     {
       "qid": "Q116935918",
@@ -34,8 +34,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akio%20Toyoda%20cropped%201%20Mark%20Templin%20and%20Akio%20Toyoda%2020110818%202.jpg",
         "occupations": [
           "industrialist",
-          "racing automobile driver",
           "business executive",
+          "racing automobile driver",
           "entrepreneur"
         ],
         "education": [

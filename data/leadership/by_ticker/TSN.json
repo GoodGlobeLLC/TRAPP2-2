@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-06-18T03:34:49.769485Z",
+  "fetchedAt": "2026-06-18T05:44:05.713345Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -290,8 +290,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford Graduate School of Business",
-          "Harvard University"
+          "Harvard University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {

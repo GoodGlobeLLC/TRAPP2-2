@@ -5,12 +5,12 @@
   "scores": {
     "macro": 0.19,
     "liquidity": 0.1,
-    "volatility": -0.276,
+    "volatility": -0.035,
     "valuation": -0.315,
     "trend": 0.886,
     "breadth": 0.091,
-    "commodity": -0.038,
-    "crypto": -0.58
+    "commodity": -0.049,
+    "crypto": -0.606
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.2224,
-    "risk_on_melt_up": 0.0198,
-    "inflation_shock": 0.068,
-    "recession_fear": 0.0106,
-    "risk_off": 0.0937,
-    "neutral": 0.5855
+    "expansion": 0.2653,
+    "risk_on_melt_up": 0.0283,
+    "inflation_shock": 0.0504,
+    "recession_fear": 0.0067,
+    "risk_off": 0.0681,
+    "neutral": 0.5813
   },
   "drivers": [
     {
@@ -40,16 +40,16 @@
     },
     {
       "signal": "crypto",
-      "score": -0.58,
+      "score": -0.606,
       "confidence": 1.0,
-      "weight": 0.58,
+      "weight": 0.606,
       "direction": "bearish"
     },
     {
-      "signal": "volatility",
-      "score": -0.276,
-      "confidence": 1.0,
-      "weight": 0.276,
+      "signal": "valuation",
+      "score": -0.315,
+      "confidence": 0.85,
+      "weight": 0.268,
       "direction": "bearish"
     }
   ],
@@ -67,7 +67,7 @@
     },
     "volatility": {
       "vix_level": 16.41,
-      "vix9d_over_vix": 1.1353
+      "vix9d_over_vix": 1.0518
     },
     "valuation": {
       "spy_pe": 26.87,
@@ -87,20 +87,20 @@
       "n_total": 11
     },
     "commodity": {
-      "copper_60d_return": 0.0447,
-      "oil_60d_return": -0.1095,
-      "gold_oil_ratio": 58.015,
-      "gold_oil_zscore": -0.189,
+      "copper_60d_return": 0.0455,
+      "oil_60d_return": -0.1152,
+      "gold_oil_ratio": 58.466,
+      "gold_oil_zscore": -0.156,
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": -0.1602,
-      "btc_pct_from_50dma": -0.1194,
-      "eth_30d_return": -0.1705,
+      "btc_30d_return": -0.1681,
+      "btc_pct_from_50dma": -0.1276,
+      "eth_30d_return": -0.1819,
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-18T03:16:09+00:00",
+  "computed_at": "2026-06-18T05:25:47+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.2222,
@@ -188,5 +188,5 @@
   ],
   "transition_observation_count": 20,
   "transition_warning": "Only 20 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-06-18T03:16:09+00:00"
+  "transitions_computed_at": "2026-06-18T05:25:47+00:00"
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-06-18T03:34:49.746528Z",
+  "fetchedAt": "2026-06-18T05:44:05.680935Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -75,8 +75,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Xavier University",
@@ -220,8 +220,8 @@
         "image": null,
         "occupations": [
           "merchant",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Miami University"
@@ -379,8 +379,8 @@
         "birthPlace": "Canastota",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
         "occupations": [
-          "submariner",
-          "military officer"
+          "military officer",
+          "submariner"
         ],
         "education": [
           "United States Naval Academy"
