@@ -307,6 +307,16 @@
         ],
         "employers": [
           {
+            "company": "Bell Labs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Jerrold Electronics",
             "start": null,
             "end": null
@@ -318,16 +328,6 @@
           },
           {
             "company": "General Instrument",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bell Labs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
             "start": null,
             "end": null
           }
