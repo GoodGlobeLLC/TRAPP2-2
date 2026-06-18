@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-06-17T06:02:02.012174Z",
+  "fetchedAt": "2026-06-18T03:20:44.508510Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -14,8 +14,8 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
@@ -50,8 +50,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Chalmers University of Technology"
@@ -97,8 +97,8 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "singer-songwriter",
-          "geneticist"
+          "geneticist",
+          "singer-songwriter"
         ],
         "education": [
           "University of Oxford",
@@ -140,9 +140,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of Massachusetts Dartmouth",
-          "Rutgers University"
+          "Rutgers University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -160,8 +160,8 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
@@ -196,8 +196,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "accountant"
+          "accountant",
+          "entrepreneur"
         ],
         "education": [
           "Oriel College"
@@ -219,8 +219,8 @@
         "image": null,
         "occupations": [
           "researcher",
-          "physician",
-          "biologist"
+          "biologist",
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -268,6 +268,16 @@
         ],
         "employers": [
           {
+            "company": "International Chamber of Commerce",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Citibank",
+            "start": "1980-01-01",
+            "end": "1982-01-01"
+          },
+          {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
             "end": null
@@ -291,16 +301,6 @@
             "company": "Deutsche Bank",
             "start": null,
             "end": null
-          },
-          {
-            "company": "International Chamber of Commerce",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Citibank",
-            "start": "1980-01-01",
-            "end": "1982-01-01"
           },
           {
             "company": "S. G. Warburg & Co.",
@@ -330,8 +330,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Chalmers University of Technology"

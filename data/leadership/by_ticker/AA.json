@@ -1,6 +1,6 @@
 {
   "ticker": "AA",
-  "fetchedAt": "2026-06-17T06:02:02.008181Z",
+  "fetchedAt": "2026-06-18T03:20:44.504268Z",
   "people": [
     {
       "qid": "Q29152660",
@@ -33,8 +33,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "jurist",
-          "chairman of the executive board"
+          "chairman of the executive board",
+          "jurist"
         ],
         "education": [
           "University of Copenhagen"

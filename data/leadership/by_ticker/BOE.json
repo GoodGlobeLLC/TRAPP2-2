@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-06-17T06:02:02.013997Z",
+  "fetchedAt": "2026-06-18T03:20:44.511112Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Iowa"
@@ -55,9 +55,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
+          "University of Connecticut School of Law",
           "Cornell University",
-          "University of Connecticut School of Law"
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
