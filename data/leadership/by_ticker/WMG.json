@@ -1,6 +1,6 @@
 {
   "ticker": "WMG",
-  "fetchedAt": "2026-06-17T06:02:02.032801Z",
+  "fetchedAt": "2026-06-18T03:16:23.664959Z",
   "people": [
     {
       "qid": "Q7608947",
@@ -36,10 +36,10 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "businessperson",
-          "investment banker",
           "chief executive officer",
-          "entrepreneur"
+          "investment banker",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Harvard Business School",

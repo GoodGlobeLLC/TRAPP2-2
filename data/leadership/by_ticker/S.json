@@ -1,6 +1,6 @@
 {
   "ticker": "S",
-  "fetchedAt": "2026-06-17T06:02:02.028262Z",
+  "fetchedAt": "2026-06-18T03:16:23.657069Z",
   "people": [
     {
       "qid": "Q15728648",
@@ -42,8 +42,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Holy Names University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Holy Names University"
         ],
         "employers": [],
         "positions": [
