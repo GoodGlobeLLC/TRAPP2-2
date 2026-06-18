@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-06-17T06:02:02.013753Z",
+  "fetchedAt": "2026-06-18T03:34:49.746230Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -19,8 +19,8 @@
           "immunologist",
           "chairman of the executive board",
           "researcher",
-          "university teacher",
           "physician",
+          "university teacher",
           "entrepreneur",
           "chief executive officer"
         ],
@@ -67,12 +67,12 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
-          "academic",
-          "board member",
           "researcher",
-          "entrepreneur",
           "university teacher",
           "immunologist",
+          "academic",
+          "board member",
+          "entrepreneur",
           "physician",
           "Privatdozent"
         ],
@@ -120,8 +120,8 @@
           "immunologist",
           "chairman of the executive board",
           "researcher",
-          "university teacher",
           "physician",
+          "university teacher",
           "entrepreneur",
           "chief executive officer"
         ],
@@ -168,12 +168,12 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
-          "academic",
-          "board member",
           "researcher",
-          "entrepreneur",
           "university teacher",
           "immunologist",
+          "academic",
+          "board member",
+          "entrepreneur",
           "physician",
           "Privatdozent"
         ],
@@ -221,8 +221,8 @@
           "immunologist",
           "chairman of the executive board",
           "researcher",
-          "university teacher",
           "physician",
+          "university teacher",
           "entrepreneur",
           "chief executive officer"
         ],

@@ -1,6 +1,6 @@
 {
   "ticker": "CAH",
-  "fetchedAt": "2026-06-17T06:02:02.015763Z",
+  "fetchedAt": "2026-06-18T03:34:49.748753Z",
   "people": [
     {
       "qid": "Q114395172",
@@ -133,8 +133,8 @@
         ],
         "education": [
           "Harvard University",
-          "George Washington University",
-          "Georgetown University"
+          "Georgetown University",
+          "George Washington University"
         ],
         "employers": [],
         "positions": []
@@ -303,7 +303,7 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy%20Killefer.jpg",
         "occupations": [
-          "writer"
+          "author"
         ],
         "education": [
           "Vassar College",

@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-06-17T06:02:02.012174Z",
+  "fetchedAt": "2026-06-18T03:34:49.744235Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -14,8 +14,8 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
@@ -50,8 +50,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Chalmers University of Technology"
@@ -97,12 +97,12 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "singer-songwriter",
-          "geneticist"
+          "geneticist",
+          "singer-songwriter"
         ],
         "education": [
-          "University of Oxford",
-          "Redland High School for Girls"
+          "Redland High School for Girls",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -160,8 +160,8 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
@@ -196,8 +196,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "accountant"
+          "accountant",
+          "entrepreneur"
         ],
         "education": [
           "Oriel College"
@@ -219,8 +219,8 @@
         "image": null,
         "occupations": [
           "researcher",
-          "physician",
-          "biologist"
+          "biologist",
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -260,8 +260,8 @@
         "birthPlace": "Stockholm",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Recebe%20em%20audi%C3%AAncia%20o%20presidente%20do%20Conselho%20Administrativo%20do%20Shandinaviska%20Enskilda%20Banken%2C%20Electrolux%20e%20SAAB%20-%20Sistemas%20de%20Defesa%20Aeroespacial%2C%20Marcus%20Wallenberg.%20%2816794468978%29%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "Walsh School of Foreign Service"
@@ -283,16 +283,6 @@
             "end": null
           },
           {
-            "company": "Institute of International Finance",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "International Chamber of Commerce",
             "start": null,
             "end": null
@@ -301,6 +291,16 @@
             "company": "Citibank",
             "start": "1980-01-01",
             "end": "1982-01-01"
+          },
+          {
+            "company": "Institute of International Finance",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": null,
+            "end": null
           },
           {
             "company": "S. G. Warburg & Co.",
@@ -330,8 +330,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Chalmers University of Technology"

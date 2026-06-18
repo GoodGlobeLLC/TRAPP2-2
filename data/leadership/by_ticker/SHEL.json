@@ -1,6 +1,6 @@
 {
   "ticker": "SHEL",
-  "fetchedAt": "2026-06-17T06:02:02.028588Z",
+  "fetchedAt": "2026-06-18T03:34:49.766511Z",
   "people": [
     {
       "qid": "Q113988833",
@@ -177,11 +177,11 @@
         "birthPlace": "Enkhuizen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Zalm%202006.jpg",
         "occupations": [
+          "politician",
           "finance minister",
           "economist",
-          "university teacher",
-          "politician",
-          "banker"
+          "banker",
+          "university teacher"
         ],
         "education": [
           "Vrije Universiteit Amsterdam"

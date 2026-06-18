@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-06-17T06:02:02.016506Z",
+  "fetchedAt": "2026-06-18T03:34:49.749720Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -263,17 +263,17 @@
         ],
         "employers": [
           {
-            "company": "Barnes & Noble",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Electronic Arts",
             "start": null,
             "end": null
           },
           {
             "company": "Starbucks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Barnes & Noble",
             "start": null,
             "end": null
           }
@@ -294,16 +294,16 @@
         "image": null,
         "occupations": [
           "business executive",
-          "publisher",
-          "entrepreneur"
+          "entrepreneur",
+          "publisher"
         ],
         "education": [
-          "Johns Hopkins University",
-          "New York University Tandon School of Engineering",
           "Yale School of Engineering and Applied Science",
           "Hopkins School",
-          "Yale University",
-          "New York University"
+          "Johns Hopkins University",
+          "New York University Tandon School of Engineering",
+          "New York University",
+          "Yale University"
         ],
         "employers": [
           {

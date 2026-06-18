@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-06-17T06:02:02.014474Z",
+  "fetchedAt": "2026-06-18T03:34:49.747112Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -61,12 +61,12 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "broker-dealer",
           "financier",
           "investor",
-          "economist",
+          "broker-dealer",
           "chief executive officer",
           "shareholder",
+          "economist",
           "entrepreneur"
         ],
         "education": [
@@ -105,8 +105,8 @@
         ],
         "education": [
           "Colgate University",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -146,10 +146,10 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
-          "University of Michigan College of Literature, Science, and the Arts",
           "California Institute of Technology",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Omaha Central High School",
+          "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
           {
@@ -472,8 +472,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
           "entrepreneur",
-          "writer",
           "farmer",
+          "author",
           "photographer"
         ],
         "education": [
@@ -505,9 +505,9 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
+          "Harvard Business School",
           "Harvard University",
-          "Harvard Business School"
+          "Indian Institute of Technology Kharagpur"
         ],
         "employers": [
           {
@@ -541,9 +541,9 @@
           "military personnel"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Cornell University"
+          "Cornell University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -673,12 +673,12 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "broker-dealer",
           "financier",
           "investor",
-          "economist",
+          "broker-dealer",
           "chief executive officer",
           "shareholder",
+          "economist",
           "entrepreneur"
         ],
         "education": [

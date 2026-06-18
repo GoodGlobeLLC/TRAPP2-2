@@ -1,6 +1,6 @@
 {
   "ticker": "IMAX",
-  "fetchedAt": "2026-06-17T06:02:02.021592Z",
+  "fetchedAt": "2026-06-18T03:34:49.756640Z",
   "people": [
     {
       "qid": "Q36395056",
@@ -36,11 +36,11 @@
         "birthPlace": "Yorkton",
         "image": null,
         "occupations": [
-          "film director",
           "producer",
           "film producer",
-          "inventor",
           "director",
+          "film director",
+          "inventor",
           "screenwriter"
         ],
         "education": [
