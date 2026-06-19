@@ -46,10 +46,10 @@
       "direction": "bearish"
     },
     {
-      "signal": "volatility",
-      "score": 0.417,
+      "signal": "macro",
+      "score": 0.733,
       "confidence": 1.0,
-      "weight": 0.417,
+      "weight": 0.733,
       "direction": "bullish"
     }
   ],

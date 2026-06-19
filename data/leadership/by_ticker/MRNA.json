@@ -83,8 +83,8 @@
           "inventor"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "McGill University"
+          "McGill University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -169,12 +169,12 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
-          "university teacher",
           "chemical engineer",
+          "university teacher",
           "biochemist",
           "biotechnologist",
-          "inventor",
-          "engineer"
+          "engineer",
+          "inventor"
         ],
         "education": [
           "The Milne School",
