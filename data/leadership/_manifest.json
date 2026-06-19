@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-18T05:44:05.763447Z",
+  "generatedAt": "2026-06-19T05:17:12.200321Z",
   "totalPeople": 250,
   "totalTickers": 78,
-  "lastRangeFilter": "ALL",
-  "thisRunPeople": 246,
-  "thisRunTickers": 238,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 79,
+  "thisRunTickers": 93,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,6 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "AES",
         "WBA"
       ],
       "positionsCount": 1,
