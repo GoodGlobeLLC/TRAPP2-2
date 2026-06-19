@@ -55,8 +55,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Connecticut School of Law",
           "Cornell University",
+          "University of Connecticut School of Law",
           "Massachusetts Institute of Technology"
         ],
         "employers": [],
@@ -75,8 +75,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Xavier University",
@@ -220,8 +220,8 @@
         "image": null,
         "occupations": [
           "merchant",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Miami University"

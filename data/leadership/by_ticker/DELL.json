@@ -18,6 +18,7 @@
           "philanthropist",
           "investor",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist",
           "entrepreneur",
           "businessperson"
@@ -116,8 +117,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -192,11 +193,11 @@
           "business executive"
         ],
         "education": [
-          "Northwestern University",
-          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "Northwestern University",
+          "Tufts University"
         ],
         "employers": [
           {
@@ -234,6 +235,7 @@
           "philanthropist",
           "investor",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist",
           "entrepreneur",
           "businessperson"
@@ -269,6 +271,7 @@
           "philanthropist",
           "investor",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist",
           "entrepreneur",
           "businessperson"

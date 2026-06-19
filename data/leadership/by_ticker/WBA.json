@@ -14,6 +14,7 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
+          "entrepreneur",
           "engineer",
           "chief executive officer",
           "businessperson",
@@ -65,9 +66,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "Birla Institute of Technology and Science",
           "Carnegie Mellon University",
-          "University of Massachusetts Amherst",
-          "Birla Institute of Technology and Science"
+          "University of Massachusetts Amherst"
         ],
         "employers": [
           {
@@ -318,6 +319,7 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
+          "entrepreneur",
           "engineer",
           "chief executive officer",
           "businessperson",
@@ -383,8 +385,8 @@
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "Stanford University",
-          "University of Michigan"
+          "University of Michigan",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
