@@ -5,18 +5,18 @@
   "birthPlace": "Albany",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
   "occupations": [
-    "biotechnologist",
     "university teacher",
     "chemical engineer",
     "biochemist",
-    "engineer",
-    "inventor"
+    "biotechnologist",
+    "inventor",
+    "engineer"
   ],
   "education": [
-    "Massachusetts Institute of Technology",
-    "Cornell University",
     "The Milne School",
-    "Cornell University College of Engineering"
+    "Cornell University College of Engineering",
+    "Cornell University",
+    "Massachusetts Institute of Technology"
   ],
   "employers": [
     {

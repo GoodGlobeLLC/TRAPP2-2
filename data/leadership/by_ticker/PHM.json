@@ -1,33 +1,5 @@
 {
   "ticker": "PHM",
-  "fetchedAt": "2026-06-18T05:44:05.705891Z",
-  "people": [
-    {
-      "qid": "Q4910558",
-      "name": "Bill Pulte",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q4910558",
-        "name": "Bill Pulte",
-        "dateOfBirth": "1932-05-16",
-        "birthPlace": "Detroit",
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "De La Salle Collegiate High School"
-        ],
-        "employers": [
-          {
-            "company": "PulteGroup",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    }
-  ]
+  "fetchedAt": "2026-06-19T05:17:12.177650Z",
+  "people": []
 }
