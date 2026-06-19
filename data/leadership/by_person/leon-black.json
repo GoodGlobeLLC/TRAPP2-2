@@ -5,17 +5,17 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
+    "businessperson",
     "art collector",
     "investment banker",
     "financier",
-    "investor",
-    "businessperson"
+    "investor"
   ],
   "education": [
-    "Dartmouth College",
     "Harvard Business School",
     "Van High School",
     "Ethical Culture Fieldston School",
+    "Dartmouth College",
     "Harvard University"
   ],
   "employers": [

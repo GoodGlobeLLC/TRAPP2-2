@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-06-18T05:44:05.681683Z",
+  "fetchedAt": "2026-06-19T05:21:55.819417Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -186,8 +186,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Bowdoin College",
@@ -473,8 +473,8 @@
         "occupations": [
           "entrepreneur",
           "farmer",
-          "photographer",
-          "author"
+          "writer",
+          "photographer"
         ],
         "education": [
           "Harvard University"
@@ -505,8 +505,8 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
+          "Indian Institute of Technology Kharagpur",
           "Harvard University"
         ],
         "employers": [
