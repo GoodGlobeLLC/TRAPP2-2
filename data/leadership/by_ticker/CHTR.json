@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-06-19T05:21:55.821627Z",
+  "fetchedAt": "2026-06-19T06:03:04.331279Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -171,9 +171,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Virginia",
           "Princeton University",
-          "University of Mississippi"
+          "University of Mississippi",
+          "University of Virginia"
         ],
         "employers": [],
         "positions": []
@@ -263,17 +263,17 @@
         ],
         "employers": [
           {
-            "company": "Barnes & Noble",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Electronic Arts",
             "start": null,
             "end": null
           },
           {
             "company": "Starbucks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Barnes & Noble",
             "start": null,
             "end": null
           }
@@ -302,8 +302,8 @@
           "Hopkins School",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
-          "Yale University",
-          "New York University"
+          "New York University",
+          "Yale University"
         ],
         "employers": [
           {

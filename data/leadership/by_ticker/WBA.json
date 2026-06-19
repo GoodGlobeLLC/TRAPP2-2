@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-19T05:17:12.186345Z",
+  "fetchedAt": "2026-06-19T06:03:04.355184Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,9 +14,9 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
+          "chief executive officer",
           "entrepreneur",
           "engineer",
-          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -65,9 +65,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Birla Institute of Technology and Science",
           "Carnegie Mellon University",
-          "University of Massachusetts Amherst"
+          "University of Massachusetts Amherst",
+          "Birla Institute of Technology and Science"
         ],
         "employers": [
           {
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
-          "Cornell University"
+          "Cornell University",
+          "Duke University"
         ],
         "employers": [],
         "positions": []
@@ -226,16 +226,16 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [
           "Stanford Law School",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Chicago",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -318,9 +318,9 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
+          "chief executive officer",
           "entrepreneur",
           "engineer",
-          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -376,8 +376,8 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "Northfield Mount Hermon School",

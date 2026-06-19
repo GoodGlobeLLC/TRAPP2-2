@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-06-19T05:21:55.818366Z",
+  "fetchedAt": "2026-06-19T06:03:04.327385Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -90,9 +90,9 @@
           "manager"
         ],
         "education": [
-          "Phillips Exeter Academy",
           "Klenze-Gymnasium Munich",
-          "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+          "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {

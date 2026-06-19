@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-06-19T05:21:55.815778Z",
+  "fetchedAt": "2026-06-19T06:03:04.324693Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -55,16 +55,16 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "art collector",
           "investment banker",
           "financier",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],
@@ -114,8 +114,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -155,8 +155,8 @@
         "birthPlace": "Washington, D.C.",
         "image": null,
         "occupations": [
-          "businessperson",
           "financier",
+          "businessperson",
           "investment banker"
         ],
         "education": [
@@ -236,16 +236,16 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "art collector",
           "investment banker",
           "financier",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],

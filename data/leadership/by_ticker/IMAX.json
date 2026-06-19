@@ -1,6 +1,6 @@
 {
   "ticker": "IMAX",
-  "fetchedAt": "2026-06-19T05:13:34.034808Z",
+  "fetchedAt": "2026-06-19T06:03:04.338915Z",
   "people": [
     {
       "qid": "Q36395056",
@@ -39,8 +39,8 @@
           "producer",
           "film producer",
           "director",
-          "inventor",
           "film director",
+          "inventor",
           "screenwriter"
         ],
         "education": [
