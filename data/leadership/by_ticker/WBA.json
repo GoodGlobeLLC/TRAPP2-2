@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-18T05:44:05.716608Z",
+  "fetchedAt": "2026-06-19T05:37:26.869707Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -16,8 +16,8 @@
         "occupations": [
           "engineer",
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
-          "Cornell University"
+          "Cornell University",
+          "Duke University"
         ],
         "employers": [],
         "positions": []
@@ -226,8 +226,8 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [
           "Stanford Law School",
@@ -320,8 +320,8 @@
         "occupations": [
           "engineer",
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Polytechnic University of Milan"

@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-06-18T05:44:05.689243Z",
+  "fetchedAt": "2026-06-19T05:37:26.844239Z",
   "people": [
     {
       "qid": "Q218630",
@@ -17,9 +17,9 @@
           "financier",
           "philanthropist",
           "investor",
-          "entrepreneur",
           "chief executive officer",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -49,8 +49,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "College of the Holy Cross",
@@ -72,8 +72,8 @@
         "birthPlace": "L\u00fcbeck",
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Georgetown University"
@@ -97,8 +97,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -233,9 +233,9 @@
           "financier",
           "philanthropist",
           "investor",
-          "entrepreneur",
           "chief executive officer",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -268,9 +268,9 @@
           "financier",
           "philanthropist",
           "investor",
-          "entrepreneur",
           "chief executive officer",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [

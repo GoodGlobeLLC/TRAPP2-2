@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-18T05:44:05.700924Z",
+  "fetchedAt": "2026-06-19T05:37:26.854885Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -14,8 +14,8 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "\u00c9cole Centrale Paris",
@@ -78,13 +78,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
           "businessperson",
-          "entrepreneur",
+          "donor",
           "inventor",
-          "donor"
+          "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "McGill University"
+          "McGill University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -169,27 +169,27 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
-          "biotechnologist",
-          "university teacher",
           "chemical engineer",
+          "university teacher",
           "biochemist",
+          "biotechnologist",
           "engineer",
           "inventor"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Cornell University",
           "The Milne School",
-          "Cornell University College of Engineering"
+          "Cornell University College of Engineering",
+          "Cornell University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -220,17 +220,17 @@
         ],
         "employers": [
           {
-            "company": "Moderna",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Sanofi",
             "start": null,
             "end": null
           },
           {
             "company": "GSK",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Moderna",
             "start": null,
             "end": null
           },
@@ -255,8 +255,8 @@
         "birthPlace": "Marseille",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephane%20Bancel.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "\u00c9cole Centrale Paris",
@@ -303,11 +303,11 @@
           "researcher"
         ],
         "education": [
+          "Universit\u00e9 libre de Bruxelles",
+          "Harvard Medical School",
           "Tufts University School of Medicine",
           "Mohammed V high school",
-          "International Institute for Management Development",
-          "Universit\u00e9 libre de Bruxelles",
-          "Harvard Medical School"
+          "International Institute for Management Development"
         ],
         "employers": [
           {
@@ -326,16 +326,6 @@
             "end": "2017-01-01"
           },
           {
-            "company": "Intellia Therapeutics",
-            "start": "2017-07-24",
-            "end": "2017-08-09"
-          },
-          {
-            "company": "Galvani Bioelectronics",
-            "start": "2016-01-01",
-            "end": null
-          },
-          {
             "company": "Lonza Group",
             "start": "2020-04-01",
             "end": "2020-05-17"
@@ -349,6 +339,16 @@
             "company": "Qatar Foundation",
             "start": "2009-01-01",
             "end": "2020-01-01"
+          },
+          {
+            "company": "Intellia Therapeutics",
+            "start": "2017-07-24",
+            "end": "2017-08-09"
+          },
+          {
+            "company": "Galvani Bioelectronics",
+            "start": "2016-01-01",
+            "end": null
           }
         ],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-06-18T05:44:05.682540Z",
+  "fetchedAt": "2026-06-19T05:37:26.838175Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -61,13 +61,13 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "broker-dealer",
           "financier",
           "investor",
+          "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "economist",
-          "entrepreneur"
+          "entrepreneur",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
@@ -104,8 +104,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
+          "Colgate University",
           "Harvard University"
         ],
         "employers": [
@@ -146,9 +146,9 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
+          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
@@ -186,8 +186,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Bowdoin College",
@@ -474,7 +474,7 @@
           "entrepreneur",
           "farmer",
           "photographer",
-          "author"
+          "writer"
         ],
         "education": [
           "Harvard University"
@@ -505,8 +505,8 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
+          "Indian Institute of Technology Kharagpur",
           "Harvard University"
         ],
         "employers": [
@@ -673,13 +673,13 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "broker-dealer",
           "financier",
           "investor",
+          "broker-dealer",
           "chief executive officer",
           "shareholder",
-          "economist",
-          "entrepreneur"
+          "entrepreneur",
+          "economist"
         ],
         "education": [
           "New York Institute of Finance",
