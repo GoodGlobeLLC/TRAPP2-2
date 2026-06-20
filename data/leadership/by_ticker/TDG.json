@@ -1,6 +1,6 @@
 {
   "ticker": "TDG",
-  "fetchedAt": "2026-06-19T06:03:04.351736Z",
+  "fetchedAt": "2026-06-20T05:26:31.658397Z",
   "people": [
     {
       "qid": "Q117323921",
@@ -14,10 +14,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "philanthropist",
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Stanford University"

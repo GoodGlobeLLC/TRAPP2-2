@@ -1,6 +1,6 @@
 {
   "ticker": "VRTX",
-  "fetchedAt": "2026-06-19T06:03:04.354733Z",
+  "fetchedAt": "2026-06-20T05:26:31.660529Z",
   "people": [
     {
       "qid": "Q75692161",
@@ -17,8 +17,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
-          "Boston University School of Medicine"
+          "Boston University School of Medicine",
+          "Harvard University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-06-19T06:03:04.328547Z",
+  "fetchedAt": "2026-06-20T05:26:31.603720Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -61,10 +61,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "financier",
-          "investor",
           "broker-dealer",
           "economist",
+          "financier",
+          "investor",
           "chief executive officer",
           "shareholder",
           "entrepreneur"
@@ -104,8 +104,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Colgate University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -146,9 +146,9 @@
           "investor"
         ],
         "education": [
+          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
-          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
@@ -186,8 +186,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Bowdoin College",
@@ -268,9 +268,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -471,10 +471,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
+          "photographer",
           "entrepreneur",
           "writer",
-          "farmer",
-          "photographer"
+          "farmer"
         ],
         "education": [
           "Harvard University"
@@ -542,8 +542,8 @@
         ],
         "education": [
           "Cornell University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -673,10 +673,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "financier",
-          "investor",
           "broker-dealer",
           "economist",
+          "financier",
+          "investor",
           "chief executive officer",
           "shareholder",
           "entrepreneur"

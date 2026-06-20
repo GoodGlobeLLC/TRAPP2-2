@@ -5,12 +5,12 @@
   "birthPlace": "Albany",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
   "occupations": [
-    "chemical engineer",
-    "university teacher",
-    "biochemist",
     "biotechnologist",
+    "inventor",
     "engineer",
-    "inventor"
+    "biochemist",
+    "chemical engineer",
+    "university teacher"
   ],
   "education": [
     "The Milne School",
