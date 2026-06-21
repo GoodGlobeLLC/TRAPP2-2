@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-06-21T05:52:26.331698Z",
+  "fetchedAt": "2026-06-21T18:34:55.344470Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -14,8 +14,8 @@
         "birthPlace": "Heidelberg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Zipse%20%282018%29.jpg",
         "occupations": [
-          "engineer",
-          "manager"
+          "manager",
+          "engineer"
         ],
         "education": [
           "Technical University of Darmstadt",
