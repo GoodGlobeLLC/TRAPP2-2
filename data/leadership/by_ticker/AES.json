@@ -1,6 +1,6 @@
 {
   "ticker": "AES",
-  "fetchedAt": "2026-06-20T05:26:31.585447Z",
+  "fetchedAt": "2026-06-21T05:52:26.327440Z",
   "people": [
     {
       "qid": "Q125432523",
@@ -443,8 +443,8 @@
         "occupations": [
           "journalist",
           "economist",
-          "writer",
-          "politician"
+          "politician",
+          "writer"
         ],
         "education": [
           "Massachusetts Institute of Technology",

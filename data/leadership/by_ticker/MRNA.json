@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-06-20T05:26:31.652840Z",
+  "fetchedAt": "2026-06-21T05:52:26.346085Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -77,14 +77,14 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
-          "businessperson",
-          "inventor",
+          "donor",
           "entrepreneur",
-          "donor"
+          "inventor",
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "McGill University"
+          "McGill University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -124,8 +124,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nabel%20in%20her%20lab%20at%20the%20NHLBI.jpg",
         "occupations": [
-          "cardiologist",
-          "scientist"
+          "scientist",
+          "cardiologist"
         ],
         "education": [
           "Weill Cornell Medicine",
@@ -133,6 +133,11 @@
           "Harvard Medical School"
         ],
         "employers": [
+          {
+            "company": "University of Michigan",
+            "start": null,
+            "end": null
+          },
           {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
@@ -145,11 +150,6 @@
           },
           {
             "company": "Brigham and Women's Hospital",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -169,17 +169,17 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
-          "biotechnologist",
-          "inventor",
-          "engineer",
-          "biochemist",
           "chemical engineer",
-          "university teacher"
+          "university teacher",
+          "biochemist",
+          "biotechnologist",
+          "engineer",
+          "inventor"
         ],
         "education": [
+          "Cornell University",
           "The Milne School",
           "Cornell University College of Engineering",
-          "Cornell University",
           "Massachusetts Institute of Technology"
         ],
         "employers": [
@@ -303,11 +303,11 @@
           "immunologist"
         ],
         "education": [
+          "Universit\u00e9 libre de Bruxelles",
+          "Harvard Medical School",
           "Tufts University School of Medicine",
           "Mohammed V high school",
-          "International Institute for Management Development",
-          "Universit\u00e9 libre de Bruxelles",
-          "Harvard Medical School"
+          "International Institute for Management Development"
         ],
         "employers": [
           {

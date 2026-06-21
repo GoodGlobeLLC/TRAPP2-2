@@ -1,6 +1,6 @@
 {
   "ticker": "SHEL",
-  "fetchedAt": "2026-06-20T05:26:31.656990Z",
+  "fetchedAt": "2026-06-21T05:52:26.351740Z",
   "people": [
     {
       "qid": "Q113988833",
@@ -44,8 +44,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Andrew%20Mackenzie%20FRS.jpg",
         "occupations": [
           "geologist",
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "University of St Andrews"
@@ -80,8 +80,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Andrew%20Mackenzie%20FRS.jpg",
         "occupations": [
           "geologist",
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "University of St Andrews"
@@ -179,8 +179,8 @@
         "occupations": [
           "finance minister",
           "university teacher",
-          "banker",
           "economist",
+          "banker",
           "politician"
         ],
         "education": [

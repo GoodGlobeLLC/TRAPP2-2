@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-06-20T05:26:31.604228Z",
+  "fetchedAt": "2026-06-21T05:52:26.333415Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -62,11 +62,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "economist",
           "financier",
           "investor",
           "chief executive officer",
           "shareholder",
+          "economist",
           "entrepreneur"
         ],
         "education": [
@@ -146,9 +146,9 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
+          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
@@ -186,8 +186,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Bowdoin College",
@@ -471,10 +471,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "photographer",
           "entrepreneur",
-          "writer",
-          "farmer"
+          "farmer",
+          "photographer",
+          "writer"
         ],
         "education": [
           "Harvard University"
@@ -541,9 +541,9 @@
           "military personnel"
         ],
         "education": [
+          "Harvard Business School",
           "Cornell University",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -674,11 +674,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "economist",
           "financier",
           "investor",
           "chief executive officer",
           "shareholder",
+          "economist",
           "entrepreneur"
         ],
         "education": [

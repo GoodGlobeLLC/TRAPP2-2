@@ -1,6 +1,6 @@
 {
   "ticker": "LEN",
-  "fetchedAt": "2026-06-20T05:26:31.651722Z",
+  "fetchedAt": "2026-06-21T05:52:26.344384Z",
   "people": [
     {
       "qid": "Q740364",
@@ -14,8 +14,8 @@
         "birthPlace": "Hefei",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yang%20Yuanqing%20-%20Annual%20Meeting%20of%20the%20New%20Champions%20Tianjin%202008%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of Science and Technology of China",
