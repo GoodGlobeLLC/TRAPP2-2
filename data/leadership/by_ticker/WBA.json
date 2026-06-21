@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-21T05:52:26.356863Z",
+  "fetchedAt": "2026-06-21T18:31:09.127549Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,9 +14,9 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
+          "engineer",
           "chief executive officer"
         ],
         "education": [
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
-          "Cornell University"
+          "Cornell University",
+          "Duke University"
         ],
         "employers": [],
         "positions": []
@@ -226,8 +226,8 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [
           "University of Pennsylvania",
@@ -318,9 +318,9 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
+          "engineer",
           "chief executive officer"
         ],
         "education": [
@@ -376,8 +376,8 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "University of Michigan",
