@@ -1,6 +1,6 @@
 {
   "ticker": "S",
-  "fetchedAt": "2026-06-21T05:52:26.351307Z",
+  "fetchedAt": "2026-06-21T18:31:09.119837Z",
   "people": [
     {
       "qid": "Q15728648",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcelo%20Claure%202019%20uncropped%20%28cropped%29.jpg",
         "occupations": [
           "philanthropist",
-          "technology entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "technology entrepreneur"
         ],
         "education": [
           "Bentley University",
