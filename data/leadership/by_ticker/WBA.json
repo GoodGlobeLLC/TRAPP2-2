@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-21T18:31:09.127549Z",
+  "fetchedAt": "2026-06-22T12:24:37.199840Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "businessperson",
+          "chief executive officer",
           "entrepreneur",
           "engineer",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stony Brook University",
-          "Stanford University"
+          "Stanford University",
+          "Stony Brook University"
         ],
         "employers": [],
         "positions": []
@@ -230,11 +230,11 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Stanford Law School",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
+          "University of Pennsylvania",
           "University of Chicago"
         ],
         "employers": [
@@ -292,8 +292,8 @@
         "education": [
           "The Wharton School",
           "West Virginia University",
-          "University of Pennsylvania",
-          "West Virginia University School of Medicine"
+          "West Virginia University School of Medicine",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "businessperson",
+          "chief executive officer",
           "entrepreneur",
           "engineer",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -376,15 +376,15 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
           "University of Michigan",
+          "Stanford University",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
-          "University of Michigan Law School",
-          "Stanford University"
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": [
