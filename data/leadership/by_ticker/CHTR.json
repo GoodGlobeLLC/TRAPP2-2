@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-06-21T18:34:55.347680Z",
+  "fetchedAt": "2026-06-22T09:50:45.457214Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -151,8 +151,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -194,8 +194,8 @@
           "financier"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Harvard Business School"
+          "Harvard Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -263,17 +263,17 @@
         ],
         "employers": [
           {
+            "company": "Barnes & Noble",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Electronic Arts",
             "start": null,
             "end": null
           },
           {
             "company": "Starbucks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Barnes & Noble",
             "start": null,
             "end": null
           }
@@ -293,29 +293,19 @@
         "birthPlace": "Milford",
         "image": null,
         "occupations": [
-          "publisher",
+          "entrepreneur",
           "business executive",
-          "entrepreneur"
+          "publisher"
         ],
         "education": [
-          "Yale School of Engineering and Applied Science",
-          "Hopkins School",
           "Yale University",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
+          "Yale School of Engineering and Applied Science",
+          "Hopkins School",
           "New York University"
         ],
         "employers": [
-          {
-            "company": "Bell Labs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Jerrold Electronics",
             "start": null,
@@ -328,6 +318,16 @@
           },
           {
             "company": "General Instrument",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bell Labs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
             "start": null,
             "end": null
           }

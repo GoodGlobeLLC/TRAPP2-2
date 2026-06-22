@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-06-21T18:34:55.345436Z",
+  "fetchedAt": "2026-06-22T09:50:45.454935Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -61,21 +61,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "broker-dealer",
           "financier",
           "investor",
-          "broker-dealer",
           "chief executive officer",
           "shareholder",
           "economist",
           "entrepreneur"
         ],
         "education": [
+          "University of Pennsylvania",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -471,10 +471,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "farmer",
           "entrepreneur",
           "writer",
-          "photographer"
+          "photographer",
+          "farmer"
         ],
         "education": [
           "Harvard University"
@@ -505,8 +505,8 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
+          "Indian Institute of Technology Kharagpur",
           "Harvard University"
         ],
         "employers": [
@@ -541,8 +541,8 @@
           "military personnel"
         ],
         "education": [
-          "Cornell University",
           "Harvard Business School",
+          "Cornell University",
           "Harvard University"
         ],
         "employers": [],
@@ -673,21 +673,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "broker-dealer",
           "financier",
           "investor",
-          "broker-dealer",
           "chief executive officer",
           "shareholder",
           "economist",
           "entrepreneur"
         ],
         "education": [
+          "University of Pennsylvania",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [

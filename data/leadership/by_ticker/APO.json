@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-06-21T18:34:55.342260Z",
+  "fetchedAt": "2026-06-22T09:50:45.451520Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -156,8 +156,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "investment banker",
-          "financier"
+          "financier",
+          "investment banker"
         ],
         "education": [
           "Columbia Business School",

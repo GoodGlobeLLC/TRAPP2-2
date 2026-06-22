@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-06-21T18:34:55.343003Z",
+  "fetchedAt": "2026-06-22T09:50:45.452388Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -14,8 +14,8 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
@@ -97,12 +97,12 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "geneticist",
-          "singer-songwriter"
+          "singer-songwriter",
+          "geneticist"
         ],
         "education": [
-          "Redland High School for Girls",
-          "University of Oxford"
+          "University of Oxford",
+          "Redland High School for Girls"
         ],
         "employers": [
           {
@@ -160,8 +160,8 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
@@ -196,8 +196,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
-          "entrepreneur"
+          "entrepreneur",
+          "accountant"
         ],
         "education": [
           "Oriel College"
@@ -219,8 +219,8 @@
         "image": null,
         "occupations": [
           "biologist",
-          "physician",
-          "researcher"
+          "researcher",
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -268,6 +268,16 @@
         ],
         "employers": [
           {
+            "company": "International Chamber of Commerce",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Citibank",
+            "start": "1980-01-01",
+            "end": "1982-01-01"
+          },
+          {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
             "end": null
@@ -281,16 +291,6 @@
             "company": "Investor",
             "start": null,
             "end": null
-          },
-          {
-            "company": "International Chamber of Commerce",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Citibank",
-            "start": "1980-01-01",
-            "end": "1982-01-01"
           },
           {
             "company": "Institute of International Finance",
