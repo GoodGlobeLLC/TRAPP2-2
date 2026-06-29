@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-06-22T12:24:37.197269Z",
+  "fetchedAt": "2026-06-29T11:20:20.670701Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -240,8 +240,8 @@
           "prosecutor",
           "jurist",
           "governor",
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "University of Arkansas School of Law",
