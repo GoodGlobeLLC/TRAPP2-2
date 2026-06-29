@@ -1,6 +1,6 @@
 {
   "ticker": "DASTY",
-  "fetchedAt": "2026-06-22T09:50:45.460115Z",
+  "fetchedAt": "2026-06-29T09:00:59.641490Z",
   "people": [
     {
       "qid": "Q115735422",
@@ -14,7 +14,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [],
-        "education": [],
+        "education": [
+          "Mines ParisTech"
+        ],
         "employers": [],
         "positions": [
           {

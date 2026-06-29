@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-06-22T09:50:45.455528Z",
+  "fetchedAt": "2026-06-29T09:00:59.635499Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -62,20 +62,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "financier",
-          "investor",
           "chief executive officer",
           "shareholder",
+          "financier",
+          "investor",
           "economist",
           "entrepreneur"
         ],
         "education": [
-          "University of Pennsylvania",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -472,9 +472,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
           "entrepreneur",
+          "farmer",
           "writer",
-          "photographer",
-          "farmer"
+          "photographer"
         ],
         "education": [
           "Harvard University"
@@ -505,8 +505,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Indian Institute of Technology Kharagpur",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -674,20 +674,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "financier",
-          "investor",
           "chief executive officer",
           "shareholder",
+          "financier",
+          "investor",
           "economist",
           "entrepreneur"
         ],
         "education": [
-          "University of Pennsylvania",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [

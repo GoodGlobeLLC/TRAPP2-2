@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-06-22T09:50:45.452388Z",
+  "fetchedAt": "2026-06-29T09:00:59.631616Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -97,12 +97,12 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "singer-songwriter",
-          "geneticist"
+          "geneticist",
+          "singer-songwriter"
         ],
         "education": [
-          "University of Oxford",
-          "Redland High School for Girls"
+          "Redland High School for Girls",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -196,8 +196,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "accountant"
+          "accountant",
+          "entrepreneur"
         ],
         "education": [
           "Oriel College"

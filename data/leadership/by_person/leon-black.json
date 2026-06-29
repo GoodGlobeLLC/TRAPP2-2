@@ -6,10 +6,10 @@
   "image": null,
   "occupations": [
     "art collector",
-    "investment banker",
-    "financier",
+    "businessperson",
     "investor",
-    "businessperson"
+    "investment banker",
+    "financier"
   ],
   "education": [
     "Harvard Business School",
@@ -32,12 +32,6 @@
   ],
   "positions": [
     {
-      "title": "chief executive officer",
-      "company": null,
-      "start": "1990-01-01",
-      "end": "2021-01-01"
-    },
-    {
       "title": "trustee",
       "company": null,
       "start": null,
@@ -47,6 +41,12 @@
       "title": "chairperson",
       "company": null,
       "start": "2018-01-01",
+      "end": "2021-01-01"
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "1990-01-01",
       "end": "2021-01-01"
     }
   ],
