@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-06-29T09:00:59.633632Z",
+  "fetchedAt": "2026-07-06T08:22:31.311642Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -85,9 +85,9 @@
         "birthPlace": "F\u00fcrstenwalde",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helmut%20Panke.jpg",
         "occupations": [
-          "chairman of the executive board",
           "manager",
-          "physicist"
+          "physicist",
+          "chairman of the executive board"
         ],
         "education": [
           "Klenze-Gymnasium Munich",
@@ -121,6 +121,7 @@
           "entrepreneur"
         ],
         "education": [
+          "German Technical University in Brno",
           "Brno University of Technology"
         ],
         "employers": [

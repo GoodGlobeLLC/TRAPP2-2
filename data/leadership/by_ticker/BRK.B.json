@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-06-29T09:00:59.635499Z",
+  "fetchedAt": "2026-07-06T08:22:31.313131Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -62,20 +62,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "chief executive officer",
-          "shareholder",
           "financier",
           "investor",
           "economist",
+          "chief executive officer",
+          "shareholder",
           "entrepreneur"
         ],
         "education": [
+          "University of Pennsylvania",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -186,8 +186,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Bowdoin College",
@@ -444,9 +444,9 @@
           "businessperson"
         ],
         "education": [
+          "Teachers College",
           "Trinity College",
-          "Harvard Business School",
-          "Teachers College"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -505,8 +505,8 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
+          "Indian Institute of Technology Kharagpur",
           "Harvard University"
         ],
         "employers": [
@@ -541,8 +541,8 @@
           "military personnel"
         ],
         "education": [
-          "Harvard Business School",
           "Cornell University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -674,20 +674,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "chief executive officer",
-          "shareholder",
           "financier",
           "investor",
           "economist",
+          "chief executive officer",
+          "shareholder",
           "entrepreneur"
         ],
         "education": [
+          "University of Pennsylvania",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [

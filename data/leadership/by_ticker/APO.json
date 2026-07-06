@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-06-29T09:00:59.630693Z",
+  "fetchedAt": "2026-07-06T08:22:31.309439Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -56,15 +56,15 @@
         "image": null,
         "occupations": [
           "art collector",
-          "businessperson",
-          "investor",
           "investment banker",
+          "investor",
+          "businessperson",
           "financier"
         ],
         "education": [
-          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],
@@ -114,8 +114,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -237,15 +237,15 @@
         "image": null,
         "occupations": [
           "art collector",
-          "businessperson",
-          "investor",
           "investment banker",
+          "investor",
+          "businessperson",
           "financier"
         ],
         "education": [
-          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],
