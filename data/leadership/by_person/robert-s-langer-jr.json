@@ -6,26 +6,26 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
   "occupations": [
     "chemical engineer",
-    "university teacher",
-    "biochemist",
     "biotechnologist",
     "engineer",
+    "biochemist",
+    "university teacher",
     "inventor"
   ],
   "education": [
     "The Milne School",
     "Cornell University College of Engineering",
-    "Cornell University",
-    "Massachusetts Institute of Technology"
+    "Massachusetts Institute of Technology",
+    "Cornell University"
   ],
   "employers": [
     {
-      "company": "Harvard University",
+      "company": "Massachusetts Institute of Technology",
       "start": null,
       "end": null
     },
     {
-      "company": "Massachusetts Institute of Technology",
+      "company": "Harvard University",
       "start": null,
       "end": null
     }
