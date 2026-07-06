@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-29T11:20:20.673209Z",
+  "fetchedAt": "2026-07-06T10:58:08.256811Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -16,8 +16,8 @@
         "occupations": [
           "entrepreneur",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Stony Brook University"
+          "Stony Brook University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
-          "Cornell University"
+          "Cornell University",
+          "Duke University"
         ],
         "employers": [],
         "positions": []
@@ -234,8 +234,8 @@
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Pennsylvania",
-          "University of Chicago"
+          "University of Chicago",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -292,8 +292,8 @@
         "education": [
           "The Wharton School",
           "West Virginia University",
-          "University of Pennsylvania",
-          "West Virginia University School of Medicine"
+          "West Virginia University School of Medicine",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -320,8 +320,8 @@
         "occupations": [
           "entrepreneur",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -376,15 +376,15 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [
