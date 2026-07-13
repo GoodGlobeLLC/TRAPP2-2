@@ -5,9 +5,9 @@
   "birthPlace": "Haifa",
   "image": null,
   "occupations": [
-    "physician",
+    "professor",
     "researcher",
-    "professor"
+    "physician"
   ],
   "education": [
     "Hebrew Reali School",
@@ -16,7 +16,12 @@
   ],
   "employers": [
     {
-      "company": "Moderna",
+      "company": "Sanofi",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "GSK",
       "start": null,
       "end": null
     },
@@ -26,12 +31,7 @@
       "end": null
     },
     {
-      "company": "Sanofi",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "GSK",
+      "company": "Moderna",
       "start": null,
       "end": null
     }
