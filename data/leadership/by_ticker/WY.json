@@ -1,6 +1,6 @@
 {
   "ticker": "WY",
-  "fetchedAt": "2026-07-06T10:58:08.258540Z",
+  "fetchedAt": "2026-07-13T09:45:59.150716Z",
   "people": [
     {
       "qid": "Q6767521",
@@ -17,9 +17,9 @@
           "chief executive officer"
         ],
         "education": [
-          "University of Washington",
           "Fife High School",
-          "Syracuse University"
+          "Syracuse University",
+          "University of Washington"
         ],
         "employers": [
           {
