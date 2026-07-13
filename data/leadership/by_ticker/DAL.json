@@ -1,6 +1,6 @@
 {
   "ticker": "DAL",
-  "fetchedAt": "2026-07-06T08:22:31.317477Z",
+  "fetchedAt": "2026-07-13T06:57:01.813783Z",
   "people": [
     {
       "qid": "Q32374551",
@@ -60,13 +60,13 @@
         "image": null,
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
-          "Harvard University",
           "Columbia Law School",
-          "Brooks School"
+          "Brooks School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [

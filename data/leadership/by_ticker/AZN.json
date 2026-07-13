@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-07-06T08:22:31.310159Z",
+  "fetchedAt": "2026-07-13T06:57:01.803865Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -50,8 +50,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Chalmers University of Technology"
@@ -97,8 +97,8 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "singer-songwriter",
-          "geneticist"
+          "geneticist",
+          "singer-songwriter"
         ],
         "education": [
           "Redland High School for Girls",
@@ -136,8 +136,8 @@
         "birthPlace": "Quincy",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheri%20McCoy.jpg",
         "occupations": [
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "University of Massachusetts Dartmouth",
@@ -218,8 +218,8 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "researcher",
           "biologist",
+          "researcher",
           "physician"
         ],
         "education": [
@@ -260,13 +260,23 @@
         "birthPlace": "Stockholm",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Recebe%20em%20audi%C3%AAncia%20o%20presidente%20do%20Conselho%20Administrativo%20do%20Shandinaviska%20Enskilda%20Banken%2C%20Electrolux%20e%20SAAB%20-%20Sistemas%20de%20Defesa%20Aeroespacial%2C%20Marcus%20Wallenberg.%20%2816794468978%29%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "Walsh School of Foreign Service"
         ],
         "employers": [
+          {
+            "company": "International Chamber of Commerce",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Citibank",
+            "start": "1980-01-01",
+            "end": "1982-01-01"
+          },
           {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
@@ -283,27 +293,17 @@
             "end": null
           },
           {
-            "company": "International Chamber of Commerce",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Citibank",
-            "start": "1980-01-01",
-            "end": "1982-01-01"
-          },
-          {
-            "company": "S. G. Warburg & Co.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Institute of International Finance",
             "start": null,
             "end": null
           },
           {
             "company": "Deutsche Bank",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "S. G. Warburg & Co.",
             "start": null,
             "end": null
           }
@@ -330,8 +330,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Chalmers University of Technology"

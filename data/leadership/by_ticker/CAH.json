@@ -1,6 +1,6 @@
 {
   "ticker": "CAH",
-  "fetchedAt": "2026-07-06T08:22:31.313884Z",
+  "fetchedAt": "2026-07-13T06:57:01.809217Z",
   "people": [
     {
       "qid": "Q114395172",
@@ -132,8 +132,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgetown University",
           "George Washington University",
+          "Georgetown University",
           "Harvard University"
         ],
         "employers": [],
@@ -283,9 +283,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Chicago",
           "Hiram College",
-          "Booth School of Business",
-          "University of Chicago"
+          "Booth School of Business"
         ],
         "employers": [],
         "positions": []

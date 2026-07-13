@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-07-06T08:22:31.314775Z",
+  "fetchedAt": "2026-07-13T06:57:01.810559Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -302,8 +302,8 @@
           "Hopkins School",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
-          "Yale University",
-          "New York University"
+          "New York University",
+          "Yale University"
         ],
         "employers": [
           {
