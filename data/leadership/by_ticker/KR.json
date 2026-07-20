@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "fetchedAt": "2026-07-13T08:13:40.012787Z",
+  "fetchedAt": "2026-07-20T07:52:46.079856Z",
   "people": [
     {
       "qid": "Q16732385",
@@ -123,13 +123,13 @@
           "politician"
         ],
         "education": [
+          "Columbia University",
+          "Syosset High School",
+          "Dartmouth College",
           "Mount Holyoke College",
           "Harvard Business School",
-          "Dartmouth College",
           "Massachusetts Institute of Technology",
-          "Syosset High School",
-          "Harvard University",
-          "Columbia University"
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -275,9 +275,9 @@
           "businessperson"
         ],
         "education": [
+          "Ivey Business School",
           "University of Western Ontario",
-          "Harvard Business School",
-          "Ivey Business School"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
