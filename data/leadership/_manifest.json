@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-13T09:45:59.159523Z",
-  "totalPeople": 250,
+  "generatedAt": "2026-07-20T06:50:44.660074Z",
+  "totalPeople": 251,
   "totalTickers": 78,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 79,
-  "thisRunTickers": 93,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 141,
+  "thisRunTickers": 97,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "WBA"
+        "AES"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -2551,6 +2551,16 @@
       "slug": "fredrik-idestam",
       "tickers": [
         "NOK"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q76751",
+      "name": "Adolf Dassler",
+      "slug": "adolf-dassler",
+      "tickers": [
+        "ADI"
       ],
       "positionsCount": 0,
       "employersCount": 1

@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-07-13T06:57:01.808138Z",
+  "fetchedAt": "2026-07-20T06:50:44.637781Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -62,20 +62,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "financier",
-          "investor",
+          "economist",
           "chief executive officer",
           "shareholder",
-          "economist",
+          "financier",
+          "investor",
           "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -100,12 +100,12 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Harvard Business School",
           "Colgate University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -186,13 +186,13 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
+          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School",
-          "The Waldorf School of Garden City"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -472,8 +472,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
           "entrepreneur",
-          "writer",
           "farmer",
+          "writer",
           "photographer"
         ],
         "education": [
@@ -505,9 +505,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
           "Indian Institute of Technology Kharagpur",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -541,8 +541,8 @@
           "military personnel"
         ],
         "education": [
-          "Cornell University",
           "Harvard Business School",
+          "Cornell University",
           "Harvard University"
         ],
         "employers": [],
@@ -674,20 +674,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
-          "financier",
-          "investor",
+          "economist",
           "chief executive officer",
           "shareholder",
-          "economist",
+          "financier",
+          "investor",
           "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [

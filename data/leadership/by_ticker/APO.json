@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-07-13T06:57:01.802824Z",
+  "fetchedAt": "2026-07-20T06:50:44.633674Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -55,18 +55,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "art collector",
           "investment banker",
           "financier",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [
-          "Dartmouth College",
           "Harvard Business School",
-          "Harvard University",
           "Van High School",
-          "Ethical Culture Fieldston School"
+          "Ethical Culture Fieldston School",
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -160,9 +160,9 @@
           "investment banker"
         ],
         "education": [
-          "Columbia University",
           "Columbia Business School",
-          "Walsh School of Foreign Service"
+          "Walsh School of Foreign Service",
+          "Columbia University"
         ],
         "employers": [
           {
@@ -195,9 +195,9 @@
           "investor"
         ],
         "education": [
+          "The Field School",
           "The Wharton School",
-          "Harvard Business School",
-          "The Field School"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -236,18 +236,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "art collector",
           "investment banker",
           "financier",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [
-          "Dartmouth College",
           "Harvard Business School",
-          "Harvard University",
           "Van High School",
-          "Ethical Culture Fieldston School"
+          "Ethical Culture Fieldston School",
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [
           {

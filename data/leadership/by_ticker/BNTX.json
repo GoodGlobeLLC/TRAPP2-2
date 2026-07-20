@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-07-13T06:57:01.806400Z",
+  "fetchedAt": "2026-07-20T06:50:44.636436Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -14,13 +14,13 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "chairman of the executive board",
           "oncologist",
           "immunologist",
-          "academic",
           "researcher",
-          "university teacher",
+          "academic",
+          "chairman of the executive board",
           "physician",
+          "university teacher",
           "entrepreneur",
           "chief executive officer"
         ],
@@ -70,9 +70,9 @@
           "immunologist",
           "academic",
           "board member",
-          "entrepreneur",
           "researcher",
           "university teacher",
+          "entrepreneur",
           "physician",
           "Privatdozent"
         ],
@@ -115,13 +115,13 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "chairman of the executive board",
           "oncologist",
           "immunologist",
-          "academic",
           "researcher",
-          "university teacher",
+          "academic",
+          "chairman of the executive board",
           "physician",
+          "university teacher",
           "entrepreneur",
           "chief executive officer"
         ],
@@ -171,9 +171,9 @@
           "immunologist",
           "academic",
           "board member",
-          "entrepreneur",
           "researcher",
           "university teacher",
+          "entrepreneur",
           "physician",
           "Privatdozent"
         ],
@@ -216,13 +216,13 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "chairman of the executive board",
           "oncologist",
           "immunologist",
-          "academic",
           "researcher",
-          "university teacher",
+          "academic",
+          "chairman of the executive board",
           "physician",
+          "university teacher",
           "entrepreneur",
           "chief executive officer"
         ],

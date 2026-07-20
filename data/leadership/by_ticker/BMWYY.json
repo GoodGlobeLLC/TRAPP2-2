@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-07-13T06:57:01.806154Z",
+  "fetchedAt": "2026-07-20T06:50:44.636239Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -85,14 +85,14 @@
         "birthPlace": "F\u00fcrstenwalde",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helmut%20Panke.jpg",
         "occupations": [
-          "chairman of the executive board",
           "manager",
-          "physicist"
+          "physicist",
+          "chairman of the executive board"
         ],
         "education": [
-          "Phillips Exeter Academy",
           "Klenze-Gymnasium Munich",
-          "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+          "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -117,8 +117,8 @@
         "image": null,
         "occupations": [
           "designer",
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "German Technical University in Brno",
