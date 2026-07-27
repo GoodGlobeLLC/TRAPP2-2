@@ -1,6 +1,6 @@
 {
   "ticker": "NOK",
-  "fetchedAt": "2026-07-20T09:34:34.772696Z",
+  "fetchedAt": "2026-07-27T10:08:57.398141Z",
   "people": [
     {
       "qid": "Q115735574",
@@ -26,25 +26,6 @@
             "end": null
           }
         ]
-      }
-    },
-    {
-      "qid": "Q4118053",
-      "name": "Sari Baldauf",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q4118053",
-        "name": "Sari Baldauf",
-        "dateOfBirth": "1955-08-10",
-        "birthPlace": "Kotka",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sari%20Baldauf%201998.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": []
       }
     },
     {
