@@ -7,13 +7,13 @@
   "occupations": [
     "oncologist",
     "immunologist",
-    "researcher",
     "academic",
     "chairman of the executive board",
-    "physician",
-    "university teacher",
+    "researcher",
     "entrepreneur",
-    "chief executive officer"
+    "physician",
+    "chief executive officer",
+    "university teacher"
   ],
   "education": [
     "Erich Kastner Gymnasium"

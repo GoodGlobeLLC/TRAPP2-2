@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-07-20T06:50:44.637213Z",
+  "fetchedAt": "2026-07-27T07:06:40.923840Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -63,19 +63,19 @@
         "occupations": [
           "broker-dealer",
           "economist",
-          "chief executive officer",
-          "shareholder",
           "financier",
           "investor",
+          "chief executive officer",
+          "shareholder",
           "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
-          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -104,8 +104,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
+          "Colgate University",
           "Harvard University"
         ],
         "employers": [
@@ -190,9 +190,9 @@
           "entrepreneur"
         ],
         "education": [
-          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "The Waldorf School of Garden City"
         ],
         "employers": [
           {
@@ -268,9 +268,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -471,9 +471,9 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "entrepreneur",
-          "farmer",
           "writer",
+          "farmer",
+          "entrepreneur",
           "photographer"
         ],
         "education": [
@@ -505,9 +505,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard University",
           "Indian Institute of Technology Kharagpur",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -675,19 +675,19 @@
         "occupations": [
           "broker-dealer",
           "economist",
-          "chief executive officer",
-          "shareholder",
           "financier",
           "investor",
+          "chief executive officer",
+          "shareholder",
           "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
-          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School"
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [

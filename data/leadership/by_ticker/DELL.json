@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-07-20T06:50:44.641922Z",
+  "fetchedAt": "2026-07-27T07:06:40.930175Z",
   "people": [
     {
       "qid": "Q218630",
@@ -14,10 +14,10 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "chief executive officer",
-          "financier",
           "philanthropist",
+          "financier",
           "investor",
+          "chief executive officer",
           "computer scientist",
           "entrepreneur",
           "businessperson"
@@ -49,8 +49,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "College of the Holy Cross",
@@ -72,8 +72,8 @@
         "birthPlace": "L\u00fcbeck",
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Georgetown University"
@@ -97,8 +97,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -120,8 +120,8 @@
           "board member"
         ],
         "education": [
-          "University of Cambridge",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of Cambridge"
         ],
         "employers": [],
         "positions": [
@@ -187,7 +187,7 @@
         "name": "Ellen Kullman",
         "dateOfBirth": "1956-01-22",
         "birthPlace": "Wilmington",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ellen%20J.%20Kullman%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202009.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ellen%20Kullman%20JPS2010%2001%2014%20crop.jpg",
         "occupations": [
           "business executive"
         ],
@@ -230,10 +230,10 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "chief executive officer",
-          "financier",
           "philanthropist",
+          "financier",
           "investor",
+          "chief executive officer",
           "computer scientist",
           "entrepreneur",
           "businessperson"
@@ -265,10 +265,10 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "chief executive officer",
-          "financier",
           "philanthropist",
+          "financier",
           "investor",
+          "chief executive officer",
           "computer scientist",
           "entrepreneur",
           "businessperson"

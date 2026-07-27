@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-07-20T06:50:44.636691Z",
+  "fetchedAt": "2026-07-27T07:06:40.923187Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of Iowa"
@@ -55,9 +55,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Cornell University",
           "Massachusetts Institute of Technology",
-          "University of Connecticut School of Law"
+          "University of Connecticut School of Law",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -193,8 +193,8 @@
           "businessperson"
         ],
         "education": [
-          "Amherst College",
           "Harvard Business School",
+          "Amherst College",
           "Harvard University"
         ],
         "employers": [
@@ -219,9 +219,9 @@
         "birthPlace": "Ohio",
         "image": null,
         "occupations": [
-          "merchant",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "merchant"
         ],
         "education": [
           "Miami University"
@@ -379,8 +379,8 @@
         "birthPlace": "Canastota",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
         "occupations": [
-          "submariner",
-          "military officer"
+          "military officer",
+          "submariner"
         ],
         "education": [
           "United States Naval Academy"
