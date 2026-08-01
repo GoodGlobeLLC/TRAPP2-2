@@ -1,7 +1,7 @@
 {
   "ticker": "VIVO",
   "qid": "Q18301787",
-  "fetchedAt": "2026-06-11T05:33:22.101669Z",
+  "fetchedAt": "2026-08-01T05:50:32.156526Z",
   "source": "wikidata",
   "name": "vivo",
   "description": "Chinese consumer electronics manufacturer",
@@ -23,13 +23,13 @@
   ],
   "products": [
     {
-      "name": "online service provider"
-    },
-    {
       "name": "software"
     },
     {
       "name": "smartphone"
+    },
+    {
+      "name": "online service provider"
     }
   ],
   "countries": []

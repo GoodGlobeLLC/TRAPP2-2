@@ -1,54 +1,23 @@
 {
   "ticker": "MRVL",
-  "qid": "Q1347782",
-  "fetchedAt": "2026-06-11T05:18:50.734771Z",
+  "qid": "Q140310318",
+  "fetchedAt": "2026-08-01T05:27:37.716929Z",
   "source": "wikidata",
-  "name": "Marvell Technology",
-  "description": "American fabless semiconductor company",
-  "website": "https://www.marvell.com/",
-  "isin": "BMG5876H1051",
-  "inception": "1995-01-01",
-  "employees": 7000,
-  "industry": "semiconductor industry",
-  "headquarters": "Santa Clara",
+  "name": "MRVL Technologies",
+  "description": "UK Indie mobile app studio",
+  "website": "https://mrvltechnologies.com",
+  "isin": null,
+  "inception": "2024-12-07",
+  "employees": null,
+  "industry": "software industry",
+  "headquarters": "West Malling",
   "executives": [],
   "board": [],
   "founders": [
     {
-      "name": "Sehat Sutardja"
+      "name": "John Hammond"
     }
   ],
-  "products": [
-    {
-      "name": "networking hardware"
-    },
-    {
-      "name": "hardware security module"
-    },
-    {
-      "name": "memory controller"
-    },
-    {
-      "name": "application-specific integrated circuit"
-    },
-    {
-      "name": "semiconductor device"
-    },
-    {
-      "name": "integrated circuit"
-    },
-    {
-      "name": "network switch"
-    },
-    {
-      "name": "Storage controller"
-    },
-    {
-      "name": "data processing unit"
-    },
-    {
-      "name": "digital signal processor"
-    }
-  ],
+  "products": [],
   "countries": []
 }

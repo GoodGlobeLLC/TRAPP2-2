@@ -1,11 +1,11 @@
 {
   "ticker": "HEI",
   "qid": "Q5629432",
-  "fetchedAt": "2026-06-11T05:34:36.724502Z",
+  "fetchedAt": "2026-08-01T05:53:08.780259Z",
   "source": "wikidata",
   "name": "HEICO",
   "description": "aerospace and electronics company",
-  "website": "http://www.heico.com",
+  "website": "https://heico.com/",
   "isin": "US4228061093",
   "inception": "1957-01-01",
   "employees": null,

@@ -1,14 +1,14 @@
 {
   "ticker": "GILD",
   "qid": "Q663596",
-  "fetchedAt": "2026-06-11T05:26:46.767120Z",
+  "fetchedAt": "2026-08-01T05:42:42.103336Z",
   "source": "wikidata",
   "name": "Gilead Sciences",
-  "description": "American company",
+  "description": "American biopharmaceutical company",
   "website": "https://www.gilead.com/",
   "isin": "US3755581036",
   "inception": "1987-06-01",
-  "employees": 11800,
+  "employees": 17000,
   "industry": "pharmaceutical industry",
   "headquarters": "Foster City",
   "executives": [
@@ -20,6 +20,12 @@
   "board": [],
   "founders": [],
   "products": [
+    {
+      "name": "lenacapavir"
+    },
+    {
+      "name": "bulevirtide"
+    },
     {
       "name": "Bictegravir/emtricitabine/tenofovir alafenamide"
     },
@@ -54,13 +60,25 @@
       "name": "Truvada"
     },
     {
+      "name": "Tamiflu"
+    },
+    {
       "name": "Stribild"
+    },
+    {
+      "name": "Sovaldi"
     },
     {
       "name": "Ranexa"
     },
     {
       "name": "Odefsey"
+    },
+    {
+      "name": "Macugen"
+    },
+    {
+      "name": "Hepsera"
     },
     {
       "name": "Harvoni"
@@ -81,7 +99,19 @@
       "name": "Descovy"
     },
     {
+      "name": "Cayston"
+    },
+    {
       "name": "Atripla"
+    },
+    {
+      "name": "remdesivir"
+    },
+    {
+      "name": "seladelpar"
+    },
+    {
+      "name": "Regadenoson"
     }
   ],
   "countries": []

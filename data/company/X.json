@@ -1,7 +1,7 @@
 {
   "ticker": "X",
   "qid": "Q72539",
-  "fetchedAt": "2026-06-11T05:21:51.042374Z",
+  "fetchedAt": "2026-08-01T05:32:37.371588Z",
   "source": "wikidata",
   "name": "U.S. Steel",
   "description": "US steel-producing company",
@@ -32,10 +32,6 @@
     },
     {
       "name": "Patricia Diaz Dennis",
-      "role": "Board Member"
-    },
-    {
-      "name": "John V. Faraci",
       "role": "Board Member"
     },
     {

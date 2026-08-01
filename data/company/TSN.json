@@ -1,7 +1,7 @@
 {
   "ticker": "TSN",
   "qid": "Q1325987",
-  "fetchedAt": "2026-06-11T05:30:43.025950Z",
+  "fetchedAt": "2026-08-01T05:46:31.572818Z",
   "source": "wikidata",
   "name": "Tyson Foods",
   "description": "food manufacturing company",
@@ -9,7 +9,7 @@
   "isin": "US9024941034",
   "inception": "1935-01-01",
   "employees": 133000,
-  "industry": "meatpacking industry",
+  "industry": "agriculture",
   "headquarters": "Springdale",
   "executives": [],
   "board": [
@@ -69,16 +69,16 @@
   ],
   "products": [
     {
-      "name": "fast food"
+      "name": "plant proteins"
     },
     {
-      "name": "meat"
+      "name": "fast food"
     },
     {
       "name": "poultry"
     },
     {
-      "name": "plant proteins"
+      "name": "meat"
     }
   ],
   "countries": []

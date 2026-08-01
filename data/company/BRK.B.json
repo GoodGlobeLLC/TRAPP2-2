@@ -1,7 +1,7 @@
 {
   "ticker": "BRK.B",
   "qid": "Q217583",
-  "fetchedAt": "2026-06-11T05:18:09.430220Z",
+  "fetchedAt": "2026-08-01T05:26:47.065950Z",
   "source": "wikidata",
   "name": "Berkshire Hathaway",
   "description": "American multinational conglomerate holding company",
@@ -22,6 +22,22 @@
     }
   ],
   "board": [
+    {
+      "name": "David Gottesman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Howard Graham Buffett",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ajit Jain",
+      "role": "Board Member"
+    },
+    {
+      "name": "Thomas Murphy",
+      "role": "Board Member"
+    },
     {
       "name": "Steve Burke",
       "role": "Board Member"
@@ -56,22 +72,6 @@
     },
     {
       "name": "Ronald Olson",
-      "role": "Board Member"
-    },
-    {
-      "name": "David Gottesman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Howard Graham Buffett",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ajit Jain",
-      "role": "Board Member"
-    },
-    {
-      "name": "Thomas Murphy",
       "role": "Board Member"
     },
     {

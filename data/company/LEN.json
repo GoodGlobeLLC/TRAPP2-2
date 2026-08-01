@@ -1,7 +1,7 @@
 {
   "ticker": "LEN",
   "qid": "Q14799",
-  "fetchedAt": "2026-06-11T05:44:08.105789Z",
+  "fetchedAt": "2026-08-01T06:13:15.174997Z",
   "source": "wikidata",
   "name": "Lenovo",
   "description": "Chinese multinational technology company established in 1984",
@@ -25,52 +25,52 @@
   ],
   "products": [
     {
+      "name": "computer storage media"
+    },
+    {
+      "name": "desktop computer"
+    },
+    {
+      "name": "television set"
+    },
+    {
+      "name": "software"
+    },
+    {
       "name": "consumer electronics"
     },
     {
       "name": "peripheral"
     },
     {
-      "name": "netbook"
-    },
-    {
-      "name": "tablet computer"
-    },
-    {
-      "name": "computer storage media"
-    },
-    {
-      "name": "image scanner"
-    },
-    {
-      "name": "desktop computer"
-    },
-    {
-      "name": "laptop"
-    },
-    {
-      "name": "software"
-    },
-    {
       "name": "server"
     },
     {
-      "name": "computer hardware"
+      "name": "netbook"
     },
     {
       "name": "smartphone"
     },
     {
-      "name": "television set"
+      "name": "printer"
     },
     {
-      "name": "computer"
+      "name": "image scanner"
+    },
+    {
+      "name": "tablet computer"
+    },
+    {
+      "name": "computer hardware"
     },
     {
       "name": "television"
     },
     {
-      "name": "printer"
+      "name": "computer"
+    },
+    {
+      "name": "laptop"
     }
   ],
   "countries": []

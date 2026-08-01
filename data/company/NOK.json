@@ -1,7 +1,7 @@
 {
   "ticker": "NOK",
   "qid": "Q1418",
-  "fetchedAt": "2026-06-11T05:37:38.372185Z",
+  "fetchedAt": "2026-08-01T06:03:00.709715Z",
   "source": "wikidata",
   "name": "Nokia",
   "description": "Finnish multinational telecommunications and information technology company",
@@ -9,16 +9,12 @@
   "isin": "FI0009000681",
   "inception": "1865-05-12",
   "employees": 103083,
-  "industry": "telecommunications",
+  "industry": "electrical appliance",
   "headquarters": "Espoo",
   "executives": [
     {
       "name": "Justin Hotard",
       "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Sari Baldauf",
-      "role": "Chairperson"
     }
   ],
   "board": [],
@@ -38,10 +34,10 @@
       "name": "headset"
     },
     {
-      "name": "software"
+      "name": "smartphone"
     },
     {
-      "name": "smartphone"
+      "name": "software"
     }
   ],
   "countries": []

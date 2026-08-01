@@ -1,7 +1,7 @@
 {
   "ticker": "LUV",
   "qid": "Q503308",
-  "fetchedAt": "2026-06-11T05:19:56.571893Z",
+  "fetchedAt": "2026-08-01T05:29:25.166276Z",
   "source": "wikidata",
   "name": "Southwest Airlines",
   "description": "airline of the United States",
@@ -19,9 +19,6 @@
   ],
   "board": [],
   "founders": [
-    {
-      "name": "Rollin King"
-    },
     {
       "name": "Herb Kelleher"
     }

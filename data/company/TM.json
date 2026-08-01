@@ -1,7 +1,7 @@
 {
   "ticker": "TM",
   "qid": "Q53268",
-  "fetchedAt": "2026-06-11T05:24:11.854637Z",
+  "fetchedAt": "2026-08-01T05:38:11.044919Z",
   "source": "wikidata",
   "name": "Toyota",
   "description": "Japanese multinational automotive manufacturer",
@@ -29,10 +29,10 @@
   ],
   "products": [
     {
-      "name": "car"
+      "name": "light commercial vehicle"
     },
     {
-      "name": "light commercial vehicle"
+      "name": "car"
     }
   ],
   "countries": [

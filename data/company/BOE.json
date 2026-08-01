@@ -1,7 +1,7 @@
 {
   "ticker": "BOE",
   "qid": "Q66",
-  "fetchedAt": "2026-06-11T05:33:04.126582Z",
+  "fetchedAt": "2026-08-01T05:50:02.298895Z",
   "source": "wikidata",
   "name": "Boeing",
   "description": "American global aerospace and defense corporation",
@@ -9,7 +9,7 @@
   "isin": "US0970231058",
   "inception": "1916-07-15",
   "employees": 171000,
-  "industry": "aircraft construction",
+  "industry": "space industry",
   "headquarters": "Chicago",
   "executives": [
     {
@@ -84,13 +84,13 @@
       "name": "Boeing P-8 Poseidon"
     },
     {
+      "name": "Boeing CH-47 Chinook"
+    },
+    {
       "name": "space technology"
     },
     {
       "name": "Boeing C-17 Globemaster III"
-    },
-    {
-      "name": "Boeing CH-47 Chinook"
     },
     {
       "name": "Hughes AH-64 Apache"
@@ -99,16 +99,10 @@
       "name": "McDonnell Douglas F/A-18 Hornet"
     },
     {
-      "name": "Boeing 787 Dreamliner"
-    },
-    {
       "name": "McDonnell Douglas F-15 Eagle"
     },
     {
-      "name": "Boeing 777"
-    },
-    {
-      "name": "Boeing 727"
+      "name": "Boeing 787 Dreamliner"
     },
     {
       "name": "Boeing 717"
@@ -123,10 +117,16 @@
       "name": "Boeing 707"
     },
     {
+      "name": "Boeing 747"
+    },
+    {
+      "name": "Boeing 777"
+    },
+    {
       "name": "Boeing 737"
     },
     {
-      "name": "Boeing 747"
+      "name": "Boeing 727"
     }
   ],
   "countries": [
