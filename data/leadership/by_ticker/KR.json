@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "fetchedAt": "2026-07-27T08:22:51.340448Z",
+  "fetchedAt": "2026-08-03T08:22:03.817621Z",
   "people": [
     {
       "qid": "Q16732385",
@@ -21,137 +21,6 @@
         ],
         "employers": [],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q26899142",
-      "name": "Amanda Sourry",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q26899142",
-        "name": "Amanda Sourry",
-        "dateOfBirth": "1963-07-16",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Dame Allan's School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q20685443",
-      "name": "Ron Sargent",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q20685443",
-        "name": "Ron Sargent",
-        "dateOfBirth": "1955-01-01",
-        "birthPlace": "Fort Thomas",
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Harvard Business School",
-          "Harvard University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q16821049",
-      "name": "Ashok Vemuri",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q16821049",
-        "name": "Ashok Vemuri",
-        "dateOfBirth": "1968-04-22",
-        "birthPlace": "New Delhi",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashok%20Vemuri%20-%202.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "St. Stephen's College",
-          "Indian Institute of Management Ahmedabad"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q16732385",
-      "name": "Rodney McMullen",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q16732385",
-        "name": "Rodney McMullen",
-        "dateOfBirth": "1960-07-25",
-        "birthPlace": "Williamstown",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/White%20House%20Coronavirus%20Update%20Briefing%20%2849829648376%29.jpg",
-        "occupations": [
-          "entrepreneur"
-        ],
-        "education": [
-          "University of Kentucky"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q263322",
-      "name": "Elaine Chao",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q263322",
-        "name": "Elaine Chao",
-        "dateOfBirth": "1953-03-26",
-        "birthPlace": "Taipei",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elaine%20Chao%20official%20portrait%202.jpg",
-        "occupations": [
-          "economist",
-          "politician"
-        ],
-        "education": [
-          "Syosset High School",
-          "Dartmouth College",
-          "Mount Holyoke College",
-          "Harvard Business School",
-          "Columbia University",
-          "Harvard University",
-          "Massachusetts Institute of Technology"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States Secretary of Transportation",
-            "company": null,
-            "start": "2017-01-31",
-            "end": "2021-01-11"
-          },
-          {
-            "title": "United States Deputy Secretary of Transportation",
-            "company": null,
-            "start": "1989-04-19",
-            "end": "1991-10-08"
-          },
-          {
-            "title": "United States Secretary of Labor",
-            "company": null,
-            "start": "2001-01-20",
-            "end": "2009-01-20"
-          }
-        ]
       }
     },
     {
@@ -281,6 +150,137 @@
         ],
         "employers": [],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q26899142",
+      "name": "Amanda Sourry",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q26899142",
+        "name": "Amanda Sourry",
+        "dateOfBirth": "1963-07-16",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Dame Allan's School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q20685443",
+      "name": "Ron Sargent",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q20685443",
+        "name": "Ron Sargent",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": "Fort Thomas",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q16821049",
+      "name": "Ashok Vemuri",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16821049",
+        "name": "Ashok Vemuri",
+        "dateOfBirth": "1968-04-22",
+        "birthPlace": "New Delhi",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashok%20Vemuri%20-%202.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "St. Stephen's College",
+          "Indian Institute of Management Ahmedabad"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q16732385",
+      "name": "Rodney McMullen",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16732385",
+        "name": "Rodney McMullen",
+        "dateOfBirth": "1960-07-25",
+        "birthPlace": "Williamstown",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/White%20House%20Coronavirus%20Update%20Briefing%20%2849829648376%29.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "University of Kentucky"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q263322",
+      "name": "Elaine Chao",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q263322",
+        "name": "Elaine Chao",
+        "dateOfBirth": "1953-03-26",
+        "birthPlace": "Taipei",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elaine%20Chao%20official%20portrait%202.jpg",
+        "occupations": [
+          "politician",
+          "economist"
+        ],
+        "education": [
+          "Syosset High School",
+          "Columbia University",
+          "Mount Holyoke College",
+          "Harvard Business School",
+          "Dartmouth College",
+          "Massachusetts Institute of Technology",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Secretary of Transportation",
+            "company": null,
+            "start": "2017-01-31",
+            "end": "2021-01-11"
+          },
+          {
+            "title": "United States Deputy Secretary of Transportation",
+            "company": null,
+            "start": "1989-04-19",
+            "end": "1991-10-08"
+          },
+          {
+            "title": "United States Secretary of Labor",
+            "company": null,
+            "start": "2001-01-20",
+            "end": "2009-01-20"
+          }
+        ]
       }
     }
   ]

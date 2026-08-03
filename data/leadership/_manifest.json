@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T07:18:29.039919Z",
-  "totalPeople": 260,
-  "totalTickers": 78,
-  "lastRangeFilter": "A-G",
-  "thisRunPeople": 148,
-  "thisRunTickers": 97,
+  "generatedAt": "2026-08-03T08:22:03.821387Z",
+  "totalPeople": 261,
+  "totalTickers": 79,
+  "lastRangeFilter": "H-M",
+  "thisRunPeople": 28,
+  "thisRunTickers": 48,
   "index": [
     {
       "qid": "Q29152660",
@@ -2654,6 +2654,16 @@
       "slug": "donatella-sciuto",
       "tickers": [
         "DASTY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q140451393",
+      "name": "Raymond E. Scott",
+      "slug": "raymond-e-scott",
+      "tickers": [
+        "LEA"
       ],
       "positionsCount": 0,
       "employersCount": 1
