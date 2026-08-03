@@ -1,6 +1,6 @@
 {
   "ticker": "TDG",
-  "fetchedAt": "2026-07-27T10:08:57.407164Z",
+  "fetchedAt": "2026-08-03T10:05:34.734746Z",
   "people": [
     {
       "qid": "Q117323921",
@@ -14,9 +14,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
+          "businessperson",
           "philanthropist",
-          "businessperson"
+          "business executive"
         ],
         "education": [
           "Stanford University"
@@ -79,7 +79,7 @@
         ],
         "positions": [
           {
-            "title": "chairman of the executive board",
+            "title": "chairperson of the executive board",
             "company": null,
             "start": "2003-01-01",
             "end": null
@@ -116,7 +116,7 @@
         ],
         "positions": [
           {
-            "title": "chairman of the executive board",
+            "title": "chairperson of the executive board",
             "company": null,
             "start": "2003-01-01",
             "end": null

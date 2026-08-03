@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T08:22:03.821387Z",
-  "totalPeople": 261,
-  "totalTickers": 79,
-  "lastRangeFilter": "H-M",
-  "thisRunPeople": 28,
-  "thisRunTickers": 48,
+  "generatedAt": "2026-08-03T10:05:34.754758Z",
+  "totalPeople": 262,
+  "totalTickers": 80,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 80,
+  "thisRunTickers": 93,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "AES"
+        "WBA"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -2667,6 +2667,16 @@
       ],
       "positionsCount": 0,
       "employersCount": 1
+    },
+    {
+      "qid": "Q135228816",
+      "name": "Giordano Albertazzi",
+      "slug": "giordano-albertazzi",
+      "tickers": [
+        "VRT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
     }
   ]
 }

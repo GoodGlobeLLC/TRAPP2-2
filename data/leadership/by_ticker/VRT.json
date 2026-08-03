@@ -1,5 +1,26 @@
 {
   "ticker": "VRT",
-  "fetchedAt": "2026-07-27T10:08:57.410524Z",
-  "people": []
+  "fetchedAt": "2026-08-03T10:05:34.738440Z",
+  "people": [
+    {
+      "qid": "Q135228816",
+      "name": "Giordano Albertazzi",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q135228816",
+        "name": "Giordano Albertazzi",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Polytechnic University of Milan",
+          "Stanford University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
 }
