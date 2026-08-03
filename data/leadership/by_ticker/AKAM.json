@@ -1,6 +1,6 @@
 {
   "ticker": "AKAM",
-  "fetchedAt": "2026-07-27T07:06:40.918412Z",
+  "fetchedAt": "2026-08-03T07:18:29.003048Z",
   "people": [
     {
       "qid": "Q5424058",
@@ -15,12 +15,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
           "mathematician",
-          "university teacher",
-          "computer scientist"
+          "computer scientist",
+          "university teacher"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -138,12 +138,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
           "mathematician",
-          "university teacher",
-          "computer scientist"
+          "computer scientist",
+          "university teacher"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -455,12 +455,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
           "mathematician",
-          "university teacher",
-          "computer scientist"
+          "computer scientist",
+          "university teacher"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-07-27T07:06:40.922634Z",
+  "fetchedAt": "2026-08-03T07:18:29.007159Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -14,8 +14,8 @@
         "birthPlace": "Heidelberg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Zipse%20%282018%29.jpg",
         "occupations": [
-          "manager",
-          "engineer"
+          "engineer",
+          "manager"
         ],
         "education": [
           "Technical University of Darmstadt",
@@ -85,14 +85,14 @@
         "birthPlace": "F\u00fcrstenwalde",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helmut%20Panke.jpg",
         "occupations": [
-          "manager",
-          "chairman of the executive board",
-          "physicist"
+          "physicist",
+          "chairperson of the executive board",
+          "manager"
         ],
         "education": [
+          "Phillips Exeter Academy",
           "Klenze-Gymnasium Munich",
-          "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
-          "Phillips Exeter Academy"
+          "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
         ],
         "employers": [
           {
@@ -117,8 +117,8 @@
         "image": null,
         "occupations": [
           "designer",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "German Technical University in Brno",

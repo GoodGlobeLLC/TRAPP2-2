@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-07-27T07:06:40.926828Z",
+  "fetchedAt": "2026-08-03T07:18:29.011367Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -171,9 +171,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Mississippi",
+          "University of Virginia",
           "Princeton University",
-          "University of Virginia"
+          "University of Mississippi"
         ],
         "employers": [],
         "positions": []
@@ -293,17 +293,17 @@
         "birthPlace": "Milford",
         "image": null,
         "occupations": [
-          "business executive",
           "publisher",
+          "business executive",
           "entrepreneur"
         ],
         "education": [
-          "Yale School of Engineering and Applied Science",
-          "Hopkins School",
+          "New York University",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
-          "Yale University",
-          "New York University"
+          "Yale School of Engineering and Applied Science",
+          "Hopkins School",
+          "Yale University"
         ],
         "employers": [
           {

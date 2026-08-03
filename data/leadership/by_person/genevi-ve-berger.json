@@ -5,9 +5,9 @@
   "birthPlace": "Dieuze",
   "image": null,
   "occupations": [
-    "biologist",
     "physician",
-    "researcher"
+    "researcher",
+    "biologist"
   ],
   "education": [
     "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -34,6 +34,7 @@
     }
   ],
   "currentTickers": [
-    "AZN"
+    "AZN",
+    "DASTY"
   ]
 }

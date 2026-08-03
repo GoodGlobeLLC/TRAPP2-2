@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T10:08:57.425051Z",
-  "totalPeople": 253,
+  "generatedAt": "2026-08-03T07:18:29.039919Z",
+  "totalPeople": 260,
   "totalTickers": 78,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 79,
-  "thisRunTickers": 93,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 148,
+  "thisRunTickers": 97,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "WBA"
+        "AES"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -398,7 +398,8 @@
       "name": "Genevi\u00e8ve Berger",
       "slug": "genevi-ve-berger",
       "tickers": [
-        "AZN"
+        "AZN",
+        "DASTY"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -1265,6 +1266,7 @@
       "name": "Pascal Daloz",
       "slug": "pascal-daloz",
       "tickers": [
+        "DASTY",
         "DASTY"
       ],
       "positionsCount": 2,
@@ -2581,6 +2583,77 @@
       "slug": "gilles-samoun",
       "tickers": [
         "QLYS"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q2897681",
+      "name": "Bernard Charl\u00e8s",
+      "slug": "bernard-charl-s",
+      "tickers": [
+        "DASTY",
+        "DASTY"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q17434850",
+      "name": "Marie-H\u00e9l\u00e8ne Habert",
+      "slug": "marie-h-l-ne-habert",
+      "tickers": [
+        "DASTY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7564588",
+      "name": "Soumitra Dutta",
+      "slug": "soumitra-dutta",
+      "tickers": [
+        "DASTY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q2958994",
+      "name": "Charles Edelstenne",
+      "slug": "charles-edelstenne",
+      "tickers": [
+        "DASTY"
+      ],
+      "positionsCount": 3,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q138760320",
+      "name": "Anne-Laure Chevalier",
+      "slug": "anne-laure-chevalier",
+      "tickers": [
+        "DASTY"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q133566768",
+      "name": "Olivier Costa de Beauregard",
+      "slug": "olivier-costa-de-beauregard",
+      "tickers": [
+        "DASTY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q57414248",
+      "name": "Donatella Sciuto",
+      "slug": "donatella-sciuto",
+      "tickers": [
+        "DASTY"
       ],
       "positionsCount": 0,
       "employersCount": 1

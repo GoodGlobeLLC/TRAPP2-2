@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-07-27T07:06:40.923840Z",
+  "fetchedAt": "2026-08-03T07:18:29.008397Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -62,20 +62,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
+          "chief executive officer",
+          "shareholder",
           "economist",
           "financier",
           "investor",
-          "chief executive officer",
-          "shareholder",
           "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
@@ -84,6 +84,133 @@
             "company": null,
             "start": "1970-01-01",
             "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5234268",
+      "name": "David Gottesman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5234268",
+        "name": "David Gottesman",
+        "dateOfBirth": "1926-04-26",
+        "birthPlace": "New York City",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Trinity College",
+          "Harvard Business School",
+          "Teachers College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2003-11-01",
+            "end": "2022-09-28"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4079744",
+      "name": "Howard Graham Buffett",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4079744",
+        "name": "Howard Graham Buffett",
+        "dateOfBirth": "1954-12-16",
+        "birthPlace": "Omaha",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
+        "occupations": [
+          "writer",
+          "entrepreneur",
+          "farmer",
+          "photographer"
+        ],
+        "education": [
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1993-06-11",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q3532722",
+      "name": "Ajit Jain",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q3532722",
+        "name": "Ajit Jain",
+        "dateOfBirth": "1951-07-23",
+        "birthPlace": "Odisha",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Harvard University",
+          "Indian Institute of Technology Kharagpur",
+          "Harvard Business School"
+        ],
+        "employers": [
+          {
+            "company": "Berkshire Hathaway",
+            "start": "1986-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-09",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q3525537",
+      "name": "Thomas Murphy",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q3525537",
+        "name": "Thomas Murphy",
+        "dateOfBirth": "1925-05-31",
+        "birthPlace": "Brooklyn",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Murphy%20Capital%20Cities%20Communications%2C%20New%20York%20City.jpg",
+        "occupations": [
+          "military personnel"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Cornell University",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2003-05-08",
+            "end": "2022-02-14"
           }
         ]
       }
@@ -104,9 +231,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Harvard Business School",
           "Colgate University",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -146,9 +273,9 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
+          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
@@ -186,8 +313,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Bowdoin College",
@@ -430,133 +557,6 @@
       }
     },
     {
-      "qid": "Q5234268",
-      "name": "David Gottesman",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5234268",
-        "name": "David Gottesman",
-        "dateOfBirth": "1926-04-26",
-        "birthPlace": "New York City",
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Trinity College",
-          "Harvard Business School",
-          "Teachers College"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2003-11-01",
-            "end": "2022-09-28"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q4079744",
-      "name": "Howard Graham Buffett",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q4079744",
-        "name": "Howard Graham Buffett",
-        "dateOfBirth": "1954-12-16",
-        "birthPlace": "Omaha",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
-        "occupations": [
-          "writer",
-          "farmer",
-          "entrepreneur",
-          "photographer"
-        ],
-        "education": [
-          "Harvard University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "1993-06-11",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q3532722",
-      "name": "Ajit Jain",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q3532722",
-        "name": "Ajit Jain",
-        "dateOfBirth": "1951-07-23",
-        "birthPlace": "Odisha",
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Harvard University",
-          "Indian Institute of Technology Kharagpur",
-          "Harvard Business School"
-        ],
-        "employers": [
-          {
-            "company": "Berkshire Hathaway",
-            "start": "1986-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-09",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q3525537",
-      "name": "Thomas Murphy",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q3525537",
-        "name": "Thomas Murphy",
-        "dateOfBirth": "1925-05-31",
-        "birthPlace": "Brooklyn",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Murphy%20Capital%20Cities%20Communications%2C%20New%20York%20City.jpg",
-        "occupations": [
-          "military personnel"
-        ],
-        "education": [
-          "Harvard Business School",
-          "Cornell University",
-          "Harvard University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2003-05-08",
-            "end": "2022-02-14"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q124988745",
       "name": "Wallace R. Weitz",
       "role_at_company": "Board Member",
@@ -674,20 +674,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
+          "chief executive officer",
+          "shareholder",
           "economist",
           "financier",
           "investor",
-          "chief executive officer",
-          "shareholder",
           "entrepreneur"
         ],
         "education": [
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": [
