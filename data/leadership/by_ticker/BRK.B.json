@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-08-03T07:18:29.009117Z",
+  "fetchedAt": "2026-08-10T05:28:05.180511Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -62,11 +62,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
+          "financier",
+          "investor",
           "chief executive officer",
           "shareholder",
           "economist",
-          "financier",
-          "investor",
           "entrepreneur"
         ],
         "education": [
@@ -130,9 +130,9 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "writer",
           "entrepreneur",
           "farmer",
+          "writer",
           "photographer"
         ],
         "education": [
@@ -164,9 +164,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
           "Indian Institute of Technology Kharagpur",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -227,13 +227,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Colgate University",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -273,9 +273,9 @@
           "investor"
         ],
         "education": [
+          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
-          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
@@ -313,8 +313,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Bowdoin College",
@@ -674,11 +674,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
           "broker-dealer",
+          "financier",
+          "investor",
           "chief executive officer",
           "shareholder",
           "economist",
-          "financier",
-          "investor",
           "entrepreneur"
         ],
         "education": [

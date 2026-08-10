@@ -1,6 +1,6 @@
 {
   "ticker": "DASTY",
-  "fetchedAt": "2026-08-03T07:18:29.014625Z",
+  "fetchedAt": "2026-08-10T05:28:05.183438Z",
   "people": [
     {
       "qid": "Q115735422",
@@ -99,9 +99,9 @@
         "birthPlace": "Chandigarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soumitra%20Dutta%20-%20World%20Economic%20Forum%20on%20East%20Asia%202011.jpg",
         "occupations": [
+          "academic",
           "university teacher",
           "business manager",
-          "academic",
           "computer scientist"
         ],
         "education": [
@@ -130,8 +130,8 @@
         "image": null,
         "occupations": [
           "physician",
-          "researcher",
-          "biologist"
+          "biologist",
+          "researcher"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -330,9 +330,9 @@
           "university teacher"
         ],
         "education": [
+          "Bocconi University",
           "University of Colorado Boulder",
-          "Polytechnic University of Milan",
-          "Bocconi University"
+          "Polytechnic University of Milan"
         ],
         "employers": [
           {
