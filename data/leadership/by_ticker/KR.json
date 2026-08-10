@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "fetchedAt": "2026-08-03T08:22:03.817621Z",
+  "fetchedAt": "2026-08-10T06:13:36.633418Z",
   "people": [
     {
       "qid": "Q16732385",
@@ -186,8 +186,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -253,11 +253,11 @@
         ],
         "education": [
           "Syosset High School",
-          "Columbia University",
           "Mount Holyoke College",
           "Harvard Business School",
           "Dartmouth College",
           "Massachusetts Institute of Technology",
+          "Columbia University",
           "Harvard University"
         ],
         "employers": [],

@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-08-03T08:22:03.818869Z",
+  "fetchedAt": "2026-08-10T06:13:36.636424Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -79,12 +79,12 @@
         "occupations": [
           "entrepreneur",
           "businessperson",
-          "donor",
-          "inventor"
+          "inventor",
+          "donor"
         ],
         "education": [
-          "McGill University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "McGill University"
         ],
         "employers": [],
         "positions": []
@@ -169,27 +169,27 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
-          "engineer",
-          "university teacher",
-          "biotechnologist",
           "chemical engineer",
           "biochemist",
+          "university teacher",
+          "biotechnologist",
+          "engineer",
           "inventor"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "The Milne School",
           "Cornell University College of Engineering",
-          "Cornell University"
+          "Cornell University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -209,9 +209,9 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
-          "researcher",
+          "professor",
           "physician",
-          "professor"
+          "researcher"
         ],
         "education": [
           "Hebrew Reali School",
@@ -299,8 +299,8 @@
         "birthPlace": "Agadir",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moncef%20Slaoui%20%28cropped%29.jpg",
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
           "Universit\u00e9 libre de Bruxelles",
