@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T06:13:36.641775Z",
+  "generatedAt": "2026-08-10T08:03:22.285404Z",
   "totalPeople": 262,
   "totalTickers": 80,
-  "lastRangeFilter": "H-M",
-  "thisRunPeople": 28,
-  "thisRunTickers": 48,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 80,
+  "thisRunTickers": 93,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "AES"
+        "WBA"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -2191,7 +2191,7 @@
         "TSN"
       ],
       "positionsCount": 0,
-      "employersCount": 3
+      "employersCount": 5
     },
     {
       "qid": "Q107616121",

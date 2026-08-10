@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-08-03T10:05:34.736024Z",
+  "fetchedAt": "2026-08-10T08:03:22.268868Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -159,6 +159,16 @@
             "company": "Microsoft",
             "start": "2003-06-01",
             "end": "2009-09-01"
+          },
+          {
+            "company": "Cisco",
+            "start": "2021-03-01",
+            "end": null
+          },
+          {
+            "company": "Cisco",
+            "start": "2018-04-01",
+            "end": null
           }
         ],
         "positions": []
