@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "fetchedAt": "2026-08-10T06:13:36.633418Z",
+  "fetchedAt": "2026-08-17T05:28:37.963459Z",
   "people": [
     {
       "qid": "Q16732385",
@@ -186,8 +186,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
