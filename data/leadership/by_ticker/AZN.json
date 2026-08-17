@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-08-10T05:28:05.168005Z",
+  "fetchedAt": "2026-08-17T04:43:21.534813Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -14,8 +14,8 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "HEC Paris",
@@ -136,13 +136,13 @@
         "birthPlace": "Quincy",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheri%20McCoy.jpg",
         "occupations": [
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of Massachusetts Dartmouth",
-          "Rutgers University"
+          "Rutgers University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -160,8 +160,8 @@
         "birthPlace": "France",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pascal%20Soriot%202025.jpg",
         "occupations": [
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "HEC Paris",
@@ -218,9 +218,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "physician",
           "biologist",
-          "researcher"
+          "researcher",
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -268,16 +268,6 @@
         ],
         "employers": [
           {
-            "company": "Institute of International Finance",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "International Chamber of Commerce",
             "start": null,
             "end": null
@@ -299,6 +289,16 @@
           },
           {
             "company": "Investor",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Institute of International Finance",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Deutsche Bank",
             "start": null,
             "end": null
           },

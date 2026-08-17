@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-08-10T05:28:05.179598Z",
+  "fetchedAt": "2026-08-17T04:43:21.537708Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -11,11 +11,11 @@
         "qid": "Q109767256",
         "name": "Kelly Ortberg",
         "dateOfBirth": "1960-01-01",
-        "birthPlace": null,
+        "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of Iowa"
@@ -56,8 +56,8 @@
         "occupations": [],
         "education": [
           "University of Connecticut School of Law",
-          "Cornell University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -98,8 +98,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Virginia Tech"
@@ -352,9 +352,9 @@
           "military officer"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "United States Naval Academy",
-          "National War College"
+          "National War College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": [
@@ -379,8 +379,8 @@
         "birthPlace": "Canastota",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
         "occupations": [
-          "military officer",
-          "submariner"
+          "submariner",
+          "military officer"
         ],
         "education": [
           "United States Naval Academy"
