@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-08-17T04:43:21.541557Z",
+  "fetchedAt": "2026-08-24T04:46:22.167407Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -302,10 +302,20 @@
           "Hopkins School",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
-          "New York University",
-          "Yale University"
+          "Yale University",
+          "New York University"
         ],
         "employers": [
+          {
+            "company": "Bell Labs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Jerrold Electronics",
             "start": null,
@@ -318,16 +328,6 @@
           },
           {
             "company": "General Instrument",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bell Labs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
             "start": null,
             "end": null
           }

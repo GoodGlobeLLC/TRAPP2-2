@@ -1,6 +1,6 @@
 {
   "ticker": "DAL",
-  "fetchedAt": "2026-08-17T04:43:21.544820Z",
+  "fetchedAt": "2026-08-24T04:46:22.168396Z",
   "people": [
     {
       "qid": "Q32374551",
@@ -65,8 +65,8 @@
         ],
         "education": [
           "Columbia Law School",
-          "Brooks School",
-          "Harvard University"
+          "Harvard University",
+          "Brooks School"
         ],
         "employers": [],
         "positions": [

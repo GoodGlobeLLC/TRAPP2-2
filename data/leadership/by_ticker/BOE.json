@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-08-17T04:43:21.537708Z",
+  "fetchedAt": "2026-08-24T04:46:22.165783Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -56,8 +56,8 @@
         "occupations": [],
         "education": [
           "University of Connecticut School of Law",
-          "Massachusetts Institute of Technology",
-          "Cornell University"
+          "Cornell University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
