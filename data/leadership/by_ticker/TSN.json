@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-08-17T07:13:07.370682Z",
+  "fetchedAt": "2026-08-24T07:16:22.896033Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -295,11 +295,6 @@
         ],
         "employers": [
           {
-            "company": "J.P. Morgan & Co.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Tyson Foods",
             "start": "2019-01-01",
             "end": "2022-01-01"
@@ -313,6 +308,11 @@
             "company": "Tyson Foods",
             "start": "2022-01-01",
             "end": "2024-01-01"
+          },
+          {
+            "company": "J.P. Morgan & Co.",
+            "start": null,
+            "end": null
           }
         ],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "TDG",
-  "fetchedAt": "2026-08-17T07:13:07.369147Z",
+  "fetchedAt": "2026-08-24T07:16:22.894980Z",
   "people": [
     {
       "qid": "Q117323921",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "philanthropist",
           "businessperson",
+          "philanthropist",
           "business executive"
         ],
         "education": [
