@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "fetchedAt": "2026-08-24T05:30:37.841255Z",
+  "fetchedAt": "2026-08-31T11:23:58.509236Z",
   "people": [
     {
       "qid": "Q16732385",
@@ -78,8 +78,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Brown University"
+          "Brown University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -248,17 +248,17 @@
         "birthPlace": "Taipei",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elaine%20Chao%20official%20portrait%202.jpg",
         "occupations": [
-          "politician",
-          "economist"
+          "economist",
+          "politician"
         ],
         "education": [
           "Syosset High School",
           "Dartmouth College",
+          "Harvard University",
           "Mount Holyoke College",
           "Harvard Business School",
           "Massachusetts Institute of Technology",
-          "Columbia University",
-          "Harvard University"
+          "Columbia University"
         ],
         "employers": [],
         "positions": [
