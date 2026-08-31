@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-08-24T04:46:22.165501Z",
+  "fetchedAt": "2026-08-31T10:49:18.229149Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -23,7 +23,7 @@
         ],
         "employers": [
           {
-            "company": "BMW",
+            "company": "BMW Group",
             "start": null,
             "end": null
           }
@@ -85,9 +85,9 @@
         "birthPlace": "F\u00fcrstenwalde",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helmut%20Panke.jpg",
         "occupations": [
+          "physicist",
           "chairperson of the executive board",
-          "manager",
-          "physicist"
+          "manager"
         ],
         "education": [
           "Phillips Exeter Academy",
@@ -126,7 +126,7 @@
         ],
         "employers": [
           {
-            "company": "BMW",
+            "company": "BMW Group",
             "start": null,
             "end": null
           }

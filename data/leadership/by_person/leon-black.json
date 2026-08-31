@@ -5,11 +5,11 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
+    "businessperson",
     "art collector",
     "investment banker",
-    "financier",
-    "businessperson",
-    "investor"
+    "investor",
+    "financier"
   ],
   "education": [
     "Harvard Business School",

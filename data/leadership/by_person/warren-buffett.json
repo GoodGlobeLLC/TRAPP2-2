@@ -7,18 +7,18 @@
   "occupations": [
     "financier",
     "investor",
-    "broker-dealer",
     "chief executive officer",
     "shareholder",
-    "economist",
-    "entrepreneur"
+    "broker-dealer",
+    "entrepreneur",
+    "economist"
   ],
   "education": [
+    "The Wharton School",
+    "Columbia Business School",
     "New York Institute of Finance",
     "Jackson-Reed High School",
     "University of Nebraska\u2013Lincoln",
-    "The Wharton School",
-    "Columbia Business School",
     "University of Pennsylvania"
   ],
   "employers": [],

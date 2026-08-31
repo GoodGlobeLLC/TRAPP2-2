@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-08-24T04:46:22.165620Z",
+  "fetchedAt": "2026-08-31T10:49:18.229376Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -14,10 +14,10 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "academic",
-          "chairperson of the executive board",
           "oncologist",
           "immunologist",
+          "academic",
+          "chairperson of the executive board",
           "researcher",
           "university teacher",
           "entrepreneur",
@@ -67,14 +67,14 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
-          "immunologist",
           "academic",
           "board member",
+          "Privatdozent",
           "university teacher",
+          "immunologist",
           "researcher",
           "entrepreneur",
-          "physician",
-          "Privatdozent"
+          "physician"
         ],
         "education": [
           "Werner-von-Siemens-Gymnasium",
@@ -115,10 +115,10 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "academic",
-          "chairperson of the executive board",
           "oncologist",
           "immunologist",
+          "academic",
+          "chairperson of the executive board",
           "researcher",
           "university teacher",
           "entrepreneur",
@@ -168,14 +168,14 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
-          "immunologist",
           "academic",
           "board member",
+          "Privatdozent",
           "university teacher",
+          "immunologist",
           "researcher",
           "entrepreneur",
-          "physician",
-          "Privatdozent"
+          "physician"
         ],
         "education": [
           "Werner-von-Siemens-Gymnasium",
@@ -216,10 +216,10 @@
         "birthPlace": "\u0130skenderun",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugur%20Sahin%20v1.jpg",
         "occupations": [
-          "academic",
-          "chairperson of the executive board",
           "oncologist",
           "immunologist",
+          "academic",
+          "chairperson of the executive board",
           "researcher",
           "university teacher",
           "entrepreneur",

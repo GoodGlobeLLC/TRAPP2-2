@@ -5,13 +5,13 @@
   "birthPlace": "Boston",
   "image": null,
   "occupations": [
-    "business executive",
+    "entrepreneur",
     "lawyer",
-    "entrepreneur"
+    "business executive"
   ],
   "education": [
-    "Columbia Law School",
     "Harvard University",
+    "Columbia Law School",
     "Brooks School"
   ],
   "employers": [],
