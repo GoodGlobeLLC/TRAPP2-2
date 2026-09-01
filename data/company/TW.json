@@ -1,19 +1,38 @@
 {
   "ticker": "TW",
-  "qid": "Q3535949",
-  "fetchedAt": "2026-08-01T06:08:14.540356Z",
+  "qid": "Q434841",
+  "fetchedAt": "2026-09-01T07:36:39.778094Z",
   "source": "wikidata",
-  "name": "Towers Watson",
-  "description": "company",
-  "website": "http://www.towerswatson.com/",
+  "name": "20th Century Studios",
+  "description": "American film studio owned by The Walt Disney Company",
+  "website": "https://www.20thcenturystudios.com",
   "isin": null,
-  "inception": "2010-01-01",
-  "employees": null,
-  "industry": "professional service",
-  "headquarters": "Madison Avenue",
-  "executives": [],
+  "inception": "1935-05-31",
+  "employees": 2300,
+  "industry": "film industry",
+  "headquarters": "Walt Disney Studios",
+  "executives": [
+    {
+      "name": "Stacey Snider",
+      "role": "Chief Executive Officer"
+    }
+  ],
   "board": [],
-  "founders": [],
-  "products": [],
+  "founders": [
+    {
+      "name": "Darryl F. Zanuck"
+    },
+    {
+      "name": "William Fox"
+    },
+    {
+      "name": "Joseph M. Schenck"
+    }
+  ],
+  "products": [
+    {
+      "name": "software"
+    }
+  ],
   "countries": []
 }

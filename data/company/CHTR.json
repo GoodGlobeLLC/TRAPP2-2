@@ -1,7 +1,7 @@
 {
   "ticker": "CHTR",
   "qid": "Q2961234",
-  "fetchedAt": "2026-08-01T06:03:16.435407Z",
+  "fetchedAt": "2026-09-01T07:34:17.722888Z",
   "source": "wikidata",
   "name": "Spectrum",
   "description": "American cable services provider",
@@ -9,7 +9,7 @@
   "isin": "US16117M3051",
   "inception": "1993-01-01",
   "employees": null,
-  "industry": "telecommunications",
+  "industry": "telecommunications industry",
   "headquarters": "Stamford",
   "executives": [],
   "board": [

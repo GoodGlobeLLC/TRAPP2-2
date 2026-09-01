@@ -1,7 +1,7 @@
 {
   "ticker": "NOK",
   "qid": "Q1418",
-  "fetchedAt": "2026-08-01T06:03:00.709715Z",
+  "fetchedAt": "2026-09-01T07:34:09.298598Z",
   "source": "wikidata",
   "name": "Nokia",
   "description": "Finnish multinational telecommunications and information technology company",
@@ -34,10 +34,10 @@
       "name": "headset"
     },
     {
-      "name": "smartphone"
+      "name": "software"
     },
     {
-      "name": "software"
+      "name": "smartphone"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "MLM",
   "qid": "Q7039148",
-  "fetchedAt": "2026-08-01T06:10:59.654078Z",
+  "fetchedAt": "2026-09-01T07:38:17.362416Z",
   "source": "wikidata",
   "name": "M.L.M.",
   "description": "Intelligence heritage center in Israel",
@@ -16,13 +16,13 @@
   "founders": [],
   "products": [
     {
-      "name": "book"
-    },
-    {
       "name": "magazine"
     },
     {
       "name": "video recording"
+    },
+    {
+      "name": "book"
     }
   ],
   "countries": []

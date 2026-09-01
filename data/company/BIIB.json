@@ -1,7 +1,7 @@
 {
   "ticker": "BIIB",
   "qid": "Q864338",
-  "fetchedAt": "2026-06-11T05:46:40.539272Z",
+  "fetchedAt": "2026-09-01T07:41:41.034617Z",
   "source": "wikidata",
   "name": "Biogen",
   "description": "American multinational biotechnology company",
@@ -20,9 +20,6 @@
   "board": [],
   "founders": [
     {
-      "name": "Kenneth Murray"
-    },
-    {
       "name": "Phillip Sharp"
     },
     {
@@ -30,6 +27,9 @@
     },
     {
       "name": "Charles Weissmann"
+    },
+    {
+      "name": "Kenneth Murray"
     }
   ],
   "products": [],

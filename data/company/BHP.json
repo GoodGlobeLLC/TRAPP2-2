@@ -1,7 +1,7 @@
 {
   "ticker": "BHP",
   "qid": "Q625713",
-  "fetchedAt": "2026-08-01T05:30:43.335478Z",
+  "fetchedAt": "2026-09-01T07:19:57.614956Z",
   "source": "wikidata",
   "name": "BHP Group",
   "description": "Australian multinational mining and metals company",
@@ -9,7 +9,7 @@
   "isin": "AU000000BHP4",
   "inception": "2001-01-01",
   "employees": 47044,
-  "industry": "mining",
+  "industry": "mining industry",
   "headquarters": "Melbourne",
   "executives": [
     {

@@ -1,7 +1,7 @@
 {
   "ticker": "CIEN",
   "qid": "Q1091783",
-  "fetchedAt": "2026-08-01T06:02:31.112673Z",
+  "fetchedAt": "2026-09-01T07:33:51.601916Z",
   "source": "wikidata",
   "name": "Ciena",
   "description": "telecommunications company",
@@ -9,7 +9,7 @@
   "isin": "US1717793095",
   "inception": "1999-01-01",
   "employees": null,
-  "industry": "telecommunications",
+  "industry": "telecommunications industry",
   "headquarters": "Hanover",
   "executives": [],
   "board": [],

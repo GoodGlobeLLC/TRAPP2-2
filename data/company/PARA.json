@@ -1,7 +1,7 @@
 {
   "ticker": "PARA",
   "qid": "Q159846",
-  "fetchedAt": "2026-06-11T05:49:06.517998Z",
+  "fetchedAt": "2026-09-01T07:44:02.469179Z",
   "source": "wikidata",
   "name": "Paramount Pictures",
   "description": "American film studio, subsidiary of Paramount Global",
@@ -13,7 +13,7 @@
   "headquarters": "Los Angeles",
   "executives": [
     {
-      "name": "Jim Gianopulos",
+      "name": "Jim Giannopulos",
       "role": "Chief Executive Officer"
     }
   ],

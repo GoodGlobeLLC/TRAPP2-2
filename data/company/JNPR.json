@@ -1,7 +1,7 @@
 {
   "ticker": "JNPR",
   "qid": "Q1049080",
-  "fetchedAt": "2026-06-11T05:54:42.475919Z",
+  "fetchedAt": "2026-09-01T07:48:34.387486Z",
   "source": "wikidata",
   "name": "Juniper Networks",
   "description": "American multinational technology company",
@@ -31,13 +31,13 @@
       "name": "electrical switch"
     },
     {
+      "name": "router"
+    },
+    {
       "name": "computer security"
     },
     {
       "name": "networking hardware"
-    },
-    {
-      "name": "router"
     }
   ],
   "countries": []

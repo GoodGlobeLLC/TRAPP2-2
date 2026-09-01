@@ -1,7 +1,7 @@
 {
   "ticker": "PHM",
   "qid": "Q7259716",
-  "fetchedAt": "2026-06-11T05:55:14.459620Z",
+  "fetchedAt": "2026-09-01T07:49:03.248707Z",
   "source": "wikidata",
   "name": "PulteGroup",
   "description": "homebuilding company founded in 1950",
@@ -13,11 +13,7 @@
   "headquarters": "Atlanta",
   "executives": [],
   "board": [],
-  "founders": [
-    {
-      "name": "Bill Pulte"
-    }
-  ],
+  "founders": [],
   "products": [],
   "countries": []
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "VRT",
   "qid": "Q5370909",
-  "fetchedAt": "2026-08-01T05:31:31.949063Z",
+  "fetchedAt": "2026-09-01T07:20:21.822052Z",
   "source": "wikidata",
   "name": "Vertiv",
   "description": "Multinational provider of critical infrastructure and services for data centers, communication networks, and commercial and industrial environments",
@@ -15,10 +15,18 @@
     {
       "name": "Giordano Albertazzi",
       "role": "Chief Executive Officer"
+    },
+    {
+      "name": "David M. Cote",
+      "role": "Chairperson"
     }
   ],
   "board": [],
-  "founders": [],
+  "founders": [
+    {
+      "name": "Ralph Liebert"
+    }
+  ],
   "products": [
     {
       "name": "thermal management of electronic devices and systems"

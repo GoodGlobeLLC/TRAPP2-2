@@ -1,7 +1,7 @@
 {
   "ticker": "DASTY",
   "qid": "Q1172038",
-  "fetchedAt": "2026-08-01T05:54:20.830870Z",
+  "fetchedAt": "2026-09-01T07:31:50.422215Z",
   "source": "wikidata",
   "name": "Dassault Syst\u00e8mes",
   "description": "software company headquartered in V\u00e9lizy-Villacoublay, France",
@@ -9,7 +9,7 @@
   "isin": "FR0000130650",
   "inception": "1981-01-01",
   "employees": null,
-  "industry": "software industry",
+  "industry": "electronics industry",
   "headquarters": "V\u00e9lizy-Villacoublay",
   "executives": [
     {

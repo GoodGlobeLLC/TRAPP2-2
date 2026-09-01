@@ -1,7 +1,7 @@
 {
   "ticker": "SONY",
   "qid": "Q41187",
-  "fetchedAt": "2026-06-11T05:49:10.285783Z",
+  "fetchedAt": "2026-09-01T07:44:06.884842Z",
   "source": "wikidata",
   "name": "Sony Group",
   "description": "Japanese multinational conglomerate corporation",
@@ -9,7 +9,7 @@
   "isin": "JP3435000009",
   "inception": "1946-05-07",
   "employees": 112300,
-  "industry": "electrical industry",
+  "industry": "electronics industry",
   "headquarters": "Minato",
   "executives": [
     {
@@ -43,10 +43,10 @@
       "name": "video game"
     },
     {
-      "name": "photocopier"
+      "name": "semiconductor"
     },
     {
-      "name": "semiconductor"
+      "name": "photocopier"
     },
     {
       "name": "software"

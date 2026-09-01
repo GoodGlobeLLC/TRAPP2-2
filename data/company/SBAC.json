@@ -1,7 +1,7 @@
 {
   "ticker": "SBAC",
   "qid": "Q7388926",
-  "fetchedAt": "2026-08-01T06:02:53.825112Z",
+  "fetchedAt": "2026-09-01T07:34:04.588937Z",
   "source": "wikidata",
   "name": "SBA Communications",
   "description": "operator of mobile telecommunication infrastructure",
@@ -9,7 +9,7 @@
   "isin": "US78410G1040",
   "inception": "1989-01-01",
   "employees": null,
-  "industry": "telecommunications",
+  "industry": "telecommunications industry",
   "headquarters": "Boca Raton",
   "executives": [],
   "board": [],

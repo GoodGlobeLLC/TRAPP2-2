@@ -1,7 +1,7 @@
 {
   "ticker": "FIS",
   "qid": "Q1411295",
-  "fetchedAt": "2026-08-01T05:54:57.789790Z",
+  "fetchedAt": "2026-09-01T07:32:03.228701Z",
   "source": "wikidata",
   "name": "Fidelity National Information Services",
   "description": "company",
@@ -10,7 +10,7 @@
   "inception": "2006-02-01",
   "employees": null,
   "industry": "financial services",
-  "headquarters": "Jacksonville",
+  "headquarters": null,
   "executives": [],
   "board": [],
   "founders": [],

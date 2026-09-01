@@ -1,7 +1,7 @@
 {
   "ticker": "ADM",
   "qid": "Q358752",
-  "fetchedAt": "2026-08-01T05:45:40.561677Z",
+  "fetchedAt": "2026-09-01T07:26:54.213276Z",
   "source": "wikidata",
   "name": "Administrador de Infraestructuras Ferroviarias",
   "description": "operator of most of Spain's railway infrastructure",
@@ -15,5 +15,9 @@
   "board": [],
   "founders": [],
   "products": [],
-  "countries": []
+  "countries": [
+    {
+      "name": "peninsular Spain"
+    }
+  ]
 }

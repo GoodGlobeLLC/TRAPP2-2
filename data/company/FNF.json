@@ -1,7 +1,7 @@
 {
   "ticker": "FNF",
   "qid": "Q5446791",
-  "fetchedAt": "2026-06-11T05:45:25.443546Z",
+  "fetchedAt": "2026-09-01T07:40:28.712027Z",
   "source": "wikidata",
   "name": "Fidelity National Financial",
   "description": "American financial services company",
@@ -10,7 +10,7 @@
   "inception": "1847-01-01",
   "employees": null,
   "industry": null,
-  "headquarters": "Jacksonville",
+  "headquarters": null,
   "executives": [],
   "board": [],
   "founders": [],

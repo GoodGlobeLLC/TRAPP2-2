@@ -1,7 +1,7 @@
 {
   "ticker": "AI",
   "qid": "Q69906",
-  "fetchedAt": "2026-06-11T05:48:30.868415Z",
+  "fetchedAt": "2026-09-01T07:43:30.293127Z",
   "source": "wikidata",
   "name": "Air India",
   "description": "flag-carrier airline of India",
@@ -15,7 +15,7 @@
   "board": [],
   "founders": [
     {
-      "name": "J. R. D. Tata"
+      "name": "JRD Tata"
     }
   ],
   "products": [],

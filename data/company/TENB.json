@@ -1,13 +1,13 @@
 {
   "ticker": "TENB",
   "qid": "Q55948312",
-  "fetchedAt": "2026-06-11T05:51:46.283400Z",
+  "fetchedAt": "2026-09-01T07:46:43.507034Z",
   "source": "wikidata",
   "name": "Tenable Network Security",
   "description": "software company",
   "website": "https://www.tenable.com/",
   "isin": "US88025T1025",
-  "inception": "2005-10-05",
+  "inception": "2002-01-01",
   "employees": null,
   "industry": "computer security",
   "headquarters": "Columbia",
@@ -16,10 +16,10 @@
   "founders": [],
   "products": [
     {
-      "name": "Nessus"
+      "name": "software"
     },
     {
-      "name": "software"
+      "name": "Nessus"
     }
   ],
   "countries": []

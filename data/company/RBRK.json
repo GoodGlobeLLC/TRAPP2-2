@@ -1,7 +1,7 @@
 {
   "ticker": "RBRK",
   "qid": "Q55632076",
-  "fetchedAt": "2026-06-11T05:51:52.375737Z",
+  "fetchedAt": "2026-09-01T07:46:50.244464Z",
   "source": "wikidata",
   "name": "Rubrik",
   "description": "Zero trust data security and cloud data management for Enterprise companies",
@@ -16,12 +16,6 @@
   "founders": [],
   "products": [
     {
-      "name": "data security and protection"
-    },
-    {
-      "name": "zero trust architecture"
-    },
-    {
       "name": "computer security"
     },
     {
@@ -29,6 +23,12 @@
     },
     {
       "name": "data security"
+    },
+    {
+      "name": "data security and protection"
+    },
+    {
+      "name": "zero trust architecture"
     }
   ],
   "countries": []
