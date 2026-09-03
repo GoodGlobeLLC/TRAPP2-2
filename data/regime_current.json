@@ -23,7 +23,7 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.3361,
+    "expansion": 0.3362,
     "risk_on_melt_up": 0.6265,
     "inflation_shock": 0.001,
     "recession_fear": 0.0,
@@ -100,5 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-09-03T19:49:02+00:00"
+  "computed_at": "2026-09-03T22:00:57+00:00"
 }
