@@ -1,6 +1,6 @@
 {
   "ticker": "NTRS",
-  "fetchedAt": "2026-08-31T13:27:05.078982Z",
+  "fetchedAt": "2026-09-07T12:23:17.284149Z",
   "people": [
     {
       "qid": "Q125307830",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "banker",
-          "business executive"
+          "business executive",
+          "banker"
         ],
         "education": [],
         "employers": [

@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-08-31T13:27:05.090675Z",
+  "fetchedAt": "2026-09-07T12:23:17.294164Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "businessperson",
-          "engineer",
+          "entrepreneur",
           "chief executive officer",
-          "entrepreneur"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stony Brook University",
-          "Stanford University"
+          "Stanford University",
+          "Stony Brook University"
         ],
         "employers": [],
         "positions": []
@@ -234,8 +234,8 @@
           "Cass Technical High School",
           "Booth School of Business",
           "University of Pennsylvania",
-          "University of Chicago",
-          "Stanford Law School"
+          "Stanford Law School",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "businessperson",
-          "engineer",
+          "entrepreneur",
           "chief executive officer",
-          "entrepreneur"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -376,14 +376,14 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
+          "Stanford University",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "Stanford University",
           "University of Michigan"
         ],
         "employers": [],

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T09:51:21.868033Z",
-  "totalPeople": 264,
-  "totalTickers": 81,
-  "lastRangeFilter": "H-M",
-  "thisRunPeople": 28,
-  "thisRunTickers": 48,
+  "generatedAt": "2026-09-07T12:23:17.306573Z",
+  "totalPeople": 266,
+  "totalTickers": 82,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 83,
+  "thisRunTickers": 93,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "AES"
+        "WBA"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -1861,8 +1861,8 @@
     },
     {
       "qid": "Q6195201",
-      "name": "Jim Gianopulos",
-      "slug": "jim-gianopulos",
+      "name": "Jim Giannopulos",
+      "slug": "jim-giannopulos",
       "tickers": [
         "PARA"
       ],
@@ -2694,6 +2694,26 @@
       "slug": "josh-silverman",
       "tickers": [
         "ETSY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7595870",
+      "name": "Stacey Snider",
+      "slug": "stacey-snider",
+      "tickers": [
+        "TW"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q1175376",
+      "name": "David M. Cote",
+      "slug": "david-m-cote",
+      "tickers": [
+        "VRT"
       ],
       "positionsCount": 0,
       "employersCount": 0
