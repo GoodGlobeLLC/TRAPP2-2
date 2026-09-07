@@ -1,6 +1,6 @@
 {
   "ticker": "DASTY",
-  "fetchedAt": "2026-08-31T10:49:18.236373Z",
+  "fetchedAt": "2026-09-07T09:06:06.883681Z",
   "people": [
     {
       "qid": "Q115735422",
@@ -129,9 +129,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
+          "biologist",
           "researcher",
-          "physician",
-          "biologist"
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"

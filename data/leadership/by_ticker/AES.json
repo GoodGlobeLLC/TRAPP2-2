@@ -1,6 +1,6 @@
 {
   "ticker": "AES",
-  "fetchedAt": "2026-08-31T10:49:18.222564Z",
+  "fetchedAt": "2026-09-07T09:06:06.874693Z",
   "people": [
     {
       "qid": "Q125432523",
@@ -442,8 +442,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mois%C3%A9s%20Na%C3%ADm%2C%20World%20Economic%20Forum%20on%20Latin%20America%202009.jpg",
         "occupations": [
           "journalist",
-          "politician",
           "economist",
+          "politician",
           "writer"
         ],
         "education": [

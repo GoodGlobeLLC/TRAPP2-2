@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-08-31T10:49:18.236782Z",
+  "fetchedAt": "2026-09-07T09:06:06.883983Z",
   "people": [
     {
       "qid": "Q218630",
@@ -16,11 +16,11 @@
         "occupations": [
           "philanthropist",
           "financier",
+          "investor",
           "chief executive officer",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
-          "investor"
+          "businessperson"
         ],
         "education": [
           "Memorial High School",
@@ -72,8 +72,8 @@
         "birthPlace": "L\u00fcbeck",
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Georgetown University"
@@ -97,8 +97,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -116,12 +116,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
-          "University of Cambridge",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of Cambridge"
         ],
         "employers": [],
         "positions": [
@@ -232,11 +232,11 @@
         "occupations": [
           "philanthropist",
           "financier",
+          "investor",
           "chief executive officer",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
-          "investor"
+          "businessperson"
         ],
         "education": [
           "Memorial High School",
@@ -267,11 +267,11 @@
         "occupations": [
           "philanthropist",
           "financier",
+          "investor",
           "chief executive officer",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
-          "investor"
+          "businessperson"
         ],
         "education": [
           "Memorial High School",

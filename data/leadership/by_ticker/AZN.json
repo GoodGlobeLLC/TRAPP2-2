@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-08-31T10:49:18.227038Z",
+  "fetchedAt": "2026-09-07T09:06:06.876860Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -18,8 +18,8 @@
           "entrepreneur"
         ],
         "education": [
-          "HEC Paris",
-          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort"
+          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -101,8 +101,8 @@
           "singer-songwriter"
         ],
         "education": [
-          "Redland High School for Girls",
-          "University of Oxford"
+          "University of Oxford",
+          "Redland High School for Girls"
         ],
         "employers": [
           {
@@ -140,11 +140,36 @@
           "engineer"
         ],
         "education": [
+          "Princeton University",
           "University of Massachusetts Dartmouth",
-          "Rutgers University",
-          "Princeton University"
+          "Rutgers University"
         ],
         "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q61820649",
+      "name": "Tony Mok",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q61820649",
+        "name": "Tony Mok",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "researcher"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "The Chinese University of Hong Kong",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": []
       }
     },
@@ -164,8 +189,8 @@
           "entrepreneur"
         ],
         "education": [
-          "HEC Paris",
-          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort"
+          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -218,9 +243,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
+          "biologist",
           "researcher",
-          "physician",
-          "biologist"
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -278,16 +303,6 @@
             "end": "1982-01-01"
           },
           {
-            "company": "Institute of International Finance",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
             "end": null
@@ -299,6 +314,16 @@
           },
           {
             "company": "Investor",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Institute of International Finance",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Deutsche Bank",
             "start": null,
             "end": null
           },
@@ -363,31 +388,6 @@
             "end": "2018-01-01"
           }
         ]
-      }
-    },
-    {
-      "qid": "Q61820649",
-      "name": "Tony Mok",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q61820649",
-        "name": "Tony Mok",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "researcher"
-        ],
-        "education": [],
-        "employers": [
-          {
-            "company": "The Chinese University of Hong Kong",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
       }
     }
   ]

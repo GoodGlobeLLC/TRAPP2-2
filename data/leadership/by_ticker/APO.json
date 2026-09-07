@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-08-31T10:49:18.226190Z",
+  "fetchedAt": "2026-09-07T09:06:06.876244Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -55,11 +55,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "art collector",
           "investment banker",
-          "investor",
-          "financier"
+          "financier",
+          "businessperson",
+          "investor"
         ],
         "education": [
           "Harvard Business School",
@@ -156,8 +156,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "financier",
-          "investment banker"
+          "investment banker",
+          "financier"
         ],
         "education": [
           "Columbia Business School",
@@ -236,11 +236,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "art collector",
           "investment banker",
-          "investor",
-          "financier"
+          "financier",
+          "businessperson",
+          "investor"
         ],
         "education": [
           "Harvard Business School",

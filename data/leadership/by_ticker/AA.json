@@ -1,6 +1,6 @@
 {
   "ticker": "AA",
-  "fetchedAt": "2026-08-31T10:49:18.220896Z",
+  "fetchedAt": "2026-09-07T09:06:06.873529Z",
   "people": [
     {
       "qid": "Q29152660",
@@ -104,8 +104,8 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Connie%20Hedegaard%20by%20Christian%20Ursilva.jpg",
         "occupations": [
-          "politician",
-          "journalist"
+          "journalist",
+          "politician"
         ],
         "education": [
           "University of Copenhagen"

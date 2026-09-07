@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T13:27:05.104740Z",
-  "totalPeople": 262,
-  "totalTickers": 80,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 80,
-  "thisRunTickers": 93,
+  "generatedAt": "2026-09-07T09:06:06.917034Z",
+  "totalPeople": 264,
+  "totalTickers": 81,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 150,
+  "thisRunTickers": 97,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "WBA"
+        "AES"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -2674,6 +2674,26 @@
       "slug": "giordano-albertazzi",
       "tickers": [
         "VRT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q136670079",
+      "name": "Kruti Patel Goyal",
+      "slug": "kruti-patel-goyal",
+      "tickers": [
+        "ETSY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q110415258",
+      "name": "Josh Silverman",
+      "slug": "josh-silverman",
+      "tickers": [
+        "ETSY"
       ],
       "positionsCount": 0,
       "employersCount": 0
