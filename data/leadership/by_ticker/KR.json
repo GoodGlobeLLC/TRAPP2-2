@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "fetchedAt": "2026-08-31T11:23:58.509236Z",
+  "fetchedAt": "2026-09-07T09:51:21.858907Z",
   "people": [
     {
       "qid": "Q16732385",
@@ -18,135 +18,6 @@
         ],
         "education": [
           "University of Kentucky"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109637258",
-      "name": "Mark Sutton",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109637258",
-        "name": "Mark Sutton",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Louisiana State University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109637199",
-      "name": "Clyde Moore",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109637199",
-        "name": "Clyde Moore",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109636426",
-      "name": "Karen Hoguet",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109636426",
-        "name": "Karen Hoguet",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Brown University",
-          "Harvard Business School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109636116",
-      "name": "Anne Gates",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109636116",
-        "name": "Anne Gates",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "University of California, Berkeley",
-          "Columbia University School of General Studies"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109635746",
-      "name": "Kevin Brown",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109635746",
-        "name": "Kevin Brown",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "George Washington University",
-          "University of Massachusetts Amherst"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109635504",
-      "name": "Nora Aufreiter",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109635504",
-        "name": "Nora Aufreiter",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "University of Western Ontario",
-          "Harvard Business School",
-          "Ivey Business School"
         ],
         "employers": [],
         "positions": []
@@ -253,12 +124,12 @@
         ],
         "education": [
           "Syosset High School",
-          "Dartmouth College",
-          "Harvard University",
           "Mount Holyoke College",
           "Harvard Business School",
+          "Dartmouth College",
+          "Columbia University",
           "Massachusetts Institute of Technology",
-          "Columbia University"
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -281,6 +152,135 @@
             "end": "2009-01-20"
           }
         ]
+      }
+    },
+    {
+      "qid": "Q109637258",
+      "name": "Mark Sutton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109637258",
+        "name": "Mark Sutton",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Louisiana State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109637199",
+      "name": "Clyde Moore",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109637199",
+        "name": "Clyde Moore",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109636426",
+      "name": "Karen Hoguet",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109636426",
+        "name": "Karen Hoguet",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Brown University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109636116",
+      "name": "Anne Gates",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109636116",
+        "name": "Anne Gates",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "Columbia University School of General Studies"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109635746",
+      "name": "Kevin Brown",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109635746",
+        "name": "Kevin Brown",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "George Washington University",
+          "University of Massachusetts Amherst"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109635504",
+      "name": "Nora Aufreiter",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109635504",
+        "name": "Nora Aufreiter",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Western Ontario",
+          "Harvard Business School",
+          "Ivey Business School"
+        ],
+        "employers": [],
+        "positions": []
       }
     }
   ]
