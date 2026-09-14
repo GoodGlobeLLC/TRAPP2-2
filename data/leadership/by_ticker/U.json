@@ -1,6 +1,6 @@
 {
   "ticker": "U",
-  "fetchedAt": "2026-09-07T12:23:17.292450Z",
+  "fetchedAt": "2026-09-14T12:34:43.351781Z",
   "people": [
     {
       "qid": "Q5300803",
@@ -69,14 +69,14 @@
             "end": null
           },
           {
-            "company": "US Airways",
-            "start": "2006-09-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "America West Airlines",
             "start": "1995-01-01",
             "end": "2006-01-01"
+          },
+          {
+            "company": "US Airways",
+            "start": "2006-09-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": []
