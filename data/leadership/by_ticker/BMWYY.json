@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-09-07T09:06:06.878328Z",
+  "fetchedAt": "2026-09-14T09:34:36.269099Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -85,8 +85,8 @@
         "birthPlace": "F\u00fcrstenwalde",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helmut%20Panke.jpg",
         "occupations": [
-          "chairperson of the executive board",
           "manager",
+          "chairperson of the executive board",
           "physicist"
         ],
         "education": [
@@ -116,9 +116,9 @@
         "birthPlace": "Vienna",
         "image": null,
         "occupations": [
-          "designer",
+          "engineer",
           "entrepreneur",
-          "engineer"
+          "designer"
         ],
         "education": [
           "German Technical University in Brno",

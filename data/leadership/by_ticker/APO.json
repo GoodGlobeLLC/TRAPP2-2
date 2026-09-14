@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-09-07T09:06:06.876244Z",
+  "fetchedAt": "2026-09-14T09:34:36.201507Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -57,14 +57,14 @@
         "occupations": [
           "art collector",
           "investment banker",
+          "investor",
           "financier",
-          "businessperson",
-          "investor"
+          "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],
@@ -114,8 +114,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -156,8 +156,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "investment banker",
-          "financier"
+          "financier",
+          "investment banker"
         ],
         "education": [
           "Columbia Business School",
@@ -238,14 +238,14 @@
         "occupations": [
           "art collector",
           "investment banker",
+          "investor",
           "financier",
-          "businessperson",
-          "investor"
+          "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Dartmouth College",
           "Harvard University"
         ],

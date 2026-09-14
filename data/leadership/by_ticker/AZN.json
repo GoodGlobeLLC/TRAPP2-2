@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-09-07T09:06:06.876860Z",
+  "fetchedAt": "2026-09-14T09:34:36.202065Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -18,8 +18,8 @@
           "entrepreneur"
         ],
         "education": [
-          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort",
-          "HEC Paris"
+          "HEC Paris",
+          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort"
         ],
         "employers": [
           {
@@ -97,8 +97,8 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "geneticist",
-          "singer-songwriter"
+          "singer-songwriter",
+          "geneticist"
         ],
         "education": [
           "University of Oxford",
@@ -140,9 +140,9 @@
           "engineer"
         ],
         "education": [
-          "Princeton University",
           "University of Massachusetts Dartmouth",
-          "Rutgers University"
+          "Rutgers University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -189,8 +189,8 @@
           "entrepreneur"
         ],
         "education": [
-          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort",
-          "HEC Paris"
+          "HEC Paris",
+          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort"
         ],
         "employers": [
           {
@@ -243,8 +243,8 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "biologist",
           "researcher",
+          "biologist",
           "physician"
         ],
         "education": [
@@ -285,8 +285,8 @@
         "birthPlace": "Stockholm",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Recebe%20em%20audi%C3%AAncia%20o%20presidente%20do%20Conselho%20Administrativo%20do%20Shandinaviska%20Enskilda%20Banken%2C%20Electrolux%20e%20SAAB%20-%20Sistemas%20de%20Defesa%20Aeroespacial%2C%20Marcus%20Wallenberg.%20%2816794468978%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "Walsh School of Foreign Service"
@@ -318,17 +318,17 @@
             "end": null
           },
           {
+            "company": "S. G. Warburg & Co.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Institute of International Finance",
             "start": null,
             "end": null
           },
           {
             "company": "Deutsche Bank",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "S. G. Warburg & Co.",
             "start": null,
             "end": null
           }

@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-09-07T09:06:06.883983Z",
+  "fetchedAt": "2026-09-14T09:34:36.275396Z",
   "people": [
     {
       "qid": "Q218630",
@@ -16,11 +16,11 @@
         "occupations": [
           "philanthropist",
           "financier",
+          "businessperson",
           "investor",
-          "chief executive officer",
           "entrepreneur",
-          "computer scientist",
-          "businessperson"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Memorial High School",
@@ -49,8 +49,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "College of the Holy Cross",
@@ -72,8 +72,8 @@
         "birthPlace": "L\u00fcbeck",
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Georgetown University"
@@ -116,8 +116,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -192,11 +192,11 @@
           "business executive"
         ],
         "education": [
+          "Northwestern University",
+          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -232,11 +232,11 @@
         "occupations": [
           "philanthropist",
           "financier",
+          "businessperson",
           "investor",
-          "chief executive officer",
           "entrepreneur",
-          "computer scientist",
-          "businessperson"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Memorial High School",
@@ -267,11 +267,11 @@
         "occupations": [
           "philanthropist",
           "financier",
+          "businessperson",
           "investor",
-          "chief executive officer",
           "entrepreneur",
-          "computer scientist",
-          "businessperson"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Memorial High School",
