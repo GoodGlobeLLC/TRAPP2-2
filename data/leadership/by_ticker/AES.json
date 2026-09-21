@@ -1,6 +1,6 @@
 {
   "ticker": "AES",
-  "fetchedAt": "2026-09-14T09:34:36.200506Z",
+  "fetchedAt": "2026-09-21T10:23:33.314659Z",
   "people": [
     {
       "qid": "Q125432523",
@@ -441,10 +441,10 @@
         "birthPlace": "Tripoli",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mois%C3%A9s%20Na%C3%ADm%2C%20World%20Economic%20Forum%20on%20Latin%20America%202009.jpg",
         "occupations": [
+          "writer",
           "journalist",
-          "economist",
           "politician",
-          "writer"
+          "economist"
         ],
         "education": [
           "Massachusetts Institute of Technology",

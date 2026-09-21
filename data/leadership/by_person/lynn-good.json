@@ -5,9 +5,9 @@
   "birthPlace": "Ohio",
   "image": null,
   "occupations": [
-    "entrepreneur",
     "businessperson",
-    "merchant"
+    "merchant",
+    "entrepreneur"
   ],
   "education": [
     "Miami University"

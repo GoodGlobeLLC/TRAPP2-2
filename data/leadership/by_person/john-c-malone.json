@@ -5,17 +5,17 @@
   "birthPlace": "Milford",
   "image": null,
   "occupations": [
-    "business executive",
     "entrepreneur",
-    "publisher"
+    "publisher",
+    "business executive"
   ],
   "education": [
     "Yale School of Engineering and Applied Science",
     "Hopkins School",
-    "Johns Hopkins University",
-    "New York University Tandon School of Engineering",
     "New York University",
-    "Yale University"
+    "Yale University",
+    "Johns Hopkins University",
+    "New York University Tandon School of Engineering"
   ],
   "employers": [
     {

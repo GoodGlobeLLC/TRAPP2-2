@@ -1,6 +1,6 @@
 {
   "ticker": "BMWYY",
-  "fetchedAt": "2026-09-14T09:34:36.269099Z",
+  "fetchedAt": "2026-09-21T10:23:33.320265Z",
   "people": [
     {
       "qid": "Q20243418",
@@ -23,7 +23,7 @@
         ],
         "employers": [
           {
-            "company": "BMW Group",
+            "company": "BMW",
             "start": null,
             "end": null
           }
@@ -126,7 +126,7 @@
         ],
         "employers": [
           {
-            "company": "BMW Group",
+            "company": "BMW",
             "start": null,
             "end": null
           }
