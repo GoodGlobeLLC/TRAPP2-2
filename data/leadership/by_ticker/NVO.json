@@ -1,6 +1,6 @@
 {
   "ticker": "NVO",
-  "fetchedAt": "2026-09-14T12:34:43.346993Z",
+  "fetchedAt": "2026-09-21T13:06:47.378762Z",
   "people": [
     {
       "qid": "Q135494805",
@@ -21,7 +21,7 @@
         ],
         "employers": [
           {
-            "company": "Novo Nordisk",
+            "company": "Novo",
             "start": "1992-01-01",
             "end": null
           }
