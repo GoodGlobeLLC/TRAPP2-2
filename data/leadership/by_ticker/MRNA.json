@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-09-21T10:21:30.545626Z",
+  "fetchedAt": "2026-09-28T11:20:57.033210Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -77,10 +77,10 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
+          "businessperson",
           "inventor",
           "entrepreneur",
-          "donor",
-          "businessperson"
+          "donor"
         ],
         "education": [
           "McGill University",
@@ -169,11 +169,11 @@
         "birthPlace": "Albany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
+          "chemical engineer",
           "university teacher",
           "biotechnologist",
-          "chemical engineer",
-          "engineer",
           "biochemist",
+          "engineer",
           "inventor"
         ],
         "education": [
@@ -184,12 +184,12 @@
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -209,9 +209,9 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
-          "physician",
           "professor",
-          "researcher"
+          "researcher",
+          "physician"
         ],
         "education": [
           "Hebrew Reali School",
@@ -219,6 +219,11 @@
           "National Cancer Institute"
         ],
         "employers": [
+          {
+            "company": "Moderna",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Sanofi",
             "start": null,
@@ -231,11 +236,6 @@
           },
           {
             "company": "University of Pennsylvania",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Moderna",
             "start": null,
             "end": null
           }
@@ -299,8 +299,8 @@
         "birthPlace": "Agadir",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moncef%20Slaoui%20%28cropped%29.jpg",
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
           "Universit\u00e9 libre de Bruxelles",
