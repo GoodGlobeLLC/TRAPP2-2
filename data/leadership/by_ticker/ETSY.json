@@ -1,6 +1,6 @@
 {
   "ticker": "ETSY",
-  "fetchedAt": "2026-09-21T10:23:33.331016Z",
+  "fetchedAt": "2026-09-28T10:30:00.530402Z",
   "people": [
     {
       "qid": "Q136670079",
@@ -17,8 +17,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Stanford University"
+          "Stanford University",
+          "Harvard University"
         ],
         "employers": [
           {

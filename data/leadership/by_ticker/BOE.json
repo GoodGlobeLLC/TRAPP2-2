@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-09-21T10:23:33.320926Z",
+  "fetchedAt": "2026-09-28T10:30:00.519928Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -14,8 +14,8 @@
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Iowa"
@@ -56,8 +56,8 @@
         "occupations": [],
         "education": [
           "University of Connecticut School of Law",
-          "Massachusetts Institute of Technology",
-          "Cornell University"
+          "Cornell University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -75,8 +75,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Xavier University",
@@ -98,8 +98,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Virginia Tech"
@@ -194,8 +194,8 @@
         ],
         "education": [
           "Amherst College",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -219,9 +219,9 @@
         "birthPlace": "Ohio",
         "image": null,
         "occupations": [
-          "businessperson",
           "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Miami University"

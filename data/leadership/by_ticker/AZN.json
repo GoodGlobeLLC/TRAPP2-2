@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-09-21T10:23:33.317869Z",
+  "fetchedAt": "2026-09-28T10:30:00.516772Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -97,12 +97,12 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "singer-songwriter",
-          "geneticist"
+          "geneticist",
+          "singer-songwriter"
         ],
         "education": [
-          "University of Oxford",
-          "Redland High School for Girls"
+          "Redland High School for Girls",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -303,16 +303,6 @@
             "end": "1982-01-01"
           },
           {
-            "company": "Institute of International Finance",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
             "end": null
@@ -324,6 +314,16 @@
           },
           {
             "company": "Investor",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Institute of International Finance",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Deutsche Bank",
             "start": null,
             "end": null
           },

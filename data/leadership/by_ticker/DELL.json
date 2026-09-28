@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-09-21T10:23:33.329242Z",
+  "fetchedAt": "2026-09-28T10:30:00.528413Z",
   "people": [
     {
       "qid": "Q218630",
@@ -15,12 +15,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "financier",
-          "philanthropist",
-          "entrepreneur",
-          "computer scientist",
           "investor",
+          "philanthropist",
           "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Memorial High School",
@@ -72,8 +72,8 @@
         "birthPlace": "L\u00fcbeck",
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Georgetown University"
@@ -231,12 +231,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "financier",
-          "philanthropist",
-          "entrepreneur",
-          "computer scientist",
           "investor",
+          "philanthropist",
           "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Memorial High School",
@@ -266,12 +266,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "financier",
-          "philanthropist",
-          "entrepreneur",
-          "computer scientist",
           "investor",
+          "philanthropist",
           "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Memorial High School",
