@@ -1,7 +1,7 @@
 {
   "ticker": "CSIQ",
   "qid": "Q1032353",
-  "fetchedAt": "2026-09-01T07:35:03.751006Z",
+  "fetchedAt": "2026-10-01T08:58:17.488073Z",
   "source": "wikidata",
   "name": "Canadian Solar",
   "description": "company that manufactures solar PV modules and runs large scale solar projects",
@@ -10,7 +10,7 @@
   "inception": "2001-01-01",
   "employees": null,
   "industry": null,
-  "headquarters": "Guelph",
+  "headquarters": null,
   "executives": [],
   "board": [],
   "founders": [],

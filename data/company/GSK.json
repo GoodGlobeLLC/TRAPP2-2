@@ -1,7 +1,7 @@
 {
   "ticker": "GSK",
   "qid": "Q212322",
-  "fetchedAt": "2026-09-01T07:25:03.978882Z",
+  "fetchedAt": "2026-10-01T08:38:50.192177Z",
   "source": "wikidata",
   "name": "GSK",
   "description": "British multinational pharmaceutical and biotechnology company",
@@ -9,7 +9,7 @@
   "isin": "GB0009252882",
   "inception": "2000-12-27",
   "employees": 97921,
-  "industry": "pharmaceutical industry",
+  "industry": "biotechnology",
   "headquarters": "London",
   "executives": [
     {

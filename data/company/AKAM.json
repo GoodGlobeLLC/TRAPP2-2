@@ -1,7 +1,7 @@
 {
   "ticker": "AKAM",
   "qid": "Q415598",
-  "fetchedAt": "2026-09-01T07:20:25.265937Z",
+  "fetchedAt": "2026-10-01T08:27:41.052522Z",
   "source": "wikidata",
   "name": "Akamai Technologies",
   "description": "American content delivery network, cybersecurity, and cloud service company",
@@ -10,7 +10,7 @@
   "inception": "1998-01-01",
   "employees": 8368,
   "industry": "Internet industry",
-  "headquarters": "Cambridge",
+  "headquarters": "Massachusetts",
   "executives": [
     {
       "name": "F. Thomson Leighton",
@@ -18,26 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Sharon Y. Bowen",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jonathan Miller",
-      "role": "Board Member"
-    },
-    {
-      "name": "F. Thomson Leighton",
-      "role": "Board Member"
-    },
-    {
-      "name": "Daniel Hesse",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ben Verwaayen",
-      "role": "Board Member"
-    },
     {
       "name": "William R. Wagner",
       "role": "Board Member"
@@ -57,17 +37,37 @@
     {
       "name": "Marianne C. Brown",
       "role": "Board Member"
+    },
+    {
+      "name": "Sharon Y. Bowen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jonathan Miller",
+      "role": "Board Member"
+    },
+    {
+      "name": "F. Thomson Leighton",
+      "role": "Board Member"
+    },
+    {
+      "name": "Daniel Hesse",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ben Verwaayen",
+      "role": "Board Member"
     }
   ],
   "founders": [
-    {
-      "name": "Daniel Lewin"
-    },
     {
       "name": "Randall Kaplan"
     },
     {
       "name": "F. Thomson Leighton"
+    },
+    {
+      "name": "Daniel Lewin"
     }
   ],
   "products": [],

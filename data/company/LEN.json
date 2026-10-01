@@ -1,7 +1,7 @@
 {
   "ticker": "LEN",
   "qid": "Q14799",
-  "fetchedAt": "2026-09-01T07:39:16.448968Z",
+  "fetchedAt": "2026-10-01T09:04:59.782100Z",
   "source": "wikidata",
   "name": "Lenovo",
   "description": "Chinese multinational technology company established in 1984",
@@ -9,7 +9,7 @@
   "isin": "HK0992009065",
   "inception": "1984-01-01",
   "employees": 77000,
-  "industry": "electronics",
+  "industry": "computer hardware industry",
   "headquarters": "Beijing",
   "executives": [
     {
@@ -25,18 +25,6 @@
   ],
   "products": [
     {
-      "name": "consumer electronics"
-    },
-    {
-      "name": "desktop computer"
-    },
-    {
-      "name": "netbook"
-    },
-    {
-      "name": "peripheral"
-    },
-    {
       "name": "tablet computer"
     },
     {
@@ -46,16 +34,22 @@
       "name": "computer storage media"
     },
     {
-      "name": "image scanner"
+      "name": "consumer electronics"
     },
     {
-      "name": "software"
+      "name": "peripheral"
+    },
+    {
+      "name": "netbook"
     },
     {
       "name": "smartphone"
     },
     {
-      "name": "computer hardware"
+      "name": "image scanner"
+    },
+    {
+      "name": "desktop computer"
     },
     {
       "name": "television set"
@@ -64,13 +58,19 @@
       "name": "laptop"
     },
     {
+      "name": "software"
+    },
+    {
+      "name": "computer hardware"
+    },
+    {
       "name": "television"
     },
     {
-      "name": "computer"
+      "name": "printer"
     },
     {
-      "name": "printer"
+      "name": "computer"
     }
   ],
   "countries": []

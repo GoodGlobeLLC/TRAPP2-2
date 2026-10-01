@@ -1,23 +1,23 @@
 {
   "ticker": "LPL",
-  "qid": "Q483006",
-  "fetchedAt": "2026-09-01T07:29:17.875418Z",
+  "qid": "Q1041858",
+  "fetchedAt": "2026-10-01T08:48:03.886399Z",
   "source": "wikidata",
-  "name": "LG Display",
-  "description": "South Korean display manufacturer owned by LG",
-  "website": "http://www.lgdisplay.com/",
-  "isin": "US50186V1026",
-  "inception": "1999-01-01",
+  "name": "Lunar and Planetary Laboratory",
+  "description": "research center at the University of Arizona",
+  "website": "https://www.lpl.arizona.edu/",
+  "isin": null,
+  "inception": "1960-01-01",
   "employees": null,
-  "industry": "electronics",
-  "headquarters": "Seoul",
+  "industry": null,
+  "headquarters": null,
   "executives": [],
   "board": [],
-  "founders": [],
-  "products": [
+  "founders": [
     {
-      "name": "TFT LCD"
+      "name": "Gerard Kuiper"
     }
   ],
+  "products": [],
   "countries": []
 }

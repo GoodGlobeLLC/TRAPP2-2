@@ -1,12 +1,12 @@
 {
   "ticker": "NVO",
   "qid": "Q818846",
-  "fetchedAt": "2026-09-01T07:24:51.876527Z",
+  "fetchedAt": "2026-10-01T08:38:27.081958Z",
   "source": "wikidata",
-  "name": "Novo Nordisk",
+  "name": "Novo",
   "description": "Danish pharmaceutical company",
   "website": "https://www.novonordisk.com",
-  "isin": "DK0060534915",
+  "isin": "DK0062498333",
   "inception": "1923-01-01",
   "employees": 68794,
   "industry": "pharmaceutical industry",
@@ -34,12 +34,6 @@
   ],
   "products": [
     {
-      "name": "growth hormone"
-    },
-    {
-      "name": "semaglutide"
-    },
-    {
       "name": "liraglutide"
     },
     {
@@ -55,10 +49,10 @@
       "name": "preproinsulin"
     },
     {
-      "name": "insulin detemir"
+      "name": "growth hormone"
     },
     {
-      "name": "glucagon"
+      "name": "semaglutide"
     },
     {
       "name": "Insulin degludec/insulin aspart"
@@ -74,6 +68,12 @@
     },
     {
       "name": "insulin aspart"
+    },
+    {
+      "name": "insulin detemir"
+    },
+    {
+      "name": "glucagon"
     }
   ],
   "countries": []

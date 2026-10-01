@@ -1,7 +1,7 @@
 {
   "ticker": "KBH",
   "qid": "Q6326486",
-  "fetchedAt": "2026-09-01T07:39:59.647365Z",
+  "fetchedAt": "2026-10-01T09:05:59.365707Z",
   "source": "wikidata",
   "name": "KB Home",
   "description": "American home builder",
@@ -10,7 +10,7 @@
   "inception": "1957-01-01",
   "employees": null,
   "industry": null,
-  "headquarters": "Westwood",
+  "headquarters": "Los Angeles",
   "executives": [],
   "board": [],
   "founders": [

@@ -1,27 +1,48 @@
 {
   "ticker": "DAN",
-  "qid": "Q5214701",
-  "fetchedAt": "2026-09-01T07:22:48.522306Z",
+  "qid": "Q1269766",
+  "fetchedAt": "2026-10-01T08:34:24.081403Z",
   "source": "wikidata",
-  "name": "Dana Corporation",
-  "description": "American worldwide supplier of driveline, sealing, and thermal-management technologies",
-  "website": "https://www.dana.com/",
-  "isin": "US2358252052",
-  "inception": "1904-01-01",
-  "employees": null,
-  "industry": "automotive industry",
-  "headquarters": "Toledo",
+  "name": "Technical University of Denmark",
+  "description": "university in the town Kongens Lyngby",
+  "website": "https://www.dtu.dk/",
+  "isin": null,
+  "inception": "1829-01-27",
+  "employees": 5800,
+  "industry": null,
+  "headquarters": "Kongens Lyngby",
   "executives": [],
-  "board": [],
+  "board": [
+    {
+      "name": "Henrik Clausen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Per Falholt",
+      "role": "Board Member"
+    },
+    {
+      "name": "Hanne S\u00f8ndergaard",
+      "role": "Board Member"
+    },
+    {
+      "name": "Susanne Juhl",
+      "role": "Board Member"
+    },
+    {
+      "name": "Eva Berneke",
+      "role": "Board Member"
+    },
+    {
+      "name": "Tobias Colding",
+      "role": "Board Member"
+    }
+  ],
   "founders": [
     {
-      "name": "Clarence W. Spicer"
+      "name": "Hans Christian \u00d8rsted"
     }
   ],
-  "products": [
-    {
-      "name": "axle"
-    }
-  ],
+  "products": [],
   "countries": []
 }

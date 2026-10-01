@@ -1,28 +1,19 @@
 {
   "ticker": "UAL",
-  "qid": "Q174769",
-  "fetchedAt": "2026-09-01T07:18:58.859929Z",
+  "qid": "Q2065666",
+  "fetchedAt": "2026-10-01T08:25:24.781823Z",
   "source": "wikidata",
-  "name": "United Airlines",
-  "description": "American airline",
-  "website": "https://www.united.com",
-  "isin": "US9100471096",
-  "inception": "1926-04-06",
+  "name": "University of the Arts London",
+  "description": "public research university located in London, England",
+  "website": "https://www.arts.ac.uk/",
+  "isin": null,
+  "inception": "1986-01-01",
   "employees": null,
-  "industry": "air transport",
-  "headquarters": "Willis Tower",
-  "executives": [
-    {
-      "name": "Scott Kirby",
-      "role": "Chief Executive Officer"
-    }
-  ],
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
   "board": [],
-  "founders": [
-    {
-      "name": "Walter Varney"
-    }
-  ],
+  "founders": [],
   "products": [],
   "countries": []
 }

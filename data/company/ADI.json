@@ -1,7 +1,7 @@
 {
   "ticker": "ADI",
   "qid": "Q3895",
-  "fetchedAt": "2026-09-01T07:21:33.434264Z",
+  "fetchedAt": "2026-10-01T08:31:33.720654Z",
   "source": "wikidata",
   "name": "Adidas AG",
   "description": "German multinational corporation",
@@ -25,9 +25,6 @@
   ],
   "products": [
     {
-      "name": "personal care product"
-    },
-    {
       "name": "sports equipment"
     },
     {
@@ -35,6 +32,9 @@
     },
     {
       "name": "footwear"
+    },
+    {
+      "name": "personal care product"
     }
   ],
   "countries": []

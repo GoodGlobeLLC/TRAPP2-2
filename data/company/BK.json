@@ -1,17 +1,22 @@
 {
   "ticker": "BK",
-  "qid": "Q745664",
-  "fetchedAt": "2026-09-01T07:36:46.696082Z",
+  "qid": "Q7672060",
+  "fetchedAt": "2026-10-01T09:00:59.692551Z",
   "source": "wikidata",
-  "name": "BKV",
-  "description": "public transport company of Budapest, Hungary",
-  "website": "https://www.bkv.hu/",
+  "name": "Faculty of Architecture and the Built Environment",
+  "description": "faculty of Delft University of Technology, the Netherlands",
+  "website": "https://www.tudelft.nl/bk/",
   "isin": null,
-  "inception": "1968-01-01",
+  "inception": "1842-01-01",
   "employees": null,
-  "industry": "public transport",
-  "headquarters": "Budapest",
-  "executives": [],
+  "industry": null,
+  "headquarters": null,
+  "executives": [
+    {
+      "name": "Dick van Gameren",
+      "role": "Chairperson"
+    }
+  ],
   "board": [],
   "founders": [],
   "products": [],

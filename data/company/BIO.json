@@ -1,27 +1,19 @@
 {
   "ticker": "BIO",
-  "qid": "Q2904022",
-  "fetchedAt": "2026-09-01T07:24:35.003762Z",
+  "qid": "Q172266",
+  "fetchedAt": "2026-10-01T08:37:52.259876Z",
   "source": "wikidata",
-  "name": "Bio-Rad Laboratories",
-  "description": "American life science research firm",
-  "website": "http://www.bio-rad.com/",
+  "name": "Biodiversity Heritage Library",
+  "description": "digital library, online database and large-scale digitization project for biodiversity literature",
+  "website": "https://www.biodiversitylibrary.org/",
   "isin": null,
-  "inception": "1952-01-01",
-  "employees": 8300,
-  "industry": "biotechnology",
-  "headquarters": "Hercules",
+  "inception": "2006-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Washington, D.C.",
   "executives": [],
   "board": [],
-  "founders": [
-    {
-      "name": "Alice Schwartz"
-    }
-  ],
-  "products": [
-    {
-      "name": "multi-well plate"
-    }
-  ],
+  "founders": [],
+  "products": [],
   "countries": []
 }

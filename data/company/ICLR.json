@@ -1,7 +1,23 @@
 {
   "ticker": "ICLR",
-  "fetchedAt": "2026-09-01T07:42:45.541211Z",
+  "qid": "Q78151302",
+  "fetchedAt": "2026-10-01T09:10:16.017767Z",
   "source": "wikidata",
-  "_noEntity": true,
-  "name": null
+  "name": "ICON plc",
+  "description": "Irish clinical research organization company",
+  "website": "https://iconplc.com/",
+  "isin": "IE0005711209",
+  "inception": "1990-01-01",
+  "employees": null,
+  "industry": "consulting",
+  "headquarters": "Dublin",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "clinical trial"
+    }
+  ],
+  "countries": []
 }

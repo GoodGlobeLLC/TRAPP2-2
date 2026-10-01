@@ -1,7 +1,7 @@
 {
   "ticker": "TW",
   "qid": "Q434841",
-  "fetchedAt": "2026-09-01T07:36:39.778094Z",
+  "fetchedAt": "2026-10-01T09:00:53.438507Z",
   "source": "wikidata",
   "name": "20th Century Studios",
   "description": "American film studio owned by The Walt Disney Company",
@@ -20,13 +20,13 @@
   "board": [],
   "founders": [
     {
+      "name": "Joseph M. Schenck"
+    },
+    {
       "name": "Darryl F. Zanuck"
     },
     {
       "name": "William Fox"
-    },
-    {
-      "name": "Joseph M. Schenck"
     }
   ],
   "products": [

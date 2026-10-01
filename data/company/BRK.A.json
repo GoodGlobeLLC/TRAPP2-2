@@ -1,15 +1,15 @@
 {
   "ticker": "BRK.A",
   "qid": "Q217583",
-  "fetchedAt": "2026-09-01T07:17:38.931778Z",
+  "fetchedAt": "2026-10-01T08:23:08.180052Z",
   "source": "wikidata",
   "name": "Berkshire Hathaway",
   "description": "American multinational conglomerate holding company",
   "website": "https://www.berkshirehathaway.com/",
   "isin": "US0846701086",
-  "inception": "1839-01-01",
+  "inception": "1955-01-01",
   "employees": 360000,
-  "industry": "aircraft industry",
+  "industry": "insurance",
   "headquarters": "Omaha",
   "executives": [
     {
@@ -17,11 +17,19 @@
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Warren Buffett",
+      "name": "Howard Graham Buffett",
       "role": "Chairperson"
     }
   ],
   "board": [
+    {
+      "name": "Meryl B. Witmer",
+      "role": "Board Member"
+    },
+    {
+      "name": "Warren Buffett",
+      "role": "Board Member"
+    },
     {
       "name": "Charlotte M. Guyman",
       "role": "Board Member"
@@ -47,6 +55,18 @@
       "role": "Board Member"
     },
     {
+      "name": "Steve Burke",
+      "role": "Board Member"
+    },
+    {
+      "name": "Charlie Munger",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kenneth Chenault",
+      "role": "Board Member"
+    },
+    {
       "name": "David Gottesman",
       "role": "Board Member"
     },
@@ -63,22 +83,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Steve Burke",
-      "role": "Board Member"
-    },
-    {
-      "name": "Charlie Munger",
-      "role": "Board Member"
-    },
-    {
-      "name": "Warren Buffett",
-      "role": "Board Member"
-    },
-    {
-      "name": "Kenneth Chenault",
-      "role": "Board Member"
-    },
-    {
       "name": "Wallace R. Weitz",
       "role": "Board Member"
     },
@@ -88,10 +92,6 @@
     },
     {
       "name": "Chris Davis",
-      "role": "Board Member"
-    },
-    {
-      "name": "Meryl B. Witmer",
       "role": "Board Member"
     }
   ],

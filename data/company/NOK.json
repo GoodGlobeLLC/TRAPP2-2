@@ -1,7 +1,7 @@
 {
   "ticker": "NOK",
   "qid": "Q1418",
-  "fetchedAt": "2026-09-01T07:34:09.298598Z",
+  "fetchedAt": "2026-10-01T08:56:56.955572Z",
   "source": "wikidata",
   "name": "Nokia",
   "description": "Finnish multinational telecommunications and information technology company",
@@ -9,7 +9,7 @@
   "isin": "FI0009000681",
   "inception": "1865-05-12",
   "employees": 103083,
-  "industry": "electrical appliance",
+  "industry": "International Standard Industrial Classification",
   "headquarters": "Espoo",
   "executives": [
     {
@@ -28,16 +28,16 @@
   ],
   "products": [
     {
-      "name": "Global System for Mobile Communications"
-    },
-    {
-      "name": "headset"
-    },
-    {
       "name": "software"
     },
     {
+      "name": "Global System for Mobile Communications"
+    },
+    {
       "name": "smartphone"
+    },
+    {
+      "name": "headset"
     }
   ],
   "countries": []

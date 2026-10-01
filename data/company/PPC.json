@@ -1,31 +1,23 @@
 {
   "ticker": "PPC",
-  "qid": "Q326345",
-  "fetchedAt": "2026-09-01T07:27:26.792494Z",
+  "qid": "Q19876921",
+  "fetchedAt": "2026-10-01T08:44:01.161016Z",
   "source": "wikidata",
-  "name": "Public Power Corporation SA",
-  "description": "Greek state-owned electricity company",
-  "website": "https://www.dei.gr/el",
-  "isin": "GRS434003000",
-  "inception": "1950-01-01",
-  "employees": 16747,
-  "industry": "energy industry",
-  "headquarters": "Athens",
-  "executives": [
-    {
-      "name": "Georgios Stassis",
-      "role": "Chief Executive Officer"
-    }
-  ],
+  "name": "Peet",
+  "description": "Australian real estate development company",
+  "website": "http://www.peet.com.au/",
+  "isin": null,
+  "inception": "1895-01-01",
+  "employees": null,
+  "industry": "Real Estate Company",
+  "headquarters": "Perth",
+  "executives": [],
   "board": [],
-  "founders": [],
-  "products": [
+  "founders": [
     {
-      "name": "electrical energy"
-    },
-    {
-      "name": "natural gas"
+      "name": "James Peet"
     }
   ],
+  "products": [],
   "countries": []
 }
