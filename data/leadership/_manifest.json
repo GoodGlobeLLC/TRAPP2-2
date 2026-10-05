@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T13:39:14.595019Z",
-  "totalPeople": 266,
-  "totalTickers": 82,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 83,
-  "thisRunTickers": 93,
+  "generatedAt": "2026-10-05T11:13:43.194501Z",
+  "totalPeople": 275,
+  "totalTickers": 85,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 158,
+  "thisRunTickers": 97,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "WBA"
+        "AES"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -727,8 +727,6 @@
       "slug": "warren-buffett",
       "tickers": [
         "BRK.A",
-        "BRK.A",
-        "BRK.B",
         "BRK.B"
       ],
       "positionsCount": 1,
@@ -806,6 +804,8 @@
       "slug": "howard-graham-buffett",
       "tickers": [
         "BRK.A",
+        "BRK.A",
+        "BRK.B",
         "BRK.B"
       ],
       "positionsCount": 2,
@@ -2714,6 +2714,96 @@
       "slug": "david-m-cote",
       "tickers": [
         "VRT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q58214646",
+      "name": "Dick van Gameren",
+      "slug": "dick-van-gameren",
+      "tickers": [
+        "BK"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q62660539",
+      "name": "Henrik Clausen",
+      "slug": "henrik-clausen",
+      "tickers": [
+        "DAN"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q28170196",
+      "name": "Per Falholt",
+      "slug": "per-falholt",
+      "tickers": [
+        "DAN"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q28037111",
+      "name": "Hanne S\u00f8ndergaard",
+      "slug": "hanne-s-ndergaard",
+      "tickers": [
+        "DAN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q28035726",
+      "name": "Susanne Juhl",
+      "slug": "susanne-juhl",
+      "tickers": [
+        "DAN"
+      ],
+      "positionsCount": 2,
+      "employersCount": 6
+    },
+    {
+      "qid": "Q26836942",
+      "name": "Eva Berneke",
+      "slug": "eva-berneke",
+      "tickers": [
+        "DAN"
+      ],
+      "positionsCount": 4,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q2437740",
+      "name": "Tobias Colding",
+      "slug": "tobias-colding",
+      "tickers": [
+        "DAN"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q44412",
+      "name": "Hans Christian \u00d8rsted",
+      "slug": "hans-christian-rsted",
+      "tickers": [
+        "DAN"
+      ],
+      "positionsCount": 4,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q45022629",
+      "name": "Kevin D. Rome",
+      "slug": "kevin-d-rome",
+      "tickers": [
+        "FIS"
       ],
       "positionsCount": 0,
       "employersCount": 0

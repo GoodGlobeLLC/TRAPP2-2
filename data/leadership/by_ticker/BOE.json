@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-09-28T10:30:00.519928Z",
+  "fetchedAt": "2026-10-05T11:13:43.140488Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -10,7 +10,7 @@
       "career": {
         "qid": "Q109767256",
         "name": "Kelly Ortberg",
-        "dateOfBirth": "1960-01-01",
+        "dateOfBirth": "1960-04-01",
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
@@ -43,6 +43,71 @@
       }
     },
     {
+      "qid": "Q2997321",
+      "name": "John M. Richardson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2997321",
+        "name": "John M. Richardson",
+        "dateOfBirth": "1960-04-08",
+        "birthPlace": "Petersburg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20John%20M.%20Richardson%20%28CNO%29%20150917-N-AT895-703%20%2826207156950%29.jpg",
+        "occupations": [
+          "military officer"
+        ],
+        "education": [
+          "United States Naval Academy",
+          "National War College",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Chief of Naval Operations",
+            "company": null,
+            "start": "2015-09-18",
+            "end": "2019-08-22"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1286705",
+      "name": "Edmund Giambastiani",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1286705",
+        "name": "Edmund Giambastiani",
+        "dateOfBirth": "1948-05-04",
+        "birthPlace": "Canastota",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
+        "occupations": [
+          "submariner",
+          "military officer"
+        ],
+        "education": [
+          "United States Naval Academy"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Supreme Allied Commander Transformation",
+            "company": null,
+            "start": "2003-06-19",
+            "end": "2005-06-19"
+          },
+          {
+            "title": "Vice Chairman of the Joint Chiefs of Staff",
+            "company": null,
+            "start": "2005-08-12",
+            "end": "2007-07-27"
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q114559065",
       "name": "Dave Gitlin",
       "role_at_company": "Board Member",
@@ -55,8 +120,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Connecticut School of Law",
           "Cornell University",
+          "University of Connecticut School of Law",
           "Massachusetts Institute of Technology"
         ],
         "employers": [],
@@ -333,71 +398,6 @@
             "company": null,
             "start": "2023-01-01",
             "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q2997321",
-      "name": "John M. Richardson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q2997321",
-        "name": "John M. Richardson",
-        "dateOfBirth": "1960-04-08",
-        "birthPlace": "Petersburg",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20John%20M.%20Richardson%20%28CNO%29%20150917-N-AT895-703%20%2826207156950%29.jpg",
-        "occupations": [
-          "military officer"
-        ],
-        "education": [
-          "United States Naval Academy",
-          "National War College",
-          "Massachusetts Institute of Technology"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "Chief of Naval Operations",
-            "company": null,
-            "start": "2015-09-18",
-            "end": "2019-08-22"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1286705",
-      "name": "Edmund Giambastiani",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1286705",
-        "name": "Edmund Giambastiani",
-        "dateOfBirth": "1948-05-04",
-        "birthPlace": "Canastota",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
-        "occupations": [
-          "submariner",
-          "military officer"
-        ],
-        "education": [
-          "United States Naval Academy"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "Supreme Allied Commander Transformation",
-            "company": null,
-            "start": "2003-06-19",
-            "end": "2005-06-19"
-          },
-          {
-            "title": "Vice Chairman of the Joint Chiefs of Staff",
-            "company": null,
-            "start": "2005-08-12",
-            "end": "2007-07-27"
           }
         ]
       }

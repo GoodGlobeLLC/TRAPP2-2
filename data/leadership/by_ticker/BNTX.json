@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-09-28T10:30:00.519629Z",
+  "fetchedAt": "2026-10-05T11:13:43.140097Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -21,8 +21,8 @@
           "researcher",
           "university teacher",
           "entrepreneur",
-          "chief executive officer",
-          "physician"
+          "physician",
+          "chief executive officer"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -67,12 +67,12 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
+          "immunologist",
           "academic",
           "board member",
-          "immunologist",
           "university teacher",
-          "entrepreneur",
           "researcher",
+          "entrepreneur",
           "Privatdozent",
           "physician"
         ],
@@ -122,8 +122,8 @@
           "researcher",
           "university teacher",
           "entrepreneur",
-          "chief executive officer",
-          "physician"
+          "physician",
+          "chief executive officer"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -168,12 +168,12 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
+          "immunologist",
           "academic",
           "board member",
-          "immunologist",
           "university teacher",
-          "entrepreneur",
           "researcher",
+          "entrepreneur",
           "Privatdozent",
           "physician"
         ],
@@ -223,8 +223,8 @@
           "researcher",
           "university teacher",
           "entrepreneur",
-          "chief executive officer",
-          "physician"
+          "physician",
+          "chief executive officer"
         ],
         "education": [
           "Erich Kastner Gymnasium"

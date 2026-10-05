@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-09-28T10:30:00.523741Z",
+  "fetchedAt": "2026-10-05T11:13:43.144981Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -172,8 +172,8 @@
         "occupations": [],
         "education": [
           "University of Virginia",
-          "Princeton University",
-          "University of Mississippi"
+          "University of Mississippi",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -302,8 +302,8 @@
           "Hopkins School",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
-          "New York University",
-          "Yale University"
+          "Yale University",
+          "New York University"
         ],
         "employers": [
           {

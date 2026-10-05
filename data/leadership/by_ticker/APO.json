@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-09-28T10:30:00.515532Z",
+  "fetchedAt": "2026-10-05T11:13:43.135516Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -58,8 +58,8 @@
           "financier",
           "art collector",
           "investment banker",
-          "investor",
-          "businessperson"
+          "businessperson",
+          "investor"
         ],
         "education": [
           "Harvard Business School",
@@ -82,6 +82,12 @@
         ],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
+            "end": "2021-01-01"
+          },
+          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -91,12 +97,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]
@@ -114,8 +114,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -151,13 +151,13 @@
       "career": {
         "qid": "Q16193321",
         "name": "Antony Ressler",
-        "dateOfBirth": "1960-01-01",
+        "dateOfBirth": "1960-10-12",
         "birthPlace": "Washington, D.C.",
         "image": null,
         "occupations": [
+          "businessperson",
           "financier",
-          "investment banker",
-          "businessperson"
+          "investment banker"
         ],
         "education": [
           "Columbia Business School",
@@ -239,8 +239,8 @@
           "financier",
           "art collector",
           "investment banker",
-          "investor",
-          "businessperson"
+          "businessperson",
+          "investor"
         ],
         "education": [
           "Harvard Business School",
@@ -263,6 +263,12 @@
         ],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
+            "end": "2021-01-01"
+          },
+          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -272,12 +278,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]

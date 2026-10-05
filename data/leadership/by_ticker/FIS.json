@@ -1,5 +1,30 @@
 {
   "ticker": "FIS",
-  "fetchedAt": "2026-09-28T10:30:00.531122Z",
-  "people": []
+  "fetchedAt": "2026-10-05T11:13:43.153617Z",
+  "people": [
+    {
+      "qid": "Q45022629",
+      "name": "Kevin D. Rome",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q45022629",
+        "name": "Kevin D. Rome",
+        "dateOfBirth": "1966-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20D.%20Rome.jpg",
+        "occupations": [
+          "academic"
+        ],
+        "education": [
+          "Spencer High School",
+          "Morehouse College",
+          "University of Georgia",
+          "University of Texas at Austin"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
 }
