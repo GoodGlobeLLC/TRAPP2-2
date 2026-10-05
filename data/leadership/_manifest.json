@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T11:13:43.194501Z",
-  "totalPeople": 275,
-  "totalTickers": 85,
-  "lastRangeFilter": "A-G",
-  "thisRunPeople": 158,
-  "thisRunTickers": 97,
+  "generatedAt": "2026-10-05T11:56:45.229634Z",
+  "totalPeople": 276,
+  "totalTickers": 86,
+  "lastRangeFilter": "H-M",
+  "thisRunPeople": 29,
+  "thisRunTickers": 48,
   "index": [
     {
       "qid": "Q29152660",
@@ -2807,6 +2807,16 @@
       ],
       "positionsCount": 0,
       "employersCount": 0
+    },
+    {
+      "qid": "Q192948",
+      "name": "Gerard Kuiper",
+      "slug": "gerard-kuiper",
+      "tickers": [
+        "LPL"
+      ],
+      "positionsCount": 0,
+      "employersCount": 4
     }
   ]
 }
