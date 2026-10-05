@@ -1,30 +1,5 @@
 {
   "ticker": "PPC",
-  "fetchedAt": "2026-09-28T13:39:14.562210Z",
-  "people": [
-    {
-      "qid": "Q93446133",
-      "name": "Georgios Stassis",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q93446133",
-        "name": "Georgios Stassis",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    }
-  ]
+  "fetchedAt": "2026-10-05T14:22:29.652719Z",
+  "people": []
 }

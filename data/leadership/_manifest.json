@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T11:56:45.229634Z",
+  "generatedAt": "2026-10-05T14:22:29.687007Z",
   "totalPeople": 276,
-  "totalTickers": 86,
-  "lastRangeFilter": "H-M",
-  "thisRunPeople": 29,
-  "thisRunTickers": 48,
+  "totalTickers": 85,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 79,
+  "thisRunTickers": 93,
   "index": [
     {
       "qid": "Q29152660",
@@ -162,7 +162,7 @@
       "name": "Inderpal Bhandari",
       "slug": "inderpal-bhandari",
       "tickers": [
-        "AES"
+        "WBA"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -2258,8 +2258,7 @@
       "name": "Scott Kirby",
       "slug": "scott-kirby",
       "tickers": [
-        "U",
-        "UAL"
+        "U"
       ],
       "positionsCount": 0,
       "employersCount": 4
