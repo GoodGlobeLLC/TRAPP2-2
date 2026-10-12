@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "fetchedAt": "2026-10-05T14:22:29.662415Z",
+  "fetchedAt": "2026-10-12T15:10:52.955624Z",
   "people": [
     {
       "qid": "Q114819469",
@@ -248,10 +248,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Governor%20Mike%20Beebe.jpg",
         "occupations": [
           "prosecutor",
-          "governor",
-          "politician",
           "jurist",
-          "lawyer"
+          "governor",
+          "lawyer",
+          "politician"
         ],
         "education": [
           "University of Arkansas School of Law",

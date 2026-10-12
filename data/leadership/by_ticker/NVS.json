@@ -1,6 +1,6 @@
 {
   "ticker": "NVS",
-  "fetchedAt": "2026-10-05T14:22:29.648971Z",
+  "fetchedAt": "2026-10-12T15:10:52.941956Z",
   "people": [
     {
       "qid": "Q38589106",
@@ -19,9 +19,9 @@
           "physician"
         ],
         "education": [
+          "University of Chicago",
           "John F. Kennedy School of Government",
-          "Harvard Medical School",
-          "University of Chicago"
+          "Harvard Medical School"
         ],
         "employers": [
           {

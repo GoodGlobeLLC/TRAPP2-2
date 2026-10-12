@@ -1,6 +1,6 @@
 {
   "ticker": "WMG",
-  "fetchedAt": "2026-10-05T14:22:29.667275Z",
+  "fetchedAt": "2026-10-12T15:10:52.960812Z",
   "people": [
     {
       "qid": "Q7608947",
@@ -36,8 +36,8 @@
         "birthPlace": "London",
         "image": null,
         "occupations": [
-          "chief executive officer",
           "investment banker",
+          "chief executive officer",
           "entrepreneur",
           "businessperson"
         ],
