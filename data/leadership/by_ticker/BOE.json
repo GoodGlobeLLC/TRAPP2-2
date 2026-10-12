@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-10-05T11:13:43.140488Z",
+  "fetchedAt": "2026-10-12T11:40:30.270271Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -57,9 +57,9 @@
           "military officer"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "United States Naval Academy",
-          "National War College",
-          "Massachusetts Institute of Technology"
+          "National War College"
         ],
         "employers": [],
         "positions": [
@@ -120,8 +120,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Cornell University",
           "University of Connecticut School of Law",
+          "Cornell University",
           "Massachusetts Institute of Technology"
         ],
         "employers": [],
@@ -140,8 +140,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Xavier University",
@@ -163,8 +163,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Virginia Tech"
@@ -259,8 +259,8 @@
         ],
         "education": [
           "Amherst College",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {

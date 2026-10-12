@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-10-05T11:13:43.140097Z",
+  "fetchedAt": "2026-10-12T11:40:30.269968Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -18,11 +18,11 @@
           "immunologist",
           "academic",
           "chairperson of the executive board",
-          "researcher",
           "university teacher",
           "entrepreneur",
-          "physician",
-          "chief executive officer"
+          "researcher",
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -72,9 +72,9 @@
           "board member",
           "university teacher",
           "researcher",
+          "physician",
           "entrepreneur",
-          "Privatdozent",
-          "physician"
+          "Privatdozent"
         ],
         "education": [
           "Werner-von-Siemens-Gymnasium",
@@ -119,11 +119,11 @@
           "immunologist",
           "academic",
           "chairperson of the executive board",
-          "researcher",
           "university teacher",
           "entrepreneur",
-          "physician",
-          "chief executive officer"
+          "researcher",
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"
@@ -173,9 +173,9 @@
           "board member",
           "university teacher",
           "researcher",
+          "physician",
           "entrepreneur",
-          "Privatdozent",
-          "physician"
+          "Privatdozent"
         ],
         "education": [
           "Werner-von-Siemens-Gymnasium",
@@ -220,11 +220,11 @@
           "immunologist",
           "academic",
           "chairperson of the executive board",
-          "researcher",
           "university teacher",
           "entrepreneur",
-          "physician",
-          "chief executive officer"
+          "researcher",
+          "chief executive officer",
+          "physician"
         ],
         "education": [
           "Erich Kastner Gymnasium"
