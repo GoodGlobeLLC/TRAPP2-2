@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "fetchedAt": "2026-10-05T11:56:45.212753Z",
+  "fetchedAt": "2026-10-12T12:35:54.991748Z",
   "people": [
     {
       "qid": "Q16732385",
@@ -256,9 +256,9 @@
           "Mount Holyoke College",
           "Harvard Business School",
           "Dartmouth College",
-          "Columbia University",
           "Massachusetts Institute of Technology",
-          "Harvard University"
+          "Harvard University",
+          "Columbia University"
         ],
         "employers": [],
         "positions": [
