@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-12T11:40:30.271404Z",
+  "fetchedAt": "2026-10-19T09:42:28.590018Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
-          "business executive",
           "chartered accountant",
-          "investor"
+          "investor",
+          "business executive"
         ],
         "education": [
           "University of Alberta"
@@ -124,19 +124,19 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
-          "broker-dealer",
           "financier",
           "investor",
+          "broker-dealer",
           "chief executive officer",
           "shareholder",
           "economist",
           "entrepreneur"
         ],
         "education": [
+          "University of Pennsylvania",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
-          "University of Pennsylvania",
           "The Wharton School",
           "Columbia Business School"
         ],
@@ -191,9 +191,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
-          "business executive",
           "chartered accountant",
-          "investor"
+          "investor",
+          "business executive"
         ],
         "education": [
           "University of Alberta"
@@ -452,9 +452,9 @@
         "occupations": [
           "venture capitalist",
           "entrepreneur",
-          "lawyer",
           "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "lawyer"
         ],
         "education": [
           "The Waldorf School of Garden City",
@@ -582,9 +582,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Indian Institute of Technology Kharagpur",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -618,9 +618,9 @@
           "military personnel"
         ],
         "education": [
-          "Harvard Business School",
           "Cornell University",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [

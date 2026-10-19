@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-10-12T11:40:30.270271Z",
+  "fetchedAt": "2026-10-19T09:42:28.588377Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -57,9 +57,9 @@
           "military officer"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "United States Naval Academy",
-          "National War College"
+          "National War College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": [
@@ -120,9 +120,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Connecticut School of Law",
           "Cornell University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Connecticut School of Law"
         ],
         "employers": [],
         "positions": []
@@ -140,8 +140,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Xavier University",
@@ -163,8 +163,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Virginia Tech"
@@ -258,8 +258,8 @@
           "businessperson"
         ],
         "education": [
-          "Amherst College",
           "Harvard University",
+          "Amherst College",
           "Harvard Business School"
         ],
         "employers": [
@@ -285,8 +285,8 @@
         "image": null,
         "occupations": [
           "merchant",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Miami University"
@@ -307,8 +307,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Calhoun%20%28cropped%29.png",
         "occupations": [
-          "business executive",
-          "manager"
+          "manager",
+          "business executive"
         ],
         "education": [
           "Parkland High School",

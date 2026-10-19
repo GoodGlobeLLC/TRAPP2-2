@@ -1,6 +1,6 @@
 {
   "ticker": "CAH",
-  "fetchedAt": "2026-10-12T11:40:30.272601Z",
+  "fetchedAt": "2026-10-19T09:42:28.591308Z",
   "people": [
     {
       "qid": "Q114395172",
@@ -110,8 +110,8 @@
           "businessperson"
         ],
         "education": [
-          "DeSales University",
-          "New York University"
+          "New York University",
+          "DeSales University"
         ],
         "employers": [],
         "positions": []
@@ -133,8 +133,8 @@
         ],
         "education": [
           "George Washington University",
-          "Georgetown University",
-          "Harvard University"
+          "Harvard University",
+          "Georgetown University"
         ],
         "employers": [],
         "positions": []

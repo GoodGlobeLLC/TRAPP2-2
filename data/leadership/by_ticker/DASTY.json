@@ -1,6 +1,6 @@
 {
   "ticker": "DASTY",
-  "fetchedAt": "2026-10-12T11:40:30.278533Z",
+  "fetchedAt": "2026-10-19T09:42:28.597835Z",
   "people": [
     {
       "qid": "Q115735422",
@@ -99,10 +99,10 @@
         "birthPlace": "Chandigarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soumitra%20Dutta%20-%20World%20Economic%20Forum%20on%20East%20Asia%202011.jpg",
         "occupations": [
-          "university teacher",
-          "business manager",
+          "academic",
           "computer scientist",
-          "academic"
+          "university teacher",
+          "business manager"
         ],
         "education": [
           "University of California, Berkeley"
