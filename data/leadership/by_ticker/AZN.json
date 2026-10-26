@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-10-19T09:42:28.584834Z",
+  "fetchedAt": "2026-10-26T09:49:08.603232Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -18,8 +18,8 @@
           "entrepreneur"
         ],
         "education": [
-          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort",
-          "HEC Paris"
+          "HEC Paris",
+          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort"
         ],
         "employers": [
           {
@@ -97,12 +97,12 @@
         "birthPlace": "Bristol",
         "image": null,
         "occupations": [
-          "geneticist",
-          "singer-songwriter"
+          "singer-songwriter",
+          "geneticist"
         ],
         "education": [
-          "University of Oxford",
-          "Redland High School for Girls"
+          "Redland High School for Girls",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -189,8 +189,8 @@
           "entrepreneur"
         ],
         "education": [
-          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort",
-          "HEC Paris"
+          "HEC Paris",
+          "\u00c9cole nationale v\u00e9t\u00e9rinaire d'Alfort"
         ],
         "employers": [
           {
@@ -243,9 +243,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "researcher",
+          "physician",
           "biologist",
-          "physician"
+          "researcher"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -293,16 +293,6 @@
         ],
         "employers": [
           {
-            "company": "International Chamber of Commerce",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Citibank",
-            "start": "1980-01-01",
-            "end": "1982-01-01"
-          },
-          {
             "company": "Skandinaviska Enskilda Banken",
             "start": null,
             "end": null
@@ -316,6 +306,16 @@
             "company": "Investor",
             "start": null,
             "end": null
+          },
+          {
+            "company": "International Chamber of Commerce",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Citibank",
+            "start": "1980-01-01",
+            "end": "1982-01-01"
           },
           {
             "company": "Institute of International Finance",

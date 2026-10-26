@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-10-19T09:42:28.583646Z",
+  "fetchedAt": "2026-10-26T09:49:08.602019Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -55,18 +55,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "financier",
           "art collector",
           "investment banker",
+          "investor",
           "businessperson",
-          "investor"
+          "financier"
         ],
         "education": [
-          "Dartmouth College",
-          "Harvard Business School",
-          "Harvard University",
           "Van High School",
-          "Ethical Culture Fieldston School"
+          "Ethical Culture Fieldston School",
+          "Harvard Business School",
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -82,6 +82,12 @@
         ],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
+            "end": "2021-01-01"
+          },
+          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -91,12 +97,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]
@@ -114,8 +114,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -155,9 +155,9 @@
         "birthPlace": "Washington, D.C.",
         "image": null,
         "occupations": [
-          "financier",
           "businessperson",
-          "investment banker"
+          "investment banker",
+          "financier"
         ],
         "education": [
           "Columbia Business School",
@@ -236,18 +236,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "financier",
           "art collector",
           "investment banker",
+          "investor",
           "businessperson",
-          "investor"
+          "financier"
         ],
         "education": [
-          "Dartmouth College",
-          "Harvard Business School",
-          "Harvard University",
           "Van High School",
-          "Ethical Culture Fieldston School"
+          "Ethical Culture Fieldston School",
+          "Harvard Business School",
+          "Dartmouth College",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -263,6 +263,12 @@
         ],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
+            "end": "2021-01-01"
+          },
+          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -272,12 +278,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]

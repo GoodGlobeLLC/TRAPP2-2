@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-10-19T09:42:28.598421Z",
+  "fetchedAt": "2026-10-26T09:49:08.617149Z",
   "people": [
     {
       "qid": "Q218630",
@@ -14,12 +14,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "financier",
           "philanthropist",
-          "investor",
-          "chief executive officer",
-          "computer scientist",
+          "financier",
           "entrepreneur",
+          "investor",
+          "computer scientist",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -116,8 +116,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -230,12 +230,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "financier",
           "philanthropist",
-          "investor",
-          "chief executive officer",
-          "computer scientist",
+          "financier",
           "entrepreneur",
+          "investor",
+          "computer scientist",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -265,12 +265,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "financier",
           "philanthropist",
-          "investor",
-          "chief executive officer",
-          "computer scientist",
+          "financier",
           "entrepreneur",
+          "investor",
+          "computer scientist",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [

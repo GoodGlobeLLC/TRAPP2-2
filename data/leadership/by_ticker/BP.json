@@ -1,6 +1,6 @@
 {
   "ticker": "BP",
-  "fetchedAt": "2026-10-19T09:42:28.588881Z",
+  "fetchedAt": "2026-10-26T09:49:08.607550Z",
   "people": [
     {
       "qid": "Q130611962",
@@ -39,8 +39,8 @@
         "birthPlace": "Asker",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helge%20Lund%2C%20CEO%20-%20StatoilHydro.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "INSEAD",

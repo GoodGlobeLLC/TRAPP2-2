@@ -1,6 +1,6 @@
 {
   "ticker": "AKAM",
-  "fetchedAt": "2026-10-19T09:42:28.582087Z",
+  "fetchedAt": "2026-10-26T09:49:08.600421Z",
   "people": [
     {
       "qid": "Q5424058",
@@ -14,13 +14,13 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
-          "university teacher",
           "computer scientist",
+          "university teacher",
           "mathematician"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -317,13 +317,13 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
-          "university teacher",
           "computer scientist",
+          "university teacher",
           "mathematician"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -370,10 +370,10 @@
         "education": [
           "University of Notre Dame",
           "MIT Sloan School of Management",
+          "Cornell University",
           "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
-          "Samuel Curtis Johnson Graduate School of Management",
-          "Cornell University"
+          "Samuel Curtis Johnson Graduate School of Management"
         ],
         "employers": [
           {
@@ -454,13 +454,13 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Leighton%2C%20CEO%2C%20Akamai.jpg",
         "occupations": [
-          "university teacher",
           "computer scientist",
+          "university teacher",
           "mathematician"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
