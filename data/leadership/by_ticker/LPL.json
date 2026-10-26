@@ -1,6 +1,6 @@
 {
   "ticker": "LPL",
-  "fetchedAt": "2026-10-19T10:25:09.814303Z",
+  "fetchedAt": "2026-10-26T10:40:17.694517Z",
   "people": [
     {
       "qid": "Q192948",
@@ -14,10 +14,10 @@
         "birthPlace": "Tuitjenhorn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GerardKuiper.jpg",
         "occupations": [
-          "planetary scientist",
           "university teacher",
-          "cartographer",
-          "astronomer"
+          "astronomer",
+          "planetary scientist",
+          "cartographer"
         ],
         "education": [
           "Leiden University"

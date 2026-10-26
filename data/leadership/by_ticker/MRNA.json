@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-10-19T10:25:09.817378Z",
+  "fetchedAt": "2026-10-26T10:40:17.697706Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -19,9 +19,9 @@
         ],
         "education": [
           "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
         ],
         "employers": [
           {
@@ -78,9 +78,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
           "inventor",
-          "businessperson",
           "donor",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "McGill University",
@@ -170,17 +170,17 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
         "occupations": [
           "chemical engineer",
+          "biochemist",
           "university teacher",
           "biotechnologist",
-          "biochemist",
-          "inventor",
-          "engineer"
+          "engineer",
+          "inventor"
         ],
         "education": [
-          "The Milne School",
-          "Cornell University College of Engineering",
           "Massachusetts Institute of Technology",
-          "Cornell University"
+          "Cornell University",
+          "The Milne School",
+          "Cornell University College of Engineering"
         ],
         "employers": [
           {
@@ -220,17 +220,17 @@
         ],
         "employers": [
           {
-            "company": "Moderna",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Sanofi",
             "start": null,
             "end": null
           },
           {
             "company": "GSK",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Moderna",
             "start": null,
             "end": null
           },
@@ -260,9 +260,9 @@
         ],
         "education": [
           "\u00c9cole Centrale Paris",
-          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve",
           "University of Minnesota",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Lyc\u00e9e priv\u00e9 Sainte-Genevi\u00e8ve"
         ],
         "employers": [
           {
@@ -303,28 +303,13 @@
           "researcher"
         ],
         "education": [
-          "Universit\u00e9 libre de Bruxelles",
-          "Harvard Medical School",
           "Tufts University School of Medicine",
           "Mohammed V high school",
-          "International Institute for Management Development"
+          "International Institute for Management Development",
+          "Universit\u00e9 libre de Bruxelles",
+          "Harvard Medical School"
         ],
         "employers": [
-          {
-            "company": "University of Mons",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Moderna",
-            "start": "2017-01-01",
-            "end": "2020-01-01"
-          },
-          {
-            "company": "International AIDS Vaccine Initiative",
-            "start": "2015-01-01",
-            "end": "2017-01-01"
-          },
           {
             "company": "Lonza Group",
             "start": "2020-04-01",
@@ -339,6 +324,21 @@
             "company": "Qatar Foundation",
             "start": "2009-01-01",
             "end": "2020-01-01"
+          },
+          {
+            "company": "University of Mons",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Moderna",
+            "start": "2017-01-01",
+            "end": "2020-01-01"
+          },
+          {
+            "company": "International AIDS Vaccine Initiative",
+            "start": "2015-01-01",
+            "end": "2017-01-01"
           },
           {
             "company": "Intellia Therapeutics",
