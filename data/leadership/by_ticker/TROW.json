@@ -1,6 +1,6 @@
 {
   "ticker": "TROW",
-  "fetchedAt": "2026-10-19T12:57:31.375753Z",
+  "fetchedAt": "2026-10-26T12:54:59.733594Z",
   "people": [
     {
       "qid": "Q4911038",
@@ -19,9 +19,9 @@
         ],
         "education": [
           "Tuck School of Business",
-          "Loyola Blakefield",
           "Johns Hopkins University",
-          "Dartmouth College"
+          "Dartmouth College",
+          "Loyola Blakefield"
         ],
         "employers": [
           {

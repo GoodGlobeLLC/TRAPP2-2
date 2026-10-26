@@ -1,6 +1,6 @@
 {
   "ticker": "SHEL",
-  "fetchedAt": "2026-10-19T12:57:31.370569Z",
+  "fetchedAt": "2026-10-26T12:54:59.728279Z",
   "people": [
     {
       "qid": "Q113988833",
@@ -157,7 +157,7 @@
             "end": "2012-01-01"
           },
           {
-            "title": "United Kingdom Permanent Representative to the European Union",
+            "title": "Permanent Representative of the United Kingdom to the European Union",
             "company": null,
             "start": "2000-01-01",
             "end": "2003-01-01"
@@ -177,9 +177,9 @@
         "birthPlace": "Enkhuizen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Zalm%202006.jpg",
         "occupations": [
-          "finance minister",
           "university teacher",
           "politician",
+          "finance minister",
           "economist",
           "banker"
         ],
