@@ -1,13 +1,13 @@
 {
   "ticker": "DPZ",
   "qid": "Q839466",
-  "fetchedAt": "2026-10-01T08:47:28.239534Z",
+  "fetchedAt": "2026-11-01T09:22:49.513589Z",
   "source": "wikidata",
   "name": "Domino's Pizza",
   "description": "American pizza restaurant chain",
   "website": "https://www.dominos.com/",
   "isin": "US25754A2015",
-  "inception": "1960-06-10",
+  "inception": "1960-01-01",
   "employees": null,
   "industry": "restaurant",
   "headquarters": "Domino's Farms",
@@ -19,6 +19,9 @@
   ],
   "board": [],
   "founders": [
+    {
+      "name": "James Monaghan"
+    },
     {
       "name": "Tom Monaghan"
     }

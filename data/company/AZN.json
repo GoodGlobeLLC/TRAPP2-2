@@ -1,7 +1,7 @@
 {
   "ticker": "AZN",
   "qid": "Q731938",
-  "fetchedAt": "2026-10-01T08:38:35.661355Z",
+  "fetchedAt": "2026-11-01T09:12:12.583085Z",
   "source": "wikidata",
   "name": "AstraZeneca",
   "description": "British-Swedish pharmaceutical company",
@@ -10,7 +10,7 @@
   "inception": "1913-01-01",
   "employees": 70600,
   "industry": "pharmaceutical industry",
-  "headquarters": "Cambridge",
+  "headquarters": "Cambridge Biomedical Campus",
   "executives": [
     {
       "name": "Pascal Soriot",
@@ -31,10 +31,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Tony Mok",
-      "role": "Board Member"
-    },
-    {
       "name": "Pascal Soriot",
       "role": "Board Member"
     },
@@ -52,6 +48,10 @@
     },
     {
       "name": "Leif Johansson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Tony Mok",
       "role": "Board Member"
     }
   ],

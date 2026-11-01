@@ -1,7 +1,7 @@
 {
   "ticker": "PPC",
   "qid": "Q19876921",
-  "fetchedAt": "2026-10-01T08:44:01.161016Z",
+  "fetchedAt": "2026-11-01T09:19:09.473351Z",
   "source": "wikidata",
   "name": "Peet",
   "description": "Australian real estate development company",
@@ -9,7 +9,7 @@
   "isin": null,
   "inception": "1895-01-01",
   "employees": null,
-  "industry": "Real Estate Company",
+  "industry": "real estate company",
   "headquarters": "Perth",
   "executives": [],
   "board": [],

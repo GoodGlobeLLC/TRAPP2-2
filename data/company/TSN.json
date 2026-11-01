@@ -1,7 +1,7 @@
 {
   "ticker": "TSN",
   "qid": "Q1325987",
-  "fetchedAt": "2026-10-01T08:43:56.309555Z",
+  "fetchedAt": "2026-11-01T09:19:04.002086Z",
   "source": "wikidata",
   "name": "Tyson Foods",
   "description": "food manufacturing company",
@@ -69,16 +69,16 @@
   ],
   "products": [
     {
-      "name": "fast food"
+      "name": "meat"
     },
     {
-      "name": "meat"
+      "name": "plant proteins"
     },
     {
       "name": "poultry"
     },
     {
-      "name": "plant proteins"
+      "name": "fast food"
     }
   ],
   "countries": []
