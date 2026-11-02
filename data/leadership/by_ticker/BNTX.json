@@ -1,6 +1,6 @@
 {
   "ticker": "BNTX",
-  "fetchedAt": "2026-10-26T09:49:08.606503Z",
+  "fetchedAt": "2026-11-02T12:14:13.642139Z",
   "people": [
     {
       "qid": "Q2505089",
@@ -17,11 +17,11 @@
           "academic",
           "chairperson of the executive board",
           "oncologist",
-          "immunologist",
-          "university teacher",
           "researcher",
-          "entrepreneur",
+          "immunologist",
           "chief executive officer",
+          "entrepreneur",
+          "university teacher",
           "physician"
         ],
         "education": [
@@ -67,13 +67,13 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
-          "entrepreneur",
           "immunologist",
-          "Privatdozent",
           "academic",
           "board member",
-          "researcher",
+          "Privatdozent",
           "university teacher",
+          "entrepreneur",
+          "researcher",
           "physician"
         ],
         "education": [
@@ -118,11 +118,11 @@
           "academic",
           "chairperson of the executive board",
           "oncologist",
-          "immunologist",
-          "university teacher",
           "researcher",
-          "entrepreneur",
+          "immunologist",
           "chief executive officer",
+          "entrepreneur",
+          "university teacher",
           "physician"
         ],
         "education": [
@@ -168,13 +168,13 @@
         "birthPlace": "Siegen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ozlem%20Tureci%20v1.jpg",
         "occupations": [
-          "entrepreneur",
           "immunologist",
-          "Privatdozent",
           "academic",
           "board member",
-          "researcher",
+          "Privatdozent",
           "university teacher",
+          "entrepreneur",
+          "researcher",
           "physician"
         ],
         "education": [
@@ -219,11 +219,11 @@
           "academic",
           "chairperson of the executive board",
           "oncologist",
-          "immunologist",
-          "university teacher",
           "researcher",
-          "entrepreneur",
+          "immunologist",
           "chief executive officer",
+          "entrepreneur",
+          "university teacher",
           "physician"
         ],
         "education": [

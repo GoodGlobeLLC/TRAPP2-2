@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-10-26T09:49:08.606960Z",
+  "fetchedAt": "2026-11-02T12:14:13.643007Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -40,137 +40,6 @@
             "end": null
           }
         ]
-      }
-    },
-    {
-      "qid": "Q2997321",
-      "name": "John M. Richardson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q2997321",
-        "name": "John M. Richardson",
-        "dateOfBirth": "1960-04-08",
-        "birthPlace": "Petersburg",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20John%20M.%20Richardson%20%28CNO%29%20150917-N-AT895-703%20%2826207156950%29.jpg",
-        "occupations": [
-          "military officer"
-        ],
-        "education": [
-          "United States Naval Academy",
-          "National War College",
-          "Massachusetts Institute of Technology"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "Chief of Naval Operations",
-            "company": null,
-            "start": "2015-09-18",
-            "end": "2019-08-22"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1286705",
-      "name": "Edmund Giambastiani",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1286705",
-        "name": "Edmund Giambastiani",
-        "dateOfBirth": "1948-05-04",
-        "birthPlace": "Canastota",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
-        "occupations": [
-          "military officer",
-          "submariner"
-        ],
-        "education": [
-          "United States Naval Academy"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "Supreme Allied Commander Transformation",
-            "company": null,
-            "start": "2003-06-19",
-            "end": "2005-06-19"
-          },
-          {
-            "title": "Vice Chairman of the Joint Chiefs of Staff",
-            "company": null,
-            "start": "2005-08-12",
-            "end": "2007-07-27"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q114559065",
-      "name": "Dave Gitlin",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114559065",
-        "name": "Dave Gitlin",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Cornell University",
-          "Massachusetts Institute of Technology",
-          "University of Connecticut School of Law"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109772673",
-      "name": "David Joyce",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109772673",
-        "name": "David Joyce",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "board member",
-          "businessperson"
-        ],
-        "education": [
-          "Xavier University",
-          "Michigan State University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109771521",
-      "name": "Lynne Doughtie",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109771521",
-        "name": "Lynne Doughtie",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "board member",
-          "businessperson"
-        ],
-        "education": [
-          "Virginia Tech"
-        ],
-        "employers": [],
-        "positions": []
       }
     },
     {
@@ -258,9 +127,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard University",
           "Amherst College",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -400,6 +269,137 @@
             "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q2997321",
+      "name": "John M. Richardson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2997321",
+        "name": "John M. Richardson",
+        "dateOfBirth": "1960-04-08",
+        "birthPlace": "Petersburg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20John%20M.%20Richardson%20%28CNO%29%20150917-N-AT895-703%20%2826207156950%29.jpg",
+        "occupations": [
+          "military officer"
+        ],
+        "education": [
+          "United States Naval Academy",
+          "National War College",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Chief of Naval Operations",
+            "company": null,
+            "start": "2015-09-18",
+            "end": "2019-08-22"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1286705",
+      "name": "Edmund Giambastiani",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1286705",
+        "name": "Edmund Giambastiani",
+        "dateOfBirth": "1948-05-04",
+        "birthPlace": "Canastota",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
+        "occupations": [
+          "military officer",
+          "submariner"
+        ],
+        "education": [
+          "United States Naval Academy"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Supreme Allied Commander Transformation",
+            "company": null,
+            "start": "2003-06-19",
+            "end": "2005-06-19"
+          },
+          {
+            "title": "Vice Chairman of the Joint Chiefs of Staff",
+            "company": null,
+            "start": "2005-08-12",
+            "end": "2007-07-27"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114559065",
+      "name": "Dave Gitlin",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114559065",
+        "name": "Dave Gitlin",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "Cornell University",
+          "University of Connecticut School of Law"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109772673",
+      "name": "David Joyce",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109772673",
+        "name": "David Joyce",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "board member"
+        ],
+        "education": [
+          "Xavier University",
+          "Michigan State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109771521",
+      "name": "Lynne Doughtie",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109771521",
+        "name": "Lynne Doughtie",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "board member",
+          "businessperson"
+        ],
+        "education": [
+          "Virginia Tech"
+        ],
+        "employers": [],
+        "positions": []
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "ticker": "AZN",
-  "fetchedAt": "2026-10-26T09:49:08.603232Z",
+  "fetchedAt": "2026-11-02T12:14:13.633626Z",
   "people": [
     {
       "qid": "Q7141722",
@@ -50,8 +50,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Chalmers University of Technology"
@@ -136,40 +136,15 @@
         "birthPlace": "Quincy",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheri%20McCoy.jpg",
         "occupations": [
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
-          "Princeton University",
           "University of Massachusetts Dartmouth",
-          "Rutgers University"
+          "Rutgers University",
+          "Princeton University"
         ],
         "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q61820649",
-      "name": "Tony Mok",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q61820649",
-        "name": "Tony Mok",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "researcher"
-        ],
-        "education": [],
-        "employers": [
-          {
-            "company": "The Chinese University of Hong Kong",
-            "start": null,
-            "end": null
-          }
-        ],
         "positions": []
       }
     },
@@ -243,9 +218,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "physician",
           "biologist",
-          "researcher"
+          "researcher",
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -285,8 +260,8 @@
         "birthPlace": "Stockholm",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Recebe%20em%20audi%C3%AAncia%20o%20presidente%20do%20Conselho%20Administrativo%20do%20Shandinaviska%20Enskilda%20Banken%2C%20Electrolux%20e%20SAAB%20-%20Sistemas%20de%20Defesa%20Aeroespacial%2C%20Marcus%20Wallenberg.%20%2816794468978%29%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "Walsh School of Foreign Service"
@@ -355,8 +330,8 @@
         "birthPlace": "Gothenburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leif%20Johansson%202014-07-15%20001%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Chalmers University of Technology"
@@ -388,6 +363,31 @@
             "end": "2018-01-01"
           }
         ]
+      }
+    },
+    {
+      "qid": "Q61820649",
+      "name": "Tony Mok",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q61820649",
+        "name": "Tony Mok",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "researcher"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "The Chinese University of Hong Kong",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
       }
     }
   ]

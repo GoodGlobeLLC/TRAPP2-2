@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-10-26T09:49:08.608629Z",
+  "fetchedAt": "2026-11-02T12:14:13.645042Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
-          "business executive",
           "chartered accountant",
-          "investor"
+          "investor",
+          "business executive"
         ],
         "education": [
           "University of Alberta"
@@ -87,6 +87,32 @@
       }
     },
     {
+      "qid": "Q114351258",
+      "name": "Chris Davis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114351258",
+        "name": "Chris Davis",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of St Andrews"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-10-20",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q107933095",
       "name": "Meryl B. Witmer",
       "role_at_company": "Board Member",
@@ -113,40 +139,149 @@
       }
     },
     {
-      "qid": "Q47213",
-      "name": "Warren Buffett",
+      "qid": "Q3498872",
+      "name": "Steve Burke",
       "role_at_company": "Board Member",
       "source_field": "board",
       "career": {
-        "qid": "Q47213",
-        "name": "Warren Buffett",
-        "dateOfBirth": "1930-08-30",
-        "birthPlace": "Omaha",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20at%20the%202015%20SelectUSA%20Investment%20Summit.jpg",
+        "qid": "Q3498872",
+        "name": "Steve Burke",
+        "dateOfBirth": "1958-08-14",
+        "birthPlace": "Birmingham",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "financier",
-          "investor",
-          "broker-dealer",
-          "chief executive officer",
-          "shareholder",
-          "economist",
-          "entrepreneur"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "New York Institute of Finance",
-          "Jackson-Reed High School",
-          "University of Nebraska\u2013Lincoln",
-          "The Wharton School",
-          "Columbia Business School",
-          "University of Pennsylvania"
+          "Colgate University",
+          "Harvard Business School",
+          "Harvard University"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "NBCUniversal",
+            "start": "2011-01-01",
+            "end": "2020-01-01"
+          }
+        ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2009-12-22",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2004-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q918630",
+      "name": "Charlie Munger",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q918630",
+        "name": "Charlie Munger",
+        "dateOfBirth": "1924-01-01",
+        "birthPlace": "Omaha",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Munger%20%28cropped%29.jpg",
+        "occupations": [
+          "investor"
+        ],
+        "education": [
+          "Omaha Central High School",
+          "California Institute of Technology",
+          "Harvard Law School",
+          "University of Michigan College of Literature, Science, and the Arts"
+        ],
+        "employers": [
+          {
+            "company": "Berkshire Hathaway",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1997-01-01",
+            "end": "2023-11-28"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1978-01-01",
+            "end": "2023-11-28"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q516550",
+      "name": "Kenneth Chenault",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q516550",
+        "name": "Kenneth Chenault",
+        "dateOfBirth": "1951-06-02",
+        "birthPlace": "Mineola",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
+        "occupations": [
+          "venture capitalist",
+          "chief executive officer",
+          "businessperson",
+          "entrepreneur",
+          "lawyer"
+        ],
+        "education": [
+          "The Waldorf School of Garden City",
+          "Bowdoin College",
+          "Harvard Law School"
+        ],
+        "employers": [
+          {
+            "company": "General Catalyst",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "American Express",
+            "start": "1981-01-01",
+            "end": "2018-02-01"
+          },
+          {
+            "company": "Bain & Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-02",
+            "end": null
+          },
           {
             "title": "chief executive officer",
             "company": null,
-            "start": "1970-01-01",
-            "end": "2026-01-01"
+            "start": "2001-01-01",
+            "end": "2018-02-01"
           }
         ]
       }
@@ -191,9 +326,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
-          "business executive",
           "chartered accountant",
-          "investor"
+          "investor",
+          "business executive"
         ],
         "education": [
           "University of Alberta"
@@ -353,149 +488,40 @@
       }
     },
     {
-      "qid": "Q3498872",
-      "name": "Steve Burke",
+      "qid": "Q47213",
+      "name": "Warren Buffett",
       "role_at_company": "Board Member",
       "source_field": "board",
       "career": {
-        "qid": "Q3498872",
-        "name": "Steve Burke",
-        "dateOfBirth": "1958-08-14",
-        "birthPlace": "Birmingham",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
-        "occupations": [
-          "businessperson",
-          "chief executive officer"
-        ],
-        "education": [
-          "Colgate University",
-          "Harvard Business School",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "NBCUniversal",
-            "start": "2011-01-01",
-            "end": "2020-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2009-12-22",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2004-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q918630",
-      "name": "Charlie Munger",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q918630",
-        "name": "Charlie Munger",
-        "dateOfBirth": "1924-01-01",
+        "qid": "Q47213",
+        "name": "Warren Buffett",
+        "dateOfBirth": "1930-08-30",
         "birthPlace": "Omaha",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Munger%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20at%20the%202015%20SelectUSA%20Investment%20Summit.jpg",
         "occupations": [
-          "investor"
-        ],
-        "education": [
-          "Omaha Central High School",
-          "University of Michigan College of Literature, Science, and the Arts",
-          "California Institute of Technology",
-          "Harvard Law School"
-        ],
-        "employers": [
-          {
-            "company": "Berkshire Hathaway",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "1997-01-01",
-            "end": "2023-11-28"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "1978-01-01",
-            "end": "2023-11-28"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q516550",
-      "name": "Kenneth Chenault",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q516550",
-        "name": "Kenneth Chenault",
-        "dateOfBirth": "1951-06-02",
-        "birthPlace": "Mineola",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
-        "occupations": [
-          "businessperson",
+          "broker-dealer",
+          "financier",
+          "investor",
           "chief executive officer",
-          "entrepreneur",
-          "venture capitalist",
-          "lawyer"
+          "shareholder",
+          "economist",
+          "entrepreneur"
         ],
         "education": [
-          "The Waldorf School of Garden City",
-          "Bowdoin College",
-          "Harvard Law School"
+          "New York Institute of Finance",
+          "Jackson-Reed High School",
+          "University of Nebraska\u2013Lincoln",
+          "The Wharton School",
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
-        "employers": [
-          {
-            "company": "General Catalyst",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "American Express",
-            "start": "1981-01-01",
-            "end": "2018-02-01"
-          },
-          {
-            "company": "Bain & Company",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-02",
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
-            "start": "2001-01-01",
-            "end": "2018-02-01"
+            "start": "1970-01-01",
+            "end": "2026-01-01"
           }
         ]
       }
@@ -515,9 +541,9 @@
           "businessperson"
         ],
         "education": [
-          "Teachers College",
           "Trinity College",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Teachers College"
         ],
         "employers": [],
         "positions": [
@@ -582,8 +608,8 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
           "Harvard Business School",
+          "Indian Institute of Technology Kharagpur",
           "Harvard University"
         ],
         "employers": [
@@ -681,32 +707,6 @@
             "title": "board of directors member",
             "company": null,
             "start": "2022-12-19",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q114351258",
-      "name": "Chris Davis",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114351258",
-        "name": "Chris Davis",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "University of St Andrews"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2021-10-20",
             "end": null
           }
         ]

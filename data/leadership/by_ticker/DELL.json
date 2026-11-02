@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-10-26T09:49:08.617149Z",
+  "fetchedAt": "2026-11-02T12:14:13.658809Z",
   "people": [
     {
       "qid": "Q218630",
@@ -14,12 +14,110 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
+          "entrepreneur",
           "philanthropist",
           "financier",
-          "entrepreneur",
           "investor",
-          "computer scientist",
           "chief executive officer",
+          "computer scientist",
+          "businessperson"
+        ],
+        "education": [
+          "Memorial High School",
+          "University of Texas at Austin"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1984-01-01",
+            "end": "2004-03-04"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q8007467",
+      "name": "Bill Green",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q8007467",
+        "name": "Bill Green",
+        "dateOfBirth": "1953-08-01",
+        "birthPlace": "Hampden",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20D.%20Green%20-%20World%20Economic%20Forum%20on%20Latin%20America%202011%20crop.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Dean College",
+          "Babson College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q284302",
+      "name": "Ellen Kullman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q284302",
+        "name": "Ellen Kullman",
+        "dateOfBirth": "1956-01-22",
+        "birthPlace": "Wilmington",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ellen%20Kullman%20JPS2010%2001%2014%20crop.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Northwestern University",
+          "Tufts University",
+          "Tufts University School of Engineering",
+          "Tower Hill School",
+          "Kellogg School of Management"
+        ],
+        "employers": [
+          {
+            "company": "General Motors",
+            "start": "2004-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "DuPont",
+            "start": "2008-10-01",
+            "end": null
+          },
+          {
+            "company": "DuPont",
+            "start": "1988-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q218630",
+      "name": "Michael Dell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q218630",
+        "name": "Michael Dell",
+        "dateOfBirth": "1965-02-23",
+        "birthPlace": "Houston",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
+        "occupations": [
+          "entrepreneur",
+          "philanthropist",
+          "financier",
+          "investor",
+          "chief executive officer",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
@@ -49,8 +147,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "College of the Holy Cross",
@@ -97,8 +195,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -156,104 +254,6 @@
       }
     },
     {
-      "qid": "Q8007467",
-      "name": "Bill Green",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q8007467",
-        "name": "Bill Green",
-        "dateOfBirth": "1953-08-01",
-        "birthPlace": "Hampden",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20D.%20Green%20-%20World%20Economic%20Forum%20on%20Latin%20America%202011%20crop.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Dean College",
-          "Babson College"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q284302",
-      "name": "Ellen Kullman",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q284302",
-        "name": "Ellen Kullman",
-        "dateOfBirth": "1956-01-22",
-        "birthPlace": "Wilmington",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ellen%20Kullman%20JPS2010%2001%2014%20crop.jpg",
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Tufts University School of Engineering",
-          "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
-        ],
-        "employers": [
-          {
-            "company": "General Motors",
-            "start": "2004-01-01",
-            "end": "2008-01-01"
-          },
-          {
-            "company": "DuPont",
-            "start": "2008-10-01",
-            "end": null
-          },
-          {
-            "company": "DuPont",
-            "start": "1988-01-01",
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q218630",
-      "name": "Michael Dell",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q218630",
-        "name": "Michael Dell",
-        "dateOfBirth": "1965-02-23",
-        "birthPlace": "Houston",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
-        "occupations": [
-          "philanthropist",
-          "financier",
-          "entrepreneur",
-          "investor",
-          "computer scientist",
-          "chief executive officer",
-          "businessperson"
-        ],
-        "education": [
-          "Memorial High School",
-          "University of Texas at Austin"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1984-01-01",
-            "end": "2004-03-04"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q218630",
       "name": "Michael Dell",
       "role_at_company": "Founder",
@@ -265,12 +265,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
+          "entrepreneur",
           "philanthropist",
           "financier",
-          "entrepreneur",
           "investor",
-          "computer scientist",
           "chief executive officer",
+          "computer scientist",
           "businessperson"
         ],
         "education": [

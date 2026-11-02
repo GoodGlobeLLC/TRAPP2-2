@@ -1,6 +1,6 @@
 {
   "ticker": "ETSY",
-  "fetchedAt": "2026-10-26T09:49:08.619662Z",
+  "fetchedAt": "2026-11-02T12:14:13.662700Z",
   "people": [
     {
       "qid": "Q136670079",
@@ -50,9 +50,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Brown University",
           "Community High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Brown University"
         ],
         "employers": [],
         "positions": []

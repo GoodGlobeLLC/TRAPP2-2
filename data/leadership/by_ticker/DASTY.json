@@ -1,6 +1,6 @@
 {
   "ticker": "DASTY",
-  "fetchedAt": "2026-10-26T09:49:08.616675Z",
+  "fetchedAt": "2026-11-02T12:14:13.658315Z",
   "people": [
     {
       "qid": "Q115735422",
@@ -46,8 +46,8 @@
         "birthPlace": "Brittany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Charl%C3%A8s%20Portrait.jpg",
         "occupations": [
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Institut sup\u00e9rieur de m\u00e9canique de Paris",
@@ -129,9 +129,9 @@
         "birthPlace": "Dieuze",
         "image": null,
         "occupations": [
-          "physician",
           "biologist",
-          "researcher"
+          "researcher",
+          "physician"
         ],
         "education": [
           "\u00c9cole normale sup\u00e9rieure Paris-Saclay"
@@ -209,8 +209,8 @@
         "birthPlace": "Brittany",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Charl%C3%A8s%20Portrait.jpg",
         "occupations": [
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Institut sup\u00e9rieur de m\u00e9canique de Paris",
@@ -245,8 +245,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "politician",
-          "corporate administrative and commercial executive"
+          "corporate administrative and commercial executive",
+          "politician"
         ],
         "education": [],
         "employers": [],
