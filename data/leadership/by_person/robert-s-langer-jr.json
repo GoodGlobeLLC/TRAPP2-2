@@ -5,12 +5,12 @@
   "birthPlace": "Albany",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Langer.jpg",
   "occupations": [
-    "chemical engineer",
-    "biochemist",
     "university teacher",
     "biotechnologist",
-    "engineer",
-    "inventor"
+    "biochemist",
+    "chemical engineer",
+    "inventor",
+    "engineer"
   ],
   "education": [
     "Massachusetts Institute of Technology",
