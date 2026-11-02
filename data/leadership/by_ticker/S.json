@@ -1,6 +1,6 @@
 {
   "ticker": "S",
-  "fetchedAt": "2026-10-26T12:54:59.727207Z",
+  "fetchedAt": "2026-11-02T15:33:12.108856Z",
   "people": [
     {
       "qid": "Q15728648",
@@ -14,8 +14,8 @@
         "birthPlace": "Guatemala City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcelo%20Claure%202019%20uncropped%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
           "philanthropist",
+          "chief executive officer",
           "technology entrepreneur"
         ],
         "education": [

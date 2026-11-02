@@ -5,16 +5,16 @@
   "birthPlace": "Detroit",
   "image": null,
   "occupations": [
-    "businessperson",
-    "chemist"
+    "chemist",
+    "businessperson"
   ],
   "education": [
     "University of Pennsylvania",
+    "University of Chicago",
+    "Stanford Law School",
     "Spelman College",
     "Cass Technical High School",
-    "Booth School of Business",
-    "Stanford Law School",
-    "University of Chicago"
+    "Booth School of Business"
   ],
   "employers": [
     {
