@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-11-02T12:14:13.649939Z",
+  "fetchedAt": "2026-11-09T12:39:30.584923Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -131,8 +131,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "George Washington University Law School",
-          "Brown University"
+          "Brown University",
+          "George Washington University Law School"
         ],
         "employers": [],
         "positions": []
@@ -171,9 +171,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
+          "University of Mississippi",
           "University of Virginia",
-          "University of Mississippi"
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -298,14 +298,24 @@
           "publisher"
         ],
         "education": [
-          "Yale University",
+          "New York University",
           "Yale School of Engineering and Applied Science",
           "Hopkins School",
           "Johns Hopkins University",
           "New York University Tandon School of Engineering",
-          "New York University"
+          "Yale University"
         ],
         "employers": [
+          {
+            "company": "Bell Labs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Jerrold Electronics",
             "start": null,
@@ -318,16 +328,6 @@
           },
           {
             "company": "General Instrument",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bell Labs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
             "start": null,
             "end": null
           }

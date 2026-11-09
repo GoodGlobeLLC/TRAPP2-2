@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-11-02T12:14:13.658809Z",
+  "fetchedAt": "2026-11-09T12:39:30.590706Z",
   "people": [
     {
       "qid": "Q218630",
@@ -14,12 +14,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "entrepreneur",
-          "philanthropist",
-          "financier",
           "investor",
-          "chief executive officer",
+          "financier",
           "computer scientist",
+          "chief executive officer",
+          "philanthropist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -112,12 +112,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "entrepreneur",
-          "philanthropist",
-          "financier",
           "investor",
-          "chief executive officer",
+          "financier",
           "computer scientist",
+          "chief executive officer",
+          "philanthropist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -170,8 +170,8 @@
         "birthPlace": "L\u00fcbeck",
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Georgetown University"
@@ -195,8 +195,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -265,12 +265,12 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "entrepreneur",
-          "philanthropist",
-          "financier",
           "investor",
-          "chief executive officer",
+          "financier",
           "computer scientist",
+          "chief executive officer",
+          "philanthropist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [

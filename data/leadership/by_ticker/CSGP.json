@@ -1,6 +1,6 @@
 {
   "ticker": "CSGP",
-  "fetchedAt": "2026-11-02T12:14:13.655672Z",
+  "fetchedAt": "2026-11-09T12:39:30.588186Z",
   "people": [
     {
       "qid": "Q115145722",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "director",
-          "chief executive officer"
+          "chief executive officer",
+          "director"
         ],
         "education": [
           "Princeton University"
@@ -55,8 +55,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "director",
-          "chief executive officer"
+          "chief executive officer",
+          "director"
         ],
         "education": [
           "Princeton University"

@@ -1,6 +1,6 @@
 {
   "ticker": "AKAM",
-  "fetchedAt": "2026-11-02T12:14:13.625627Z",
+  "fetchedAt": "2026-11-09T12:39:30.573792Z",
   "people": [
     {
       "qid": "Q5424058",
@@ -19,8 +19,8 @@
           "university teacher"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -142,8 +142,8 @@
           "university teacher"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -188,12 +188,12 @@
           "businessperson"
         ],
         "education": [
-          "Sloan Fellows Program",
-          "Samuel Curtis Johnson Graduate School of Management",
-          "Cornell University",
           "University of Notre Dame",
           "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Sloan Fellows Program",
+          "Samuel Curtis Johnson Graduate School of Management",
+          "Cornell University"
         ],
         "employers": [
           {
@@ -459,8 +459,8 @@
           "university teacher"
         ],
         "education": [
-          "Princeton University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {

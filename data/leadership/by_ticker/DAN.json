@@ -1,6 +1,6 @@
 {
   "ticker": "DAN",
-  "fetchedAt": "2026-11-02T12:14:13.657841Z",
+  "fetchedAt": "2026-11-09T12:39:30.589767Z",
   "people": [
     {
       "qid": "Q62660539",
@@ -215,8 +215,8 @@
         "birthPlace": "Copenhagen",
         "image": null,
         "occupations": [
-          "mathematician",
-          "university teacher"
+          "university teacher",
+          "mathematician"
         ],
         "education": [
           "University of Pennsylvania"
@@ -250,10 +250,10 @@
         "birthPlace": "Rudk\u00f8bing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%98rsted%2C%20Hans%20Christian%20%28av%20Christian%20Albrecht%20Jensen%201842%29.jpg",
         "occupations": [
+          "engineer",
           "university teacher",
           "chemist",
           "physicist",
-          "engineer",
           "inventor",
           "pharmacist"
         ],
