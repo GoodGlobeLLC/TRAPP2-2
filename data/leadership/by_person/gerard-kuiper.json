@@ -5,10 +5,10 @@
   "birthPlace": "Tuitjenhorn",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GerardKuiper.jpg",
   "occupations": [
-    "university teacher",
     "planetary scientist",
-    "cartographer",
-    "astronomer"
+    "astronomer",
+    "university teacher",
+    "cartographer"
   ],
   "education": [
     "Leiden University"

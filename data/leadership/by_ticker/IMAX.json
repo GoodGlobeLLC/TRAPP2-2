@@ -1,6 +1,6 @@
 {
   "ticker": "IMAX",
-  "fetchedAt": "2026-11-02T12:59:15.995263Z",
+  "fetchedAt": "2026-11-09T13:31:26.994802Z",
   "people": [
     {
       "qid": "Q36395056",
@@ -36,12 +36,12 @@
         "birthPlace": "Yorkton",
         "image": null,
         "occupations": [
-          "film producer",
-          "inventor",
+          "director",
           "producer",
+          "film producer",
           "screenwriter",
           "film director",
-          "director"
+          "inventor"
         ],
         "education": [
           "University of Manitoba"

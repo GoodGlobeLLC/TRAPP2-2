@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "fetchedAt": "2026-11-02T12:59:16.002751Z",
+  "fetchedAt": "2026-11-09T13:31:27.002038Z",
   "people": [
     {
       "qid": "Q90959587",
@@ -77,10 +77,10 @@
         "birthPlace": "Beirut",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noubar%20Afeyan%20at%20Global%20Innovation%20Forum%202022%2C%20Yerevan%2C%20Armenia%20by%20Xelgen.jpg",
         "occupations": [
-          "businessperson",
           "inventor",
+          "donor",
           "entrepreneur",
-          "donor"
+          "businessperson"
         ],
         "education": [
           "McGill University",
@@ -134,6 +134,11 @@
         ],
         "employers": [
           {
+            "company": "University of Michigan",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "National Heart, Lung, and Blood Institute",
             "start": null,
             "end": null
@@ -145,11 +150,6 @@
           },
           {
             "company": "Brigham and Women's Hospital",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Michigan",
             "start": null,
             "end": null
           }
@@ -171,25 +171,25 @@
         "occupations": [
           "university teacher",
           "biotechnologist",
-          "biochemist",
           "chemical engineer",
-          "inventor",
-          "engineer"
+          "engineer",
+          "biochemist",
+          "inventor"
         ],
         "education": [
           "Massachusetts Institute of Technology",
-          "Cornell University",
           "The Milne School",
-          "Cornell University College of Engineering"
+          "Cornell University College of Engineering",
+          "Cornell University"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -209,9 +209,9 @@
         "birthPlace": "Haifa",
         "image": null,
         "occupations": [
-          "physician",
           "professor",
-          "researcher"
+          "researcher",
+          "physician"
         ],
         "education": [
           "Hebrew Reali School",
@@ -219,6 +219,11 @@
           "National Cancer Institute"
         ],
         "employers": [
+          {
+            "company": "Moderna",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Sanofi",
             "start": null,
@@ -231,11 +236,6 @@
           },
           {
             "company": "University of Pennsylvania",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Moderna",
             "start": null,
             "end": null
           }
@@ -303,28 +303,13 @@
           "researcher"
         ],
         "education": [
-          "Universit\u00e9 libre de Bruxelles",
-          "Harvard Medical School",
           "Tufts University School of Medicine",
           "Mohammed V high school",
-          "International Institute for Management Development"
+          "International Institute for Management Development",
+          "Universit\u00e9 libre de Bruxelles",
+          "Harvard Medical School"
         ],
         "employers": [
-          {
-            "company": "Lonza Group",
-            "start": "2020-04-01",
-            "end": "2020-05-17"
-          },
-          {
-            "company": "GSK",
-            "start": "1988-01-01",
-            "end": "2017-01-01"
-          },
-          {
-            "company": "Qatar Foundation",
-            "start": "2009-01-01",
-            "end": "2020-01-01"
-          },
           {
             "company": "University of Mons",
             "start": null,
@@ -339,6 +324,21 @@
             "company": "International AIDS Vaccine Initiative",
             "start": "2015-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Lonza Group",
+            "start": "2020-04-01",
+            "end": "2020-05-17"
+          },
+          {
+            "company": "GSK",
+            "start": "1988-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "Qatar Foundation",
+            "start": "2009-01-01",
+            "end": "2020-01-01"
           },
           {
             "company": "Intellia Therapeutics",
