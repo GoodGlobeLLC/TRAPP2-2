@@ -1,6 +1,6 @@
 {
   "ticker": "TM",
-  "fetchedAt": "2026-11-02T15:33:12.110265Z",
+  "fetchedAt": "2026-11-09T16:00:33.196665Z",
   "people": [
     {
       "qid": "Q116935918",
@@ -72,8 +72,8 @@
         "birthPlace": "Washizu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kiichiro%20Toyoda.jpg",
         "occupations": [
-          "entrepreneur",
-          "industrialist"
+          "industrialist",
+          "entrepreneur"
         ],
         "education": [
           "Tokyo Imperial University",
