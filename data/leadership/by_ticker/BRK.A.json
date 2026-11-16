@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-11-09T12:39:30.580929Z",
+  "fetchedAt": "2026-11-16T12:30:50.297271Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -62,8 +62,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
           "photographer",
-          "farmer",
           "entrepreneur",
+          "farmer",
           "writer"
         ],
         "education": [
@@ -154,9 +154,9 @@
           "businessperson"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Colgate University"
         ],
         "employers": [
           {
@@ -196,9 +196,9 @@
           "investor"
         ],
         "education": [
+          "Omaha Central High School",
           "California Institute of Technology",
           "Harvard Law School",
-          "Omaha Central High School",
           "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
@@ -236,10 +236,10 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
           "venture capitalist",
           "chief executive officer",
           "lawyer",
+          "businessperson",
           "entrepreneur"
         ],
         "education": [
@@ -499,21 +499,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20at%20the%202015%20SelectUSA%20Investment%20Summit.jpg",
         "occupations": [
+          "chief executive officer",
+          "shareholder",
           "broker-dealer",
           "financier",
           "investor",
-          "chief executive officer",
-          "shareholder",
-          "economist",
-          "entrepreneur"
+          "entrepreneur",
+          "economist"
         ],
         "education": [
-          "New York Institute of Finance",
-          "Jackson-Reed High School",
-          "University of Nebraska\u2013Lincoln",
+          "University of Pennsylvania",
           "The Wharton School",
           "Columbia Business School",
-          "University of Pennsylvania"
+          "New York Institute of Finance",
+          "Jackson-Reed High School",
+          "University of Nebraska\u2013Lincoln"
         ],
         "employers": [],
         "positions": [
@@ -569,8 +569,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
           "photographer",
-          "farmer",
           "entrepreneur",
+          "farmer",
           "writer"
         ],
         "education": [
@@ -608,9 +608,9 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Technology Kharagpur",
+          "Harvard University",
           "Harvard Business School",
-          "Harvard University"
+          "Indian Institute of Technology Kharagpur"
         ],
         "employers": [
           {

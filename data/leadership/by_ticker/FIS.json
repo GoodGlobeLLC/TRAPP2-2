@@ -1,6 +1,6 @@
 {
   "ticker": "FIS",
-  "fetchedAt": "2026-11-09T12:39:30.594118Z",
+  "fetchedAt": "2026-11-16T12:30:50.306951Z",
   "people": [
     {
       "qid": "Q45022629",
@@ -17,10 +17,10 @@
           "academic"
         ],
         "education": [
-          "University of Georgia",
-          "University of Texas at Austin",
           "Spencer High School",
-          "Morehouse College"
+          "Morehouse College",
+          "University of Georgia",
+          "University of Texas at Austin"
         ],
         "employers": [],
         "positions": []

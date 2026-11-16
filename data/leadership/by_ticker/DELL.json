@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-11-09T12:39:30.590706Z",
+  "fetchedAt": "2026-11-16T12:30:50.304418Z",
   "people": [
     {
       "qid": "Q218630",
@@ -14,13 +14,13 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "investor",
           "financier",
-          "computer scientist",
-          "chief executive officer",
+          "investor",
           "philanthropist",
-          "entrepreneur",
-          "businessperson"
+          "chief executive officer",
+          "businessperson",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Memorial High School",
@@ -74,11 +74,11 @@
           "business executive"
         ],
         "education": [
-          "Northwestern University",
-          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "Northwestern University",
+          "Tufts University"
         ],
         "employers": [
           {
@@ -112,13 +112,13 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "investor",
           "financier",
-          "computer scientist",
-          "chief executive officer",
+          "investor",
           "philanthropist",
-          "entrepreneur",
-          "businessperson"
+          "chief executive officer",
+          "businessperson",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Memorial High School",
@@ -147,8 +147,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "College of the Holy Cross",
@@ -195,8 +195,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -265,13 +265,13 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
-          "investor",
           "financier",
-          "computer scientist",
-          "chief executive officer",
+          "investor",
           "philanthropist",
-          "entrepreneur",
-          "businessperson"
+          "chief executive officer",
+          "businessperson",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Memorial High School",

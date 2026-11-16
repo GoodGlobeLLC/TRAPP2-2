@@ -1,6 +1,6 @@
 {
   "ticker": "CHTR",
-  "fetchedAt": "2026-11-09T12:39:30.584923Z",
+  "fetchedAt": "2026-11-16T12:30:50.300097Z",
   "people": [
     {
       "qid": "Q114704965",
@@ -151,8 +151,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -171,9 +171,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Mississippi",
+          "Princeton University",
           "University of Virginia",
-          "Princeton University"
+          "University of Mississippi"
         ],
         "employers": [],
         "positions": []
@@ -194,8 +194,8 @@
           "financier"
         ],
         "education": [
-          "Harvard Business School",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -263,17 +263,17 @@
         ],
         "employers": [
           {
-            "company": "Barnes & Noble",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Electronic Arts",
             "start": null,
             "end": null
           },
           {
             "company": "Starbucks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Barnes & Noble",
             "start": null,
             "end": null
           }
@@ -293,29 +293,19 @@
         "birthPlace": "Milford",
         "image": null,
         "occupations": [
+          "publisher",
           "entrepreneur",
-          "business executive",
-          "publisher"
+          "business executive"
         ],
         "education": [
-          "New York University",
           "Yale School of Engineering and Applied Science",
           "Hopkins School",
+          "Yale University",
+          "New York University",
           "Johns Hopkins University",
-          "New York University Tandon School of Engineering",
-          "Yale University"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [
-          {
-            "company": "Bell Labs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Jerrold Electronics",
             "start": null,
@@ -328,6 +318,16 @@
           },
           {
             "company": "General Instrument",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bell Labs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
             "start": null,
             "end": null
           }
