@@ -5,8 +5,8 @@
   "birthPlace": "Haifa",
   "image": null,
   "occupations": [
-    "professor",
     "researcher",
+    "professor",
     "physician"
   ],
   "education": [
@@ -15,11 +15,6 @@
     "National Cancer Institute"
   ],
   "employers": [
-    {
-      "company": "Moderna",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Sanofi",
       "start": null,
@@ -32,6 +27,11 @@
     },
     {
       "company": "University of Pennsylvania",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Moderna",
       "start": null,
       "end": null
     }

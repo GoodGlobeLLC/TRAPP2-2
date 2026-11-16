@@ -13,19 +13,19 @@
     "inventor"
   ],
   "education": [
+    "Cornell University",
     "Massachusetts Institute of Technology",
     "The Milne School",
-    "Cornell University College of Engineering",
-    "Cornell University"
+    "Cornell University College of Engineering"
   ],
   "employers": [
     {
-      "company": "Massachusetts Institute of Technology",
+      "company": "Harvard University",
       "start": null,
       "end": null
     },
     {
-      "company": "Harvard University",
+      "company": "Massachusetts Institute of Technology",
       "start": null,
       "end": null
     }
