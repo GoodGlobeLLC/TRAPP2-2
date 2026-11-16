@@ -1,6 +1,6 @@
 {
   "ticker": "NDAQ",
-  "fetchedAt": "2026-11-09T16:00:33.182607Z",
+  "fetchedAt": "2026-11-16T15:39:12.142458Z",
   "people": [
     {
       "qid": "Q17003309",
@@ -17,10 +17,10 @@
           "executive"
         ],
         "education": [
-          "Owen Graduate School of Management",
-          "Roland Park Country School",
           "Williams College",
-          "Vanderbilt University"
+          "Vanderbilt University",
+          "Owen Graduate School of Management",
+          "Roland Park Country School"
         ],
         "employers": [
           {

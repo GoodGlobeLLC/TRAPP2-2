@@ -1,6 +1,6 @@
 {
   "ticker": "U",
-  "fetchedAt": "2026-11-09T16:00:33.198700Z",
+  "fetchedAt": "2026-11-16T15:39:12.160879Z",
   "people": [
     {
       "qid": "Q5300803",
@@ -53,9 +53,9 @@
           "business executive"
         ],
         "education": [
+          "Lakeview Centennial High School",
           "United States Air Force Academy",
-          "George Washington University",
-          "Lakeview Centennial High School"
+          "George Washington University"
         ],
         "employers": [
           {
