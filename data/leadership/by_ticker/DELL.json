@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "fetchedAt": "2026-11-16T12:30:50.304418Z",
+  "fetchedAt": "2026-11-23T14:03:56.069345Z",
   "people": [
     {
       "qid": "Q218630",
@@ -15,12 +15,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "financier",
-          "investor",
           "philanthropist",
+          "investor",
           "chief executive officer",
-          "businessperson",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Memorial High School",
@@ -113,12 +113,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "financier",
-          "investor",
           "philanthropist",
+          "investor",
           "chief executive officer",
-          "businessperson",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Memorial High School",
@@ -170,8 +170,8 @@
         "birthPlace": "L\u00fcbeck",
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Georgetown University"
@@ -195,8 +195,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -214,8 +214,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -266,12 +266,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Dell%202010.jpg",
         "occupations": [
           "financier",
-          "investor",
           "philanthropist",
+          "investor",
           "chief executive officer",
-          "businessperson",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Memorial High School",

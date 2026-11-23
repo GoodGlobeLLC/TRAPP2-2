@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "fetchedAt": "2026-11-16T12:30:50.292883Z",
+  "fetchedAt": "2026-11-23T14:03:56.052074Z",
   "people": [
     {
       "qid": "Q16194777",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -55,17 +55,17 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "financier",
           "art collector",
           "investment banker",
-          "financier",
           "businessperson",
           "investor"
         ],
         "education": [
-          "Harvard Business School",
           "Dartmouth College",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -82,6 +82,12 @@
         ],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
+            "end": "2021-01-01"
+          },
+          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -91,12 +97,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]
@@ -114,8 +114,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "John F. Kennedy High School",
@@ -155,8 +155,8 @@
         "birthPlace": "Washington, D.C.",
         "image": null,
         "occupations": [
-          "financier",
           "businessperson",
+          "financier",
           "investment banker"
         ],
         "education": [
@@ -191,8 +191,9 @@
         "birthPlace": "Chevy Chase",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20Harris%20WAS-NYG%20NOV2023%20%28cropped%29.jpg",
         "occupations": [
-          "sports team owner",
-          "investor"
+          "economist",
+          "investor",
+          "sports team owner"
         ],
         "education": [
           "The Wharton School",
@@ -236,17 +237,17 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "financier",
           "art collector",
           "investment banker",
-          "financier",
           "businessperson",
           "investor"
         ],
         "education": [
-          "Harvard Business School",
           "Dartmouth College",
           "Van High School",
           "Ethical Culture Fieldston School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -263,6 +264,12 @@
         ],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1990-01-01",
+            "end": "2021-01-01"
+          },
+          {
             "title": "trustee",
             "company": null,
             "start": null,
@@ -272,12 +279,6 @@
             "title": "chairperson",
             "company": null,
             "start": "2018-01-01",
-            "end": "2021-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1990-01-01",
             "end": "2021-01-01"
           }
         ]

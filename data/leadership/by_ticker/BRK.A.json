@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.A",
-  "fetchedAt": "2026-11-16T12:30:50.297271Z",
+  "fetchedAt": "2026-11-23T14:03:56.058571Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -61,10 +61,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
-          "photographer",
           "entrepreneur",
           "farmer",
-          "writer"
+          "writer",
+          "photographer"
         ],
         "education": [
           "Harvard University"
@@ -150,13 +150,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
+          "Colgate University",
           "Harvard Business School",
-          "Harvard University",
-          "Colgate University"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -236,11 +236,11 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "venture capitalist",
           "chief executive officer",
-          "lawyer",
+          "venture capitalist",
           "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "lawyer"
         ],
         "education": [
           "The Waldorf School of Garden City",
@@ -499,21 +499,21 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20at%20the%202015%20SelectUSA%20Investment%20Summit.jpg",
         "occupations": [
-          "chief executive officer",
-          "shareholder",
-          "broker-dealer",
           "financier",
           "investor",
+          "broker-dealer",
+          "chief executive officer",
+          "shareholder",
           "entrepreneur",
           "economist"
         ],
         "education": [
-          "University of Pennsylvania",
-          "The Wharton School",
-          "Columbia Business School",
           "New York Institute of Finance",
           "Jackson-Reed High School",
-          "University of Nebraska\u2013Lincoln"
+          "University of Nebraska\u2013Lincoln",
+          "The Wharton School",
+          "Columbia Business School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -568,10 +568,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
-          "photographer",
           "entrepreneur",
           "farmer",
-          "writer"
+          "writer",
+          "photographer"
         ],
         "education": [
           "Harvard University"
@@ -609,8 +609,8 @@
         ],
         "education": [
           "Harvard University",
-          "Harvard Business School",
-          "Indian Institute of Technology Kharagpur"
+          "Indian Institute of Technology Kharagpur",
+          "Harvard Business School"
         ],
         "employers": [
           {

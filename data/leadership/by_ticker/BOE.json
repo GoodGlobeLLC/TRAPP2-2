@@ -1,6 +1,6 @@
 {
   "ticker": "BOE",
-  "fetchedAt": "2026-11-16T12:30:50.296640Z",
+  "fetchedAt": "2026-11-23T14:03:56.057692Z",
   "people": [
     {
       "qid": "Q109767256",
@@ -154,8 +154,8 @@
         "image": null,
         "occupations": [
           "merchant",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Miami University"
@@ -369,8 +369,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Xavier University",
@@ -392,8 +392,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Virginia Tech"
